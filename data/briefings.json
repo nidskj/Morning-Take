@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2026-08-11",
+    "date": "2026-08-11",
+    "market_snapshot": "FTSE 100 +0.3% · S&P 500 -0.2% · 10Y Gilt yield 4.21% · Brent Crude $71.40 · GBP/USD 1.272",
+    "stories": [
+      {
+        "headline": "The Bank of England kept interest rates the same",
+        "simple": "The Bank of England decided not to change interest rates, because prices are still rising a bit too fast in some parts of the economy, even though jobs are getting harder to find.",
+        "interview_line": "The BoE is prioritising inflation control over growth support, which keeps borrowing more expensive for now.",
+        "detail": [
+          "The MPC (Monetary Policy Committee, the group of 9 people who set UK interest rates) voted 6-3 to hold the base rate at 4.00%.",
+          "They held because services inflation is 'sticky' - meaning prices for things like haircuts and restaurants are still rising fast, even though the wider economy is slowing.",
+          "For banks, higher-for-longer rates keep leveraged loan pricing (the interest rate charged on debt used to fund acquisitions) elevated, which pressures LBO (leveraged buyout - buying a company mostly with borrowed money) returns.",
+          "This can push sponsors (private equity firms) toward more equity-heavy deal structures instead of loading deals with debt."
+        ],
+        "tags": ["rates", "macro", "uk"]
+      },
+      {
+        "headline": "Shell might buy a US oil and gas company",
+        "simple": "Shell is thinking about buying an American company that drills for oil and gas, instead of finding and drilling new oil fields itself. Big energy companies are increasingly buying growth rather than building it.",
+        "interview_line": "This fits the broader 2026 energy M&A theme of majors buying production growth rather than drilling for it organically.",
+        "detail": [
+          "Shell is reportedly evaluating an all-cash offer for a mid-cap operator in the Permian Basin (a major US oil-producing region spanning Texas and New Mexico).",
+          "This is part of a wider consolidation trend among energy 'majors' (the largest global oil companies, like Shell, BP, ExxonMobil).",
+          "Majors are prioritising scale and lower per-barrel production costs over exploration risk - i.e. buying proven, cheaper-to-run assets instead of gambling on finding new oil.",
+          "For an M&A team, this signals active dealflow (the volume of deals being worked on) and potential comparable transactions (similar past deals used to value a new one) in the energy sector."
+        ],
+        "tags": ["m&a", "energy"]
+      },
+      {
+        "headline": "A US bank is losing money on office buildings",
+        "simple": "A mid-sized American bank said it's losing more money than expected on loans it gave out for office buildings, because fewer companies need as much office space as before.",
+        "interview_line": "It's a reminder that the commercial real estate correction is still working through regional bank balance sheets, years on.",
+        "detail": [
+          "The lender flagged higher loan-loss provisions (money set aside to cover loans that might not get repaid) tied specifically to its office-sector exposure.",
+          "This renews scrutiny of regional bank balance sheets more broadly - meaning investors are worried other similar banks might have the same problem.",
+          "It could tighten credit conditions (make it harder/costlier to borrow) for real estate financing across the sector.",
+          "Relevant context if you're asked about real estate finance or leveraged lending in an interview - this is a live, ongoing risk, not old news."
+        ],
+        "tags": ["credit", "real-estate", "banking"]
+      }
+    ],
+    "ibd_relevance": [
+      "Elevated UK rates keep sponsor-backed LBO financing expensive, favouring equity-heavy deal structures over leverage.",
+      "Energy consolidation (Shell/shale) signals active dealflow for coverage teams in the sector.",
+      "Regional bank credit stress is a live risk factor in real estate financing and syndicated loan books."
+    ],
+    "left_field_question": "If the Bank of England cuts rates twice more this year, what happens to UK LBO structuring versus US private equity deals?",
+    "left_field_answer": "Lower UK rates make sterling debt cheaper, so UK sponsors could re-lever deals more aggressively and lean back on debt-funded structures. In the US, rate paths often diverge from the UK's, so if US rates stay higher for longer, US deals may keep favouring equity-heavy structures - meaning UK and US LBOs could start to look structurally different for a while, which affects everything from IRR targets to how deals are marketed to LPs."
+  }
+]

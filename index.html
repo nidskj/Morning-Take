@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Morning Take — Commercial Awareness Briefing</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="masthead">
+    <div class="masthead-top">
+      <h1 class="masthead-title">The Morning <span class="accent">Take</span></h1>
+      <div class="masthead-date" id="header-date"></div>
+    </div>
+    <div class="masthead-sub">Daily commercial awareness · Sourced from the FT · Built for interview recall</div>
+  </header>
+
+  <div class="layout">
+    <main class="main-col" id="main-briefing">
+      <p class="empty-note">Loading today's briefing…</p>
+    </main>
+
+    <aside class="side-col">
+      <p class="eyebrow">Archive</p>
+      <div class="archive-controls">
+        <input type="text" id="search" placeholder="Search headlines or date…">
+        <select id="sort">
+          <option value="newest">Newest first</option>
+          <option value="oldest">Oldest first</option>
+        </select>
+      </div>
+      <div id="archive-list"></div>
+    </aside>
+  </div>
+
+  <footer class="footer">
+    THE MORNING TAKE — GENERATED DAILY — NOT AFFILIATED WITH THE FINANCIAL TIMES
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
