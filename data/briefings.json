@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-08-12",
+    "date": "2026-08-12",
+    "market_snapshot": "S&P 500 +0.26% to 7,748.50 · Nasdaq +0.54% to 26,588.49 · 10Y Treasury yield 4.68% · WTI crude ~$83/bbl · EUR/USD ~1.10",
+    "stories": [
+      {
+        "headline": "US inflation cooled again, keeping a Fed rate cut on track",
+        "simple": "Prices in the US grew a bit more slowly last month than feared. That makes it more likely the central bank will cut interest rates soon, which usually makes borrowing cheaper for everyone.",
+        "interview_line": "Cooler-than-expected US inflation this week keeps the Fed on track to cut rates at its next meeting, and markets are now debating how big the cut will be.",
+        "detail": [
+          "July's CPI (Consumer Price Index, a monthly measure of how fast prices for everyday goods and services are rising) came in at 3.4% year-on-year, in line with forecasts.",
+          "Traders are now pricing in a rate cut from the Federal Reserve (the US central bank) at its next meeting, with some betting on a larger 50 basis point (0.50 percentage point) move instead of the usual 25.",
+          "The 10-year Treasury yield (the interest rate the US government pays to borrow for 10 years, a benchmark for mortgage and corporate loan pricing) eased to around 4.68% on the news.",
+          "The S&P 500 and Nasdaq both edged higher, as lower expected rates tend to lift stock valuations, especially for growth and tech names."
+        ],
+        "tags": ["rates", "macro"]
+      },
+      {
+        "headline": "Oil stays pricey as US-Iran talks over a key shipping route drag on",
+        "simple": "Iran and the US are negotiating over a narrow sea passage that a huge share of the world's oil sails through. Talks are close but not finished, so oil prices are staying higher than normal.",
+        "interview_line": "Ongoing US-Iran negotiations over the Strait of Hormuz are keeping oil prices elevated, with crude trading around $83 a barrel.",
+        "detail": [
+          "The Strait of Hormuz (a narrow waterway between Iran and Oman that carries roughly a fifth of the world's oil supply) has been a flashpoint, with Iran demanding compensation from the US as a condition of fully reopening it.",
+          "Oman is mediating talks between Washington and Tehran; both sides call progress 'positive' but no final deal has been signed.",
+          "Crude oil (priced via benchmarks like WTI and Brent) remains elevated around $83 a barrel on the supply-risk premium markets are pricing in.",
+          "A prolonged disruption would sharply raise energy costs worldwide, complicating the inflation picture central banks are trying to bring down."
+        ],
+        "tags": ["energy", "geopolitics"]
+      },
+      {
+        "headline": "AI infrastructure spending is still driving markets, but not every tech stock is winning",
+        "simple": "Companies that build the data centres and hardware behind AI reported very strong results, and their shares jumped. But some other tech companies are struggling, so investors are getting choosier.",
+        "interview_line": "Strong earnings from AI infrastructure players like CoreWeave and Super Micro show the AI capex boom still has real momentum, even as software names lag.",
+        "detail": [
+          "CoreWeave (a cloud computing firm that rents out AI computing power) rose 18% after raising its capex (capital expenditure, money spent building physical infrastructure like data centres) forecast and beating quarterly results.",
+          "Super Micro Computer, a maker of servers used in AI data centres, jumped 9% on strong guidance, reinforcing the trend.",
+          "By contrast, Workday, an enterprise software company, fell 4% amid a broader rotation out of software stocks ahead of its own earnings.",
+          "The split shows a market still rewarding AI infrastructure spending heavily while turning more cautious on software subscription businesses."
+        ],
+        "tags": ["tech", "ai"]
+      }
+    ],
+    "ibd_relevance": [
+      "Growing rate-cut conviction improves financing conditions for leveraged deals and bond issuance, which could reopen the LBO and refinancing pipeline.",
+      "Elevated oil prices and Hormuz risk raise hedging and financing demand from energy and shipping clients, and could revive interest in energy sector M&A.",
+      "Sustained AI capex strength keeps tech and data-centre infrastructure M&A and IPO pipelines active, while cooling software valuations could dent advisory fees in that sub-sector."
+    ],
+    "left_field_question": "If the Strait of Hormuz shuts down for a month, what happens to global inflation and interest rates?",
+    "left_field_answer": "A month-long closure would spike oil prices sharply since roughly a fifth of the world's crude passes through it daily, feeding straight into transport and energy costs. That would likely reverse the recent cooling in inflation data, forcing central banks like the Fed to pause or reverse planned rate cuts even as growth slows - a stagflationary bind."
+  },
+  {
     "id": "2026-08-11",
     "date": "2026-08-11",
     "market_snapshot": "FTSE 100 +0.3% · S&P 500 -0.2% · 10Y Gilt yield 4.21% · Brent Crude $71.40 · GBP/USD 1.272",
