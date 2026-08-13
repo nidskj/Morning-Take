@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-08-13",
+    "date": "2026-08-13",
+    "market_snapshot": "S&P 500 near record highs (~7,750) · 10Y Treasury yield ~4.68% · WTI crude ~$82/bbl · EUR/USD ~1.10",
+    "stories": [
+      {
+        "headline": "Wendy's could be bought out and taken off the stock market",
+        "simple": "Billionaire investor Nelson Peltz is putting together a group of investors to buy Wendy's and turn it back into a private company, after the burger chain's sales fell sharply this year.",
+        "interview_line": "Nelson Peltz's Trian is assembling a consortium to take Wendy's private, following a rough quarter for the chain.",
+        "detail": [
+          "Trian Fund Management, the activist investor (an investor that buys a stake in a company specifically to push for changes to its strategy or management) run by Nelson Peltz, already owns a combined stake of over 24% in Wendy's.",
+          "The bid consortium (a group of investors pooling money to jointly fund one takeover) could include BlueFive Capital, an Abu Dhabi-based fund, and Flynn Group, Wendy's largest franchisee (a company licensed to operate branded restaurants on the owner's behalf).",
+          "Wendy's shares jumped as much as 15% and were briefly halted for volatility (a temporary trading pause triggered when a stock's price swings too fast) after the report broke.",
+          "The approach follows a brutal Q2 for Wendy's, which withdrew its full-year guidance (a company's own forecast of its future results) and halved its dividend after same-restaurant sales fell 7%."
+        ],
+        "tags": ["m&a", "consumer"]
+      },
+      {
+        "headline": "Fast-fashion giant Shein is going public at a much lower price than expected",
+        "simple": "Shein, the online clothing retailer, is about to sell shares to investors in Hong Kong - but at a price that values the company at less than a third of what it was worth a few years ago.",
+        "interview_line": "Shein's Hong Kong IPO is being pitched at under $30bn, down from a $100bn+ peak valuation four years ago.",
+        "detail": [
+          "Shein's advisers are marketing the IPO (initial public offering, the first sale of a company's shares to public investors) at a valuation below $30bn, versus over $100bn in a 2022 private funding round.",
+          "Some investors have pushed back further, reportedly bidding for shares that would value the company at just $25bn-$29bn.",
+          "The steep valuation cut - roughly 70% - reflects investor caution over tariffs, slowing consumer spending, and regulatory scrutiny of Shein's low-cost, fast-turnaround supply chain.",
+          "If demand stays weak, Shein may need to lean on its existing private backers again rather than complete the float at its target price."
+        ],
+        "tags": ["ipo", "consumer"]
+      },
+      {
+        "headline": "The Federal Reserve now looks unlikely to cut interest rates at all this year",
+        "simple": "America's central bank had been expected to make borrowing cheaper this year, but it's now signalling rates could stay high, or even rise, because it's still worried about inflation.",
+        "interview_line": "The Fed's tone has turned hawkish, with markets now pricing in zero rate cuts in 2026 and even some chance of a hike.",
+        "detail": [
+          "Fed Chair Kevin Warsh has struck a 'higher-for-longer' tone (keeping interest rates elevated for an extended period), with the Fed funds rate held at 3.50%-3.75% since July.",
+          "Markets are now pricing roughly an 89% chance of zero rate cuts (a reduction in the central bank's benchmark interest rate) for the rest of 2026, a sharp reversal from expectations at the start of the year.",
+          "Fed funds futures (contracts traders use to bet on where interest rates will be in future) are pricing rates near 4% by year-end, implying markets now see a hike as more likely than a cut.",
+          "Higher-for-longer rates keep borrowing costs elevated for leveraged deals and mortgages, and tend to support the dollar while pressuring rate-sensitive stocks like tech and real estate."
+        ],
+        "tags": ["rates", "macro"]
+      }
+    ],
+    "ibd_relevance": [
+      "A hawkish Fed pivot keeps leveraged loan and high-yield bond pricing expensive, squeezing LBO returns and pushing sponsors toward equity-heavy structures.",
+      "The Wendy's take-private approach signals fresh consortium-style M&A activity in consumer/restaurants, with financing likely to blend sponsor equity, franchisee capital and Gulf-linked funds.",
+      "A deep valuation cut on Shein's IPO is a live comp for ECM (equity capital markets) teams pricing other consumer/retail listings, and a reminder that large 2026 IPOs are clearing well below prior private marks."
+    ],
+    "left_field_question": "If the Fed doesn't cut rates at all this year, what happens to all the LBOs that were underwritten assuming lower rates were coming?",
+    "left_field_answer": "Deals priced on the assumption of falling rates would see financing costs come in higher than modelled, squeezing returns and possibly forcing renegotiation of debt terms or purchase price. Sponsors would likely lean harder into equity-heavy structures, delay exits, or hunt for cost cuts to protect returns, and some marginal deals in the pipeline could get shelved altogether."
+  },
+  {
     "id": "2026-08-12",
     "date": "2026-08-12",
     "market_snapshot": "S&P 500 +0.26% to 7,748.50 · Nasdaq +0.54% to 26,588.49 · 10Y Treasury yield 4.68% · WTI crude ~$83/bbl · EUR/USD ~1.10",
