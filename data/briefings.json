@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-08-14",
+    "date": "2026-08-14",
+    "market_snapshot": "S&P 500 +0.65% to record 7,798.99 · 10Y Treasury yield 4.65% · WTI crude ~$80/bbl · Gold ~$4,400/oz (+8% in 2wks)",
+    "stories": [
+      {
+        "headline": "US and Canada race to strike a trade deal before new tariffs hit",
+        "simple": "The US is threatening a big new tax on Canadian goods starting next week unless the two countries make a deal. Canada's top trade negotiator is in Washington trying to stop it.",
+        "interview_line": "Washington and Ottawa are racing to strike a deal before 50% tariffs on Canadian goods take effect August 19.",
+        "detail": [
+          "The US plans 50% tariffs (tariffs [taxes charged on imported goods]) on a range of Canadian goods from August 19, with no carve-out under CUSMA (the US-Mexico-Canada trade deal that replaced NAFTA).",
+          "The dispute traces back to provincial bans on US liquor, Canada's dairy quota system, and limits on US vehicle imports.",
+          "Canada's trade minister Dominic LeBlanc is in Washington seeking a last-minute agreement before the deadline.",
+          "Separately, a US trade court upheld the removal of the 'de minimis' exemption (the rule that let parcels worth under $800 enter the US tariff-free), keeping duties on low-cost imports like fast-fashion parcels."
+        ],
+        "tags": ["trade", "tariffs"]
+      },
+      {
+        "headline": "AI chipmakers post wildly different results in the same week",
+        "simple": "Some companies making chips for AI are soaring on strong results, while others are sinking - even though demand for AI computing keeps growing overall.",
+        "interview_line": "This week's AI chip earnings show investors rewarding predictable scale and punishing single-product bets, even when demand is strong.",
+        "detail": [
+          "Cerebras Systems (a specialist AI chip [a computer processor built for artificial intelligence workloads] maker) beat on earnings and raised full-year guidance to $880m-$890m, but shares still fell over 14% on signs of 'lumpy' (uneven, unpredictable) hardware demand.",
+          "Super Micro Computer, a server maker for AI data centres, rallied more than 7% on stronger-than-expected guidance.",
+          "South Korea's Samsung and SK Hynix are each up over 14% this week as AI memory chip demand lifts Asian tech stocks.",
+          "The split shows investors growing choosier about which AI infrastructure bets to back, even as overall AI capex (capital expenditure [money spent on physical infrastructure like chips and data centres]) keeps climbing."
+        ],
+        "tags": ["tech", "semis", "earnings"]
+      },
+      {
+        "headline": "Gold is surging as investors bet the Fed won't raise rates after all",
+        "simple": "The price of gold has jumped sharply in the last two weeks. Investors had been worried US interest rates might go up, but weaker jobs data is easing those fears, so they're buying gold instead.",
+        "interview_line": "Gold's roughly 8% rally over two weeks reflects investors paring back bets on a Fed rate hike after softer jobs data.",
+        "detail": [
+          "Gold (a traditional safe-haven asset [an investment that tends to hold or gain value when markets get nervous]) is trading around $4,400 an ounce, up about 8% in under two weeks.",
+          "The rally follows a disappointing US jobs report that led traders to pare back expectations the Fed might raise rates, a shift from the more hawkish tone (leaning toward keeping or raising rates) struck by the Fed earlier this month.",
+          "A weaker dollar has also supported gold, since a softer greenback (a nickname for the US dollar) makes dollar-priced gold cheaper for foreign buyers.",
+          "Gold remains well off its January 2026 record above $5,300/oz, having fallen sharply before this recent rebound."
+        ],
+        "tags": ["rates", "commodities", "fx"]
+      }
+    ],
+    "ibd_relevance": [
+      "Tariff uncertainty ahead of the Aug 19 deadline complicates cross-border financing and M&A for autos, dairy and consumer sectors exposed to Canada.",
+      "Diverging AI chip earnings sharpen diligence on AI infrastructure deals - single-product hardware plays now face tougher scrutiny than diversified scale players.",
+      "Gold's rally and easing rate-hike fears offer a small reprieve for financing conditions, though leveraged deal pricing stays expensive while the Fed's path remains unsettled."
+    ],
+    "left_field_question": "If the US and Canada don't reach a deal by August 19, which sectors get hit hardest and why?",
+    "left_field_answer": "Autos, dairy and alcohol would take the brunt of it, since those are the sectors at the heart of the dispute - US carmakers reliant on Canadian parts, Canadian dairy quotas, and provincial bans on US liquor. With no CUSMA exemption this time, cross-border supply chains in those industries would face real cost pressure almost overnight, likely triggering retaliatory measures from Canada too."
+  },
+  {
     "id": "2026-08-13",
     "date": "2026-08-13",
     "market_snapshot": "S&P 500 near record highs (~7,750) · 10Y Treasury yield ~4.68% · WTI crude ~$82/bbl · EUR/USD ~1.10",
