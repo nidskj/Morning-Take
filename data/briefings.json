@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-08-17",
+    "date": "2026-08-17",
+    "market_snapshot": "S&P 500 -0.17% to 7,785.76 (3rd straight weekly gain) · 10Y Treasury yield 4.68% · WTI crude ~$82.40/bbl (+5% this week) · Dollar index (DXY) ~99.6, near 2-month low",
+    "stories": [
+      {
+        "headline": "Nvidia is lining up $500bn from Wall Street to fund the AI building boom",
+        "simple": "Nvidia has teamed up with big banks and investment firms to raise $500 billion so companies can afford to build the huge data centres AI needs.",
+        "interview_line": "Nvidia is working with Wall Street's biggest names to mobilise $500bn in financing for AI data centres, treating AI chips like a brand new asset class.",
+        "detail": [
+          "Nvidia is partnering with major asset managers and banks - including Apollo Global Management, Blackstone, BlackRock, Brookfield Asset Management, Goldman Sachs and KKR - to mobilise over $500bn in third-party financing (money raised from outside investors rather than a company's own cash) for AI data centres.",
+          "The plan treats AI computing infrastructure (the chips, servers and data centres AI runs on) like a new asset class, similar to how investors already lend against toll roads or commercial real estate.",
+          "The financing will mostly be debt (borrowed money that has to be repaid, unlike equity), giving hyperscalers (the largest cloud computing firms, like Microsoft, Amazon and Google) and AI labs a way to buy Nvidia hardware without spending all their own cash.",
+          "Some investors are nervous the scheme could be artificially inflating demand for AI chips by making it easier to borrow for speculative builds, raising the stakes if AI usage disappoints."
+        ],
+        "tags": ["ai", "financing", "banking"]
+      },
+      {
+        "headline": "AMD and Intel just raised tens of billions to keep up in the AI chip race",
+        "simple": "AMD borrowed nearly $5 billion by selling bonds, and Intel raised about $23 billion by selling new shares - both to help pay for building AI chips and factories.",
+        "interview_line": "AMD tapped the bond market for $4.75bn and Intel raised $23bn in a share sale, showing how much capital chipmakers need to fund the AI buildout.",
+        "detail": [
+          "AMD sold $4.75bn of senior notes (a type of corporate bond [a loan investors make to a company, repaid with interest] that gets repaid before other debt if the company runs into trouble) across four tranches maturing between 2029 and 2036, yielding 4.64% to 5.53%.",
+          "Intel completed a $23bn equity sale (issuing new shares to raise cash) after underwriters exercised their over-allotment option in full, lifting Intel's share count by roughly 4.8% and diluting existing shareholders.",
+          "Both chipmakers are racing to fund AI-related capex (capital expenditure [spending on physical assets like factories and equipment]) without relying solely on their own operating cash flow.",
+          "The back-to-back raises show credit and equity investors are still willing to fund the AI buildout at scale, even as some worry about how quickly that spending will pay off."
+        ],
+        "tags": ["semis", "credit", "equity"]
+      },
+      {
+        "headline": "Reddit is about to join Wall Street's most-watched stock index",
+        "simple": "Reddit will be added to the S&P 500 tomorrow morning, so index funds holding trillions of dollars will now automatically have to buy its shares.",
+        "interview_line": "Reddit joins the S&P 500 at Tuesday's open, forcing index funds to buy roughly $3bn of stock and becoming only the second major social media name in the index after Meta.",
+        "detail": [
+          "S&P Dow Jones Indices announced Reddit will join the S&P 500 (the benchmark index tracking America's 500 largest public companies) before Tuesday's market open, replacing AvalonBay Communities after its acquisition by Equity Residential.",
+          "JPMorgan estimates index funds (funds that passively replicate an index rather than picking stocks) will need to buy about 16.7 million Reddit shares - roughly $2.9bn - to match the new weighting.",
+          "Reddit becomes only the second major social media company in the S&P 500 after Meta, with a market cap (the total value of a company's shares) of about $29.5bn.",
+          "Reddit shares have already surged more than 10% since the announcement, as investors front-run the mechanical buying (trading ahead of a known, scheduled flow of demand) from index funds."
+        ],
+        "tags": ["equities", "tech", "indices"]
+      }
+    ],
+    "ibd_relevance": [
+      "Nvidia's $500bn financing framework opens a huge new pipeline of structured debt and asset-backed deals for banks and private credit funds covering AI infrastructure.",
+      "AMD's bond sale and Intel's equity raise show DCM and ECM desks staying busy funding the chip sector's AI capex race, even as investors start pricing in demand risk.",
+      "Reddit's index inclusion, triggered by the Equity Residential/AvalonBay deal, is a reminder that M&A reshapes index membership and can create knock-on trading and advisory opportunities around passive-flow events."
+    ],
+    "left_field_question": "If Nvidia's plan to finance AI data centres like toll roads goes wrong, who's left holding the bag?",
+    "left_field_answer": "The lenders and asset managers who put up the $500bn in debt would take the first hit if AI compute demand doesn't show up as promised - not Nvidia itself, since it's mostly financing customers' purchases of its own chips. That's the same structural risk seen in past infrastructure booms: if the underlying asset becomes stranded or over-built, the debt backing it gets downgraded or restructured, and it's private credit funds and their investors, not the chipmaker, who eat the losses."
+  },
+  {
     "id": "2026-08-14",
     "date": "2026-08-14",
     "market_snapshot": "S&P 500 +0.65% to record 7,798.99 · 10Y Treasury yield 4.65% · WTI crude ~$80/bbl · Gold ~$4,400/oz (+8% in 2wks)",
