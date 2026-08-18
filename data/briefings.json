@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-08-18",
+    "date": "2026-08-18",
+    "market_snapshot": "US futures lower (S&P -0.3%, Nasdaq -0.6%) after Asia sold off (Nikkei -2.5%, Kospi -1.6%) · 10Y Treasury yield ~4.69% · WTI crude ~$85/bbl (Iran tensions) · Dollar index ~99.8",
+    "stories": [
+      {
+        "headline": "Middle East tensions flare again, pushing oil and market jitters higher",
+        "simple": "Fighting in Lebanon flared up again and the US signalled it's in no rush to renew a deal with Iran over a key oil shipping route. That's made investors nervous and pushed oil prices up.",
+        "interview_line": "Renewed fighting near Lebanon and stalled US-Iran talks over the Strait of Hormuz pushed oil higher and rattled stocks and bond yields on Monday.",
+        "detail": [
+          "Fighting flared anew in Lebanon and President Trump said he wasn't interested in extending the expiring US-Iran agreement covering the Strait of Hormuz (the narrow waterway between Iran and Oman that carries roughly a fifth of the world's oil supply), reviving fears of disrupted tanker traffic.",
+          "WTI crude (West Texas Intermediate, the main US oil price benchmark) rose to around $85 a barrel as the renewed uncertainty added a geopolitical risk premium (extra price built in to compensate for the chance of supply disruption) back into oil markets.",
+          "US stock futures fell and Asia-Pacific markets sold off sharply - Japan's Nikkei 225 down over 2.5% and South Korea's Kospi down more than 1.5% - as investors rotated away from risk assets.",
+          "Treasury yields (the interest rate the US government pays to borrow, a benchmark for corporate and mortgage lending) ticked higher, reflecting both the inflationary pull of pricier oil and reduced expectations of a near-term de-escalation."
+        ],
+        "tags": ["energy", "geopolitics", "rates"]
+      },
+      {
+        "headline": "Nike's shares hit a fresh multi-year low as China sales keep sliding",
+        "simple": "Nike's stock fell to its lowest price in years because it's losing customers in China to cheaper local brands. Nike is now shaking up how it sells online there to try to fix it.",
+        "interview_line": "Nike shares hit a fresh 52-week low as persistent China weakness overshadows an otherwise improving US wholesale business.",
+        "detail": [
+          "Nike shares fell roughly 3% to a fresh 52-week low, extending a decline of almost 40% so far this year, as China revenue weakness continued to outweigh a rebound in its US wholesale business (sales through third-party retailers rather than Nike's own stores).",
+          "Nike is cutting back the number of authorised online distributors (third-party sellers permitted to list Nike products) in China as part of a turnaround plan meant to tighten control over pricing and brand image there.",
+          "Local rivals Anta Sports and Li-Ning, along with US challenger brands On and Hoka, continue to take share in the premium running category, with Nike's Greater China revenue down double digits year-on-year.",
+          "The stock's slide highlights how a strong home-market recovery isn't enough to offset structural share loss abroad, a pattern investors are watching closely across other US consumer brands exposed to China."
+        ],
+        "tags": ["consumer", "retail", "china"]
+      },
+      {
+        "headline": "Stripe is buying an AI 'traffic router' for more than $7 billion",
+        "simple": "Payments giant Stripe is buying a startup called OpenRouter that helps businesses pick and pay for the best AI model to use. It's a bet that whoever controls the AI 'plumbing' can also control the billing.",
+        "interview_line": "Stripe's $7bn+ purchase of OpenRouter shows payments companies racing to own the infrastructure layer that routes and bills for AI usage.",
+        "detail": [
+          "Stripe has agreed to acquire OpenRouter, a gateway (a service that sits between developers and AI providers, directing requests to the best-fit model) that routes developer requests across more than 400 AI models, for over $7bn.",
+          "The price is more than five times OpenRouter's $1.3bn valuation from a funding round just three months ago, though it's about 30% below the roughly $10bn figure first reported in July.",
+          "It follows Stripe's earlier purchase of Metronome, a usage-based billing platform (software that tracks and invoices customers by how much of a service they consume) built for AI companies, extending Stripe's push into the 'plumbing' behind AI products.",
+          "The deal signals consolidation in AI infrastructure moving up the stack - from chips and data centres toward the software layer that meters, routes and bills for AI usage - a theme increasingly relevant to tech M&A and financing."
+        ],
+        "tags": ["m&a", "tech", "ai"]
+      }
+    ],
+    "ibd_relevance": [
+      "Renewed Middle East tension and higher oil raise financing costs and could delay energy sector deals, while reviving hedging demand for oil-exposed corporates.",
+      "Nike's continued China erosion is a live diligence flag for consumer/retail coverage teams valuing comparable US brands with China exposure.",
+      "Stripe's OpenRouter deal is a fresh comp for tech bankers pricing AI-infrastructure M&A, and signals fintech players competing directly with cloud/chip players for the AI 'plumbing' layer."
+    ],
+    "left_field_question": "If Stripe now controls both the routing and billing layer for AI usage, does that make it more like a bank or more like a cloud provider?",
+    "left_field_answer": "It's really neither - it's becoming a toll booth. By sitting between developers and the AI models they use, Stripe can see and monetise every transaction without owning the underlying compute or holding deposits like a bank. That gives it an asset-light, high-margin position similar to a payment network's, but for AI usage instead of card swipes - which is exactly why competitors from cloud providers to card networks will want a piece of that layer."
+  },
+  {
     "id": "2026-08-17",
     "date": "2026-08-17",
     "market_snapshot": "S&P 500 -0.17% to 7,785.76 (3rd straight weekly gain) · 10Y Treasury yield 4.68% · WTI crude ~$82.40/bbl (+5% this week) · Dollar index (DXY) ~99.6, near 2-month low",
