@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-08-19",
+    "date": "2026-08-19",
+    "market_snapshot": "S&P 500 -0.54% to 7,703 (3rd straight losing session) · 30Y Treasury yield ~5.33% (19-year high) · Brent crude ~$92/bbl (4th straight daily gain) · Kospi -6.8%, Samsung/SK Hynix -8%+",
+    "stories": [
+      {
+        "headline": "Long-term US borrowing costs hit their highest level in almost 20 years",
+        "simple": "The interest rate on the US government's longest-term debt jumped to its highest point since 2007. That makes it pricier for governments, companies and homebuyers to borrow.",
+        "interview_line": "The 30-year Treasury yield hit a 19-year high this week as investors demand more to fund a widening US deficit and stubborn inflation.",
+        "detail": [
+          "The 30-year Treasury yield (the interest rate on the US government's longest-dated bond, a benchmark for very long-term borrowing) topped 5.33%, its highest since 2007, as a broader global bond selloff (investors selling bonds, which pushes yields up) gathered pace.",
+          "The move is being driven by a widening US fiscal deficit (the gap between what the government spends and collects in tax) - July's shortfall was the largest since 2021 - with national debt approaching $40 trillion.",
+          "A wave of corporate bond issuance (companies selling debt to raise cash), roughly $1.7 trillion so far, is competing with Treasuries for investor demand, adding further upward pressure on yields.",
+          "New Fed chair Kevin Warsh has taken a more unpredictable communication style than his predecessors, and traders are now roughly split on whether the Fed's next move is a hike rather than a cut - a sharp reversal from expectations earlier this year."
+        ],
+        "tags": ["rates", "credit", "macro"]
+      },
+      {
+        "headline": "AI chip stocks just had their worst day in weeks as borrowing costs bite",
+        "simple": "Shares in the world's biggest memory chip makers crashed more than 8% in a single day. Investors are getting nervous that the huge cost of building AI computing power looks riskier now that borrowing money is more expensive.",
+        "interview_line": "Samsung and SK Hynix each fell over 8% as rising bond yields triggered a broad unwind of the AI infrastructure trade.",
+        "detail": [
+          "Samsung Electronics and SK Hynix, the world's two largest memory chipmakers, both fell more than 8%, dragging South Korea's Kospi index down as much as 6.8% on Wednesday.",
+          "The Philadelphia Semiconductor Index (a US benchmark tracking major chip companies) fell 5%, its worst single-day drop since July, as the selloff spread from Asia to Wall Street.",
+          "Rising Treasury yields make the enormous, often debt-funded capex (capital expenditure - money spent building physical infrastructure like data centres) behind the AI boom look more expensive and riskier to finance.",
+          "Traders also pointed to profit-taking and the unwinding of leveraged positions (stock bets amplified with borrowed money) after a long run-up in AI-linked shares this year."
+        ],
+        "tags": ["ai", "tech", "equities"]
+      },
+      {
+        "headline": "Oil keeps climbing as a US-Iran shipping truce quietly expires",
+        "simple": "A temporary deal that kept a vital oil shipping route calm has run out, and neither side has renewed it. Oil prices have now risen for four days in a row.",
+        "interview_line": "Brent crude is nearing $92 a barrel after the 60-day US-Iran truce over the Strait of Hormuz expired without a follow-up deal.",
+        "detail": [
+          "Brent crude (the international oil price benchmark) climbed toward $92 a barrel, its fourth straight daily gain, as the risk premium (extra price built in for the chance of supply disruption) around Middle East shipping rose again.",
+          "A 60-day memorandum of understanding (a preliminary agreement short of a binding contract) meant to de-escalate tension around the Strait of Hormuz - the narrow waterway carrying roughly a fifth of the world's oil - expired this week without a renewal.",
+          "The US says it has no active negotiations with Tehran and its naval blockade in the region remains in place; at least eight attacks on vessels transiting the strait have been reported this month.",
+          "Higher oil prices feed directly into inflation, which is a key reason bond yields are also climbing and the Fed is now leaning hawkish (favouring higher rates) rather than toward cuts."
+        ],
+        "tags": ["energy", "geopolitics", "rates"]
+      }
+    ],
+    "ibd_relevance": [
+      "Spiking long-term yields and heavy corporate bond issuance tighten DCM (debt capital markets) execution windows and push up financing costs for leveraged deals.",
+      "A sharp AI-linked equity selloff could cool the red-hot pipeline of chip and data-centre M&A/IPO activity, and puts fresh scrutiny on debt-funded AI capex financing.",
+      "Renewed Hormuz risk raises hedging demand from energy and shipping clients and could delay or reprice pending energy sector M&A given the volatile oil price backdrop."
+    ],
+    "left_field_question": "If long-term borrowing costs stay this high while the AI trade unwinds, which cracks first - the bond market or the AI capex boom?",
+    "left_field_answer": "They're really the same crack. The AI boom has increasingly been financed with debt, so if 30-year yields stay elevated, the interest bill on that infrastructure gets harder to justify unless AI revenue shows up fast. A prolonged bond selloff would likely force AI infrastructure spending to slow first, since equity and credit investors would demand proof of returns before financing the next wave of data centres - which would in turn take pressure off yields as issuance eases."
+  },
+  {
     "id": "2026-08-18",
     "date": "2026-08-18",
     "market_snapshot": "US futures lower (S&P -0.3%, Nasdaq -0.6%) after Asia sold off (Nikkei -2.5%, Kospi -1.6%) · 10Y Treasury yield ~4.69% · WTI crude ~$85/bbl (Iran tensions) · Dollar index ~99.8",
