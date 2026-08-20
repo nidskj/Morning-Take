@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-08-20",
+    "date": "2026-08-20",
+    "market_snapshot": "S&P 500 +0.21% to 7,708 · 30Y Treasury yield ~5.20% (-9bps after Treasury doubles buybacks) · Dollar index 98.8 (3-month low) · WTI crude ~$83/bbl",
+    "stories": [
+      {
+        "headline": "The US Treasury stepped in to calm a bond market sell-off",
+        "simple": "Long-term US government borrowing costs had shot up to a 19-year high. The Treasury said it will buy back twice as much old debt to soak up bonds and bring rates back down, and it worked - rates fell and the dollar dropped.",
+        "interview_line": "The Treasury doubled its buyback of long-term bonds this week, and yields fell sharply as a result, showing how directly Washington can still move the bond market.",
+        "detail": [
+          "The Treasury said it will double the size of its buyback operations (when the government buys back its own previously issued debt to reduce the amount in the market) for 10-30 year bonds, from $2bn to at least $4bn per operation, running from September through November.",
+          "The move came after the 30-year Treasury yield (the interest rate on the government's longest-dated bond) hit a 19-year high of 5.34% earlier in the week amid a broader bond selloff.",
+          "Following the announcement, the 30-year yield fell nearly 9 basis points (a basis point is one hundredth of a percentage point) to about 5.20%, and the 10-year fell 6bps to 4.65%.",
+          "The dollar index (a measure of the dollar's value against a basket of other currencies) dropped to 98.8, its lowest in three months, as falling yields reduced the currency's rate-driven appeal."
+        ],
+        "tags": ["rates", "credit", "macro"]
+      },
+      {
+        "headline": "A cancer vaccine breakthrough sent two drugmakers' shares soaring",
+        "simple": "Moderna and Merck tested a personalized vaccine, built from a patient's own tumor, that stopped skin cancer from coming back after surgery. The results were so strong that Moderna's stock more than doubled in a single day.",
+        "interview_line": "Moderna and Merck's personalized melanoma vaccine hit its goals in a large Phase 3 trial, and Moderna's shares more than doubled on the news - a milestone for personalized cancer treatment.",
+        "detail": [
+          "Moderna and Merck said their mRNA (a vaccine technology that instructs the body's own cells to trigger an immune response) cancer vaccine, combined with Merck's immunotherapy drug Keytruda, met its main goals in a Phase 3 trial (the final, large-scale stage of testing before a drug can seek regulatory approval) of over 1,100 high-risk melanoma patients.",
+          "The vaccine, called intismeran autogene, is personalized - built from a sample of each patient's own tumor - to teach the immune system to recognize that specific cancer's mutations.",
+          "Moderna shares surged as much as 145% intraday, while Merck rose more than 10%, as investors priced in the first successful late-stage result for a personalized mRNA cancer vaccine.",
+          "The result is a milestone for the wider mRNA platform (the underlying vaccine technology, first proven at scale during Covid), which drugmakers have been trying to prove works beyond infectious disease."
+        ],
+        "tags": ["healthcare", "biotech", "equities"]
+      },
+      {
+        "headline": "The Fed signalled it might raise rates, not cut them, if inflation stays high",
+        "simple": "Notes from the Federal Reserve's last meeting show many officials think they may need to raise interest rates if prices keep rising too fast. That's a big shift from earlier hopes that rates were about to come down.",
+        "interview_line": "Minutes from the Fed's July meeting show many officials now see rate hikes, not cuts, as the more likely next move if inflation doesn't ease.",
+        "detail": [
+          "Minutes from the Federal Reserve's (the US central bank) July 28-29 policy meeting showed many officials said policy tightening (raising interest rates) would likely be necessary if inflation didn't decline.",
+          "Some officials argued a pre-emptive hike now could help avoid the need for steeper, more disruptive increases later.",
+          "Policymakers flagged that inflation is becoming harder to write off as temporary given tariffs, and warned that AI-related spending could be adding to price pressures.",
+          "The hawkish tone (leaning toward higher rates) is a sharp reversal from earlier this year, when markets were pricing in cuts, and is a key driver of this week's bond market volatility."
+        ],
+        "tags": ["rates", "macro", "banking"]
+      }
+    ],
+    "ibd_relevance": [
+      "The Treasury's buyback intervention eases long-end funding costs, which could reopen debt capital markets (DCM) windows for long-dated corporate issuance that had stalled amid the yield spike.",
+      "The Moderna/Merck vaccine data is a fresh comp for healthcare bankers and could reignite biotech M&A and licensing interest around mRNA and personalized oncology platforms.",
+      "A hawkish Fed tilt keeps leveraged loan and high-yield pricing expensive, pressuring LBO returns and pushing sponsors toward equity-heavy structures even as the Treasury tries to calm the long end."
+    ],
+    "left_field_question": "If the Fed ends up hiking rates while the Treasury is actively buying bonds to hold yields down, who wins that tug-of-war?",
+    "left_field_answer": "Structurally the Fed wins, since it sets the short-term policy rate that anchors the whole curve, while the Treasury's buybacks are really a liquidity tool aimed at smoothing trading conditions, not offsetting monetary policy. In practice a Fed hike would likely push yields back up despite the buybacks, meaning the Treasury's intervention buys calmer trading conditions rather than a lasting cap on borrowing costs."
+  },
+  {
     "id": "2026-08-19",
     "date": "2026-08-19",
     "market_snapshot": "S&P 500 -0.54% to 7,703 (3rd straight losing session) · 30Y Treasury yield ~5.33% (19-year high) · Brent crude ~$92/bbl (4th straight daily gain) · Kospi -6.8%, Samsung/SK Hynix -8%+",
