@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-08-21",
+    "date": "2026-08-21",
+    "market_snapshot": "S&P 500 -0.87% to 7,641 · 30Y Treasury yield ~5.26% (19-year high) · Brent crude ~$93.01/bbl (+1.5%) · Dollar index (DXY) ~98.8 (roughly flat)",
+    "stories": [
+      {
+        "headline": "US government borrowing costs just hit a 19-year high",
+        "simple": "It's getting more expensive for the US government to borrow money for the long term. Investors are worried about how much debt the government is taking on and whether high inflation is here to stay.",
+        "interview_line": "The 30-year Treasury yield just hit its highest level since 2007, and that pushes up borrowing costs across the whole economy.",
+        "detail": [
+          "The 30-year Treasury yield (the interest rate on the US government's longest-dated bond, a benchmark for very long-term borrowing) climbed to around 5.26%, its highest since 2007, even after the Treasury's buyback programme (when the government repurchases some of its own outstanding debt to reduce supply in the market) had briefly calmed the sell-off a day earlier.",
+          "The renewed pressure reflects concern about the widening US fiscal deficit (the gap between what the government spends and what it collects in tax) and a heavy pipeline of new long-dated bond issuance (new government debt being sold) competing for investor demand.",
+          "Because bond yields move inversely to bond prices (as investors sell bonds, prices fall and yields rise), the sell-off pushes up borrowing costs for mortgages, corporate loans and leveraged deals alike.",
+          "Treasury Secretary Scott Bessent said he has a 'big tool kit' to support the market, but investors want to see the scale of any further intervention before yields stabilise."
+        ],
+        "tags": ["rates", "credit", "macro"]
+      },
+      {
+        "headline": "The US is preparing its toughest ever squeeze on Iran, and oil is climbing",
+        "simple": "The US Treasury is about to unveil a huge new push to cut Iran off from the world economy. Traders are worried it could disrupt oil supplies, so oil prices have jumped this week.",
+        "interview_line": "Washington's plan to isolate Iran's economy has pushed Brent crude above $93 a barrel, its highest level in months.",
+        "detail": [
+          "Treasury Secretary Scott Bessent is set to detail what he has called the 'greatest coordinated economic isolation in the history of the world' against Iran, going beyond standard sanctions (government-imposed restrictions on trade or financial dealings with a target country) to target the banks, shippers and insurers that handle Iranian oil exports.",
+          "Brent crude (the international oil price benchmark) rose above $93 a barrel, its highest level in months, on fears the crackdown could choke off Iranian supply and disrupt the Strait of Hormuz (the narrow waterway carrying roughly a fifth of the world's oil).",
+          "Tensions have already escalated after the UAE suspended financial and economic dealings with Iran, accusing Tehran of launching missiles at its territory.",
+          "Bessent has signalled that Chinese banks handling yuan-denominated payments for Iranian oil could be targeted next, raising the risk of a wider rift with China's financial system."
+        ],
+        "tags": ["energy", "geopolitics", "banking"]
+      },
+      {
+        "headline": "Wall Street is holding its breath ahead of the Fed chair's speech tomorrow",
+        "simple": "Investors are nervous ahead of a big speech tomorrow from the head of America's central bank, who could signal whether interest rates are about to be cut. Stocks wobbled today as everyone waits.",
+        "interview_line": "All eyes are on the Fed chair's Jackson Hole speech tomorrow, with markets pricing in a strong chance of a September rate cut.",
+        "detail": [
+          "Federal Reserve Chair Jay Powell speaks at the Jackson Hole symposium (an annual gathering of central bankers closely watched for policy signals) tomorrow, with traders pricing in roughly a 70% chance of a rate cut (a reduction in the Fed's benchmark interest rate) at the Fed's September meeting.",
+          "US stocks fell sharply on Thursday - the Dow shed over 700 points - as investors de-risked (sold assets to cut exposure) ahead of the speech, though futures point to a rebound at Friday's open.",
+          "Powell faces a tricky balancing act: inflation is still running above the Fed's 2% target, but there are signs of a cooling labour market - a classic setup for a policy dilemma.",
+          "Any surprise in tone - hawkish (leaning toward higher rates) or dovish (leaning toward lower rates) - could trigger sharp moves across stocks, bonds and the dollar."
+        ],
+        "tags": ["rates", "macro", "banking"]
+      }
+    ],
+    "ibd_relevance": [
+      "Higher long-term yields raise financing costs for leveraged buyouts and high-yield bond issuance, likely slowing big-ticket M&A financing in the near term.",
+      "A broader Iran sanctions regime could freeze dealmaking for energy, shipping and trade-finance clients with any Iran exposure, and push banks to tighten compliance and KYC (know-your-customer) screening.",
+      "A dovish signal from the Fed tomorrow could reopen the debt-financing window and revive stalled deal pipelines; a hawkish one would likely do the opposite."
+    ],
+    "left_field_question": "If you were advising an oil major on a deal right now, would you tell them to sign before or after tomorrow's Fed speech?",
+    "left_field_answer": "I'd say wait - a dovish signal would lower financing costs and could support a higher valuation, so pricing a deal into that uncertainty risks leaving money on the table. The Iran-driven spike in oil also makes now a tricky moment to value energy assets, since nobody yet knows if $93 crude is the new normal or a spike that fades."
+  },
+  {
     "id": "2026-08-20",
     "date": "2026-08-20",
     "market_snapshot": "S&P 500 +0.21% to 7,708 · 30Y Treasury yield ~5.20% (-9bps after Treasury doubles buybacks) · Dollar index 98.8 (3-month low) · WTI crude ~$83/bbl",
