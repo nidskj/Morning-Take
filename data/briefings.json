@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-08-24",
+    "date": "2026-08-24",
+    "market_snapshot": "S&P 500 futures -0.2%, Nasdaq futures -0.7% · 30Y Treasury yield ~5.24% · Brent crude ~$93.09/bbl (-1.4%) · WTI ~$85.65/bbl (-1.6%)",
+    "stories": [
+      {
+        "headline": "The US just launched its biggest-ever economic assault on Iran",
+        "simple": "The US Treasury unveiled a massive new sanctions package today aimed at cutting Iran off from the global economy entirely - hitting its oil sales, banks, and any country that still trades with it, including China.",
+        "interview_line": "Treasury Secretary Bessent unveiled what he called the 'greatest economic offensive' against Iran today, targeting its oil exports, banks and trading partners including China.",
+        "detail": [
+          "Treasury Secretary Scott Bessent announced sweeping new sanctions (government-imposed restrictions on trade or financial dealings with a target) he called an 'economic D-Day,' aiming to cut off Iran's oil exports, banking system and shipping networks.",
+          "The package leans heavily on secondary sanctions (penalties on third parties, like foreign banks or countries, that keep doing business with the sanctioned target), targeting countries such as China that continue buying discounted Iranian crude.",
+          "Oil prices actually fell on the news - Brent crude dropped over 1% - as traders read the plan as a financial squeeze rather than something that would physically disrupt tanker traffic through the Strait of Hormuz (the narrow waterway carrying roughly a fifth of the world's oil).",
+          "Bessent said the goal is to make a major military operation unnecessary by collapsing the regime's finances instead - a strategy investors will watch for knock-on effects on global oil supply and bank compliance costs."
+        ],
+        "tags": ["geopolitics", "energy", "banking"]
+      },
+      {
+        "headline": "The US and Canada's trade talks just collapsed, and 50% tariffs are now live",
+        "simple": "Two weeks of trade talks between the US and Canada fell apart on Friday. Now hefty new taxes are hitting a chunk of Canadian exports to the US, and Canada is about to hit back with its own tariffs.",
+        "interview_line": "US-Canada trade talks collapsed Friday, triggering 50% US tariffs on about $28bn of Canadian goods, with Canadian retaliation due September 8.",
+        "detail": [
+          "Talks broke down late Friday after the US added last-minute terms - including cutting tariff relief for Canadian-made vehicles and restricting Canada's ability to sign trade deals with other countries - that Canadian PM Mark Carney said went too far.",
+          "New 50% tariffs (taxes charged on imported goods) now apply to roughly $28bn of Canadian exports, covering goods from wine to cement to hockey sticks, though energy, potash and critical minerals were carved out.",
+          "Canada says it will retaliate dollar-for-dollar from September 8, targeting US dairy, appliances, agricultural equipment, pulp and paper, and electronics.",
+          "It's the sharpest escalation yet in the broader US-Canada trade war, and a fresh source of cost and supply-chain uncertainty for companies operating across the border."
+        ],
+        "tags": ["trade", "tariffs", "consumer"]
+      },
+      {
+        "headline": "The Fed just hinted at a rate cut, but markets aren't celebrating yet",
+        "simple": "The head of the US central bank said on Friday that interest rates could come down next month. Stocks jumped briefly, but by Monday the excitement had faded as investors braced for a huge week of AI earnings and inflation data.",
+        "interview_line": "Powell opened the door to a September rate cut at Jackson Hole on Friday, but futures are flat to lower Monday as markets brace for Nvidia's earnings and Friday's inflation report.",
+        "detail": [
+          "Fed Chair Jay Powell said at the Jackson Hole symposium (an annual gathering of central bankers watched for policy signals) that the 'shifting balance of risks may warrant adjusting' the Fed's policy stance, lifting the market-implied odds of a September rate cut (a reduction in the Fed's benchmark interest rate) to around 91%.",
+          "He also flagged that tariff-related inflation pressures are 'now clearly visible,' a reminder the Fed is easing even with inflation still running above target.",
+          "US stock futures were roughly flat to lower on Monday as the initial rally faded, with traders turning to Nvidia's earnings on Wednesday and the Fed's preferred inflation gauge (the PCE price index) on Friday.",
+          "The 30-year Treasury yield (the interest rate on the government's longest-dated bond) eased slightly to around 5.24%, still near multi-decade highs, showing investors aren't yet convinced the rate-cut path alone will bring long-term borrowing costs down much."
+        ],
+        "tags": ["rates", "macro", "ai"]
+      }
+    ],
+    "ibd_relevance": [
+      "The Iran sanctions package raises compliance and KYC (know-your-customer) costs for banks with Middle East or China-linked trade-finance exposure, and could freeze dealmaking for energy, shipping and commodities clients touching Iranian oil.",
+      "The US-Canada tariff escalation complicates cross-border financing and M&A for autos, consumer goods and industrials clients, and adds fresh due-diligence risk on supply chains routed through Canada.",
+      "A near-certain September rate cut would reopen debt-financing windows for leveraged deals, but this week's Nvidia earnings and Friday's PCE data are now the real swing factors for financing conditions and AI-linked dealflow."
+    ],
+    "left_field_question": "If the Fed is about to cut rates and the Treasury is sanctioning Iran into the ground, why did oil prices go down today instead of up?",
+    "left_field_answer": "Because the sanctions target Iran's ability to sell and get paid for its oil, not the physical flow of oil through the Strait of Hormuz, so traders read it as a financial squeeze rather than a supply shock. A Fed rate cut would normally weaken the dollar and lift commodities, but right now markets are more focused on demand risk from the US-Canada trade war and a cautious week ahead, which is keeping crude on the back foot."
+  },
+  {
     "id": "2026-08-21",
     "date": "2026-08-21",
     "market_snapshot": "S&P 500 -0.87% to 7,641 · 30Y Treasury yield ~5.26% (19-year high) · Brent crude ~$93.01/bbl (+1.5%) · Dollar index (DXY) ~98.8 (roughly flat)",
