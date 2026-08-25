@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-08-25",
+    "date": "2026-08-25",
+    "market_snapshot": "S&P 500 -0.28% · Dow +0.26% · Nasdaq -0.76% · 10Y Treasury yield ~4.70% · WTI crude ~$84.89/bbl (-2.5%) · Dollar index (DXY) ~98.99",
+    "stories": [
+      {
+        "headline": "New Iran sanctions send oil lower but drag chip stocks down",
+        "simple": "The US rolled out a huge new set of penalties against Iran to squeeze its economy. Oddly, oil got a bit cheaper, but shares in chip-making companies dropped sharply instead.",
+        "interview_line": "Washington's new Iran sanctions rollout saw oil ease, but chip stocks like Nvidia and Micron sold off hard on Monday.",
+        "detail": [
+          "Treasury Secretary Scott Bessent's 'Operation Economic Outcast' sanctions package (government-imposed restrictions on trade or financial dealings with a target) formally rolled out, with officials saying China would not be exempt from enforcement.",
+          "WTI crude (a US oil price benchmark) fell about 2.5% to roughly $84.89 a barrel and Brent (the global oil benchmark) eased a similar amount, as traders read the plan as a financial squeeze rather than a physical supply shock.",
+          "Chip stocks led Monday's losses regardless: Nvidia fell 2.1%, Micron 5.1% and Broadcom 1.9%, dragging the Nasdaq down 0.76% even as the Dow edged up 0.26%.",
+          "The split reaction shows investors separating geopolitical risk (pressuring oil) from AI-sector positioning risk (pressuring chips) ahead of a big week of earnings."
+        ],
+        "tags": ["sanctions", "energy", "tech"]
+      },
+      {
+        "headline": "Nvidia's earnings this week are the market's biggest test",
+        "simple": "The world's most valuable chip company reports its results on Wednesday. If they disappoint, it could drag down the whole stock market, since so much of the recent rally depends on AI spending.",
+        "interview_line": "Nvidia reports earnings Wednesday, and given how much of this year's rally rests on AI spending, it's the single biggest swing factor for markets this week.",
+        "detail": [
+          "Nvidia reports fiscal Q2 results (a company's financial results for a three-month period) after the close on August 26, its first report since Monday's broad chip-stock selloff.",
+          "The stock has already priced in years of AI capex (capital expenditure, spending on data centres and infrastructure) growth, so any hint of slowing demand from hyperscalers (the largest cloud providers, like Microsoft, Amazon and Google) could trigger an outsized reaction.",
+          "Rivals Micron and Broadcom fell harder than Nvidia on Monday, showing investors are already de-risking (trimming exposure) across the whole chip sector into the print.",
+          "A strong beat could revive risk appetite broadly; a miss risks reopening the debate over whether AI infrastructure spending is outrunning actual AI revenue."
+        ],
+        "tags": ["ai", "tech", "equities"]
+      },
+      {
+        "headline": "New Fed boss's first big speech could decide September's rate move",
+        "simple": "The person now running the US central bank gives his first major speech since taking the job this week. Investors are watching closely because it could signal whether borrowing costs go up, down, or stay put next month.",
+        "interview_line": "Fed Chair Kevin Warsh gives his first Jackson Hole keynote on Friday, and it could be the tiebreaker for the Fed's September rate decision.",
+        "detail": [
+          "Warsh, who became Fed chair (head of the US central bank) in May, delivers his first Jackson Hole keynote (an annual central-bank symposium closely watched for policy signals) on August 28.",
+          "Under Warsh the Fed has moved away from pre-signalling its next move, so markets are pricing roughly one-in-three odds of a September rate hike (a rise in the Fed's benchmark interest rate) rather than the cut many had once expected.",
+          "The 10-year Treasury yield (return demanded by bond investors, a key gauge of borrowing costs) eased to about 4.70% as investors positioned ahead of the speech.",
+          "Warsh has also convened outside experts to review the Fed's policy framework (how the central bank sets and communicates its inflation and rate targets), with recommendations due by year-end - a potential structural shift in how the Fed operates."
+        ],
+        "tags": ["rates", "central-banks"]
+      }
+    ],
+    "ibd_relevance": [
+      "Widening Iran sanctions enforcement raises compliance and screening costs for banks with Middle East or China-linked trade-finance exposure, while soft oil prices complicate valuations for pending energy M&A.",
+      "A weak Nvidia print could chill the AI-infrastructure financing pipeline that's been a major source of DCM and structured-debt fees this year; a strong one keeps it wide open.",
+      "An unpredictable Fed under Warsh, with real odds of a hike rather than a cut, keeps the cost of debt financing for pending LBOs and bond issuance highly uncertain into September."
+    ],
+    "left_field_question": "If you were advising a chipmaker on the timing of a big bond issuance, would you push to price it before or after Nvidia's earnings on Wednesday?",
+    "left_field_answer": "I'd try to lock terms before Wednesday - a strong Nvidia print could tighten AI-sector credit spreads and make the deal cheaper, but a miss could widen them and shut the window entirely, so there's little upside to waiting and real downside risk."
+  },
+  {
     "id": "2026-08-24",
     "date": "2026-08-24",
     "market_snapshot": "S&P 500 futures -0.2%, Nasdaq futures -0.7% · 30Y Treasury yield ~5.24% · Brent crude ~$93.09/bbl (-1.4%) · WTI ~$85.65/bbl (-1.6%)",
