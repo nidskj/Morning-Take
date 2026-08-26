@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-08-26",
+    "date": "2026-08-26",
+    "market_snapshot": "S&P 500 +0.43% to 7,674 · 10Y Treasury yield ~4.66% · WTI crude ~$82/bbl (-2.5% on Iran de-escalation) · Dollar index (DXY) ~98.84",
+    "stories": [
+      {
+        "headline": "Nvidia reports earnings today - the market's biggest test of the year",
+        "simple": "Nvidia, the world's most valuable chip company, tells investors today how much money it made over the last three months. If the numbers or outlook disappoint, it could drag down the whole stock market, since so much of this year's rally rests on AI spending.",
+        "interview_line": "Nvidia reports after the close today, and given how much of this year's rally rests on AI spending, it's the single biggest swing factor for markets this week.",
+        "detail": [
+          "Nvidia reports fiscal Q2 results (a company's financial results for a three-month period) after the close today, with analysts expecting revenue near $92bn, up roughly 97% year-on-year.",
+          "Data-centre revenue (sales from chips that power cloud AI infrastructure - the servers running AI models for customers) alone is running above $30bn a quarter, making this the key growth line investors will watch.",
+          "Hyperscalers (the largest cloud providers - Microsoft, Amazon, Google, Meta) have pledged roughly $775bn-$800bn in AI capex (capital expenditure, spending on data centres and infrastructure) for 2026, underpinning bullish demand expectations.",
+          "A weak forecast could trigger a broader 'AI trade' selloff (a sharp drop in AI-linked stocks if confidence in the AI investment boom fades), given Nvidia's outsized weight in major indices."
+        ],
+        "tags": [
+          "ai",
+          "tech",
+          "equities"
+        ]
+      },
+      {
+        "headline": "Trump's fight to fire a Fed official comes to a head today",
+        "simple": "President Trump wants to remove a Federal Reserve official over old mortgage-fraud claims she denies. Today is the deadline for her to respond, and the outcome could affect how independent the Fed is seen to be.",
+        "interview_line": "Today's deadline in the fight over Fed governor Lisa Cook is really a test of central bank independence, not just one person's job.",
+        "detail": [
+          "Fed governor Lisa Cook was given until August 26 to respond to renewed removal proceedings, after the Supreme Court blocked Trump's first attempt on procedural grounds.",
+          "Markets watch this closely because Fed independence (the principle that the central bank sets interest rates free from political pressure) underpins investor confidence in US monetary policy.",
+          "If Cook is removed, it could shift the voting balance on the FOMC (Federal Open Market Committee - the Fed panel that sets US interest rates) toward officials more aligned with the White House's preference for lower rates.",
+          "A weakened perception of Fed independence has historically pushed up long-term bond yields (the extra return investors demand for lending money over many years) on inflation and credibility concerns."
+        ],
+        "tags": [
+          "rates",
+          "banking",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Today's inflation data will shape whether the Fed cuts rates again",
+        "simple": "The government releases its favourite measure of inflation this morning. If prices are cooling as expected, it makes another interest rate cut more likely; if not, borrowing could stay expensive for longer.",
+        "interview_line": "This morning's PCE inflation print is probably the single most important data point for rate expectations this week.",
+        "detail": [
+          "The core PCE index (Personal Consumption Expenditures excluding food and energy - the Fed's preferred inflation gauge) for July is due at 8:30am ET today.",
+          "Economists expect inflation to have edged up slightly, partly reflecting the pass-through of tariffs (import taxes) into consumer prices.",
+          "Treasuries (US government bonds) have been choppy ahead of the release, with yields moving as traders position for the data.",
+          "A hotter-than-expected print could push back market bets on a September rate cut (a reduction in the Fed's benchmark interest rate), pressuring both stocks and bonds."
+        ],
+        "tags": [
+          "rates",
+          "credit",
+          "macro"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Fed-independence uncertainty around the Cook case raises the risk premium on long-duration financing (debt markets pricing in higher rates for compensation), complicating bond issuance and LBO (leveraged buyout - using significant borrowed money to fund an acquisition) financing terms.",
+      "A soft or hot PCE print will move the rates curve immediately, directly repricing bridge loans and high-yield spreads (the extra interest lenders on riskier deals demand over safe government debt) desks are quoting on live deals.",
+      "Nvidia's results set the tone for tech capital markets activity - strong numbers could reopen the IPO/follow-on window for AI-adjacent names, while a miss likely freezes near-term issuance and dents sponsor appetite for AI infrastructure deals."
+    ],
+    "left_field_question": "If Nvidia misses tonight and the 'AI bubble' narrative takes hold, what happens to all the debt financing hyperscalers have raised to build data centres?",
+    "left_field_answer": "A lot of that debt was priced assuming AI revenue keeps compounding, so a sustained slowdown would squeeze coverage ratios and could widen credit spreads on data-centre bonds. Lenders wouldn't panic overnight, but new financings would get pricier and more conservative, and banks holding warehoused exposure would come under scrutiny."
+  },
+  {
     "id": "2026-08-25",
     "date": "2026-08-25",
     "market_snapshot": "S&P 500 -0.28% · Dow +0.26% · Nasdaq -0.76% · 10Y Treasury yield ~4.70% · WTI crude ~$84.89/bbl (-2.5%) · Dollar index (DXY) ~98.99",
@@ -14,7 +76,11 @@
           "Chip stocks led Monday's losses regardless: Nvidia fell 2.1%, Micron 5.1% and Broadcom 1.9%, dragging the Nasdaq down 0.76% even as the Dow edged up 0.26%.",
           "The split reaction shows investors separating geopolitical risk (pressuring oil) from AI-sector positioning risk (pressuring chips) ahead of a big week of earnings."
         ],
-        "tags": ["sanctions", "energy", "tech"]
+        "tags": [
+          "sanctions",
+          "energy",
+          "tech"
+        ]
       },
       {
         "headline": "Nvidia's earnings this week are the market's biggest test",
@@ -26,7 +92,11 @@
           "Rivals Micron and Broadcom fell harder than Nvidia on Monday, showing investors are already de-risking (trimming exposure) across the whole chip sector into the print.",
           "A strong beat could revive risk appetite broadly; a miss risks reopening the debate over whether AI infrastructure spending is outrunning actual AI revenue."
         ],
-        "tags": ["ai", "tech", "equities"]
+        "tags": [
+          "ai",
+          "tech",
+          "equities"
+        ]
       },
       {
         "headline": "New Fed boss's first big speech could decide September's rate move",
@@ -38,7 +108,10 @@
           "The 10-year Treasury yield (return demanded by bond investors, a key gauge of borrowing costs) eased to about 4.70% as investors positioned ahead of the speech.",
           "Warsh has also convened outside experts to review the Fed's policy framework (how the central bank sets and communicates its inflation and rate targets), with recommendations due by year-end - a potential structural shift in how the Fed operates."
         ],
-        "tags": ["rates", "central-banks"]
+        "tags": [
+          "rates",
+          "central-banks"
+        ]
       }
     ],
     "ibd_relevance": [
@@ -64,7 +137,11 @@
           "Oil prices actually fell on the news - Brent crude dropped over 1% - as traders read the plan as a financial squeeze rather than something that would physically disrupt tanker traffic through the Strait of Hormuz (the narrow waterway carrying roughly a fifth of the world's oil).",
           "Bessent said the goal is to make a major military operation unnecessary by collapsing the regime's finances instead - a strategy investors will watch for knock-on effects on global oil supply and bank compliance costs."
         ],
-        "tags": ["geopolitics", "energy", "banking"]
+        "tags": [
+          "geopolitics",
+          "energy",
+          "banking"
+        ]
       },
       {
         "headline": "The US and Canada's trade talks just collapsed, and 50% tariffs are now live",
@@ -76,7 +153,11 @@
           "Canada says it will retaliate dollar-for-dollar from September 8, targeting US dairy, appliances, agricultural equipment, pulp and paper, and electronics.",
           "It's the sharpest escalation yet in the broader US-Canada trade war, and a fresh source of cost and supply-chain uncertainty for companies operating across the border."
         ],
-        "tags": ["trade", "tariffs", "consumer"]
+        "tags": [
+          "trade",
+          "tariffs",
+          "consumer"
+        ]
       },
       {
         "headline": "The Fed just hinted at a rate cut, but markets aren't celebrating yet",
@@ -88,7 +169,11 @@
           "US stock futures were roughly flat to lower on Monday as the initial rally faded, with traders turning to Nvidia's earnings on Wednesday and the Fed's preferred inflation gauge (the PCE price index) on Friday.",
           "The 30-year Treasury yield (the interest rate on the government's longest-dated bond) eased slightly to around 5.24%, still near multi-decade highs, showing investors aren't yet convinced the rate-cut path alone will bring long-term borrowing costs down much."
         ],
-        "tags": ["rates", "macro", "ai"]
+        "tags": [
+          "rates",
+          "macro",
+          "ai"
+        ]
       }
     ],
     "ibd_relevance": [
@@ -114,7 +199,11 @@
           "Because bond yields move inversely to bond prices (as investors sell bonds, prices fall and yields rise), the sell-off pushes up borrowing costs for mortgages, corporate loans and leveraged deals alike.",
           "Treasury Secretary Scott Bessent said he has a 'big tool kit' to support the market, but investors want to see the scale of any further intervention before yields stabilise."
         ],
-        "tags": ["rates", "credit", "macro"]
+        "tags": [
+          "rates",
+          "credit",
+          "macro"
+        ]
       },
       {
         "headline": "The US is preparing its toughest ever squeeze on Iran, and oil is climbing",
@@ -126,7 +215,11 @@
           "Tensions have already escalated after the UAE suspended financial and economic dealings with Iran, accusing Tehran of launching missiles at its territory.",
           "Bessent has signalled that Chinese banks handling yuan-denominated payments for Iranian oil could be targeted next, raising the risk of a wider rift with China's financial system."
         ],
-        "tags": ["energy", "geopolitics", "banking"]
+        "tags": [
+          "energy",
+          "geopolitics",
+          "banking"
+        ]
       },
       {
         "headline": "Wall Street is holding its breath ahead of the Fed chair's speech tomorrow",
@@ -138,7 +231,11 @@
           "Powell faces a tricky balancing act: inflation is still running above the Fed's 2% target, but there are signs of a cooling labour market - a classic setup for a policy dilemma.",
           "Any surprise in tone - hawkish (leaning toward higher rates) or dovish (leaning toward lower rates) - could trigger sharp moves across stocks, bonds and the dollar."
         ],
-        "tags": ["rates", "macro", "banking"]
+        "tags": [
+          "rates",
+          "macro",
+          "banking"
+        ]
       }
     ],
     "ibd_relevance": [
@@ -164,7 +261,11 @@
           "Following the announcement, the 30-year yield fell nearly 9 basis points (a basis point is one hundredth of a percentage point) to about 5.20%, and the 10-year fell 6bps to 4.65%.",
           "The dollar index (a measure of the dollar's value against a basket of other currencies) dropped to 98.8, its lowest in three months, as falling yields reduced the currency's rate-driven appeal."
         ],
-        "tags": ["rates", "credit", "macro"]
+        "tags": [
+          "rates",
+          "credit",
+          "macro"
+        ]
       },
       {
         "headline": "A cancer vaccine breakthrough sent two drugmakers' shares soaring",
@@ -176,7 +277,11 @@
           "Moderna shares surged as much as 145% intraday, while Merck rose more than 10%, as investors priced in the first successful late-stage result for a personalized mRNA cancer vaccine.",
           "The result is a milestone for the wider mRNA platform (the underlying vaccine technology, first proven at scale during Covid), which drugmakers have been trying to prove works beyond infectious disease."
         ],
-        "tags": ["healthcare", "biotech", "equities"]
+        "tags": [
+          "healthcare",
+          "biotech",
+          "equities"
+        ]
       },
       {
         "headline": "The Fed signalled it might raise rates, not cut them, if inflation stays high",
@@ -188,7 +293,11 @@
           "Policymakers flagged that inflation is becoming harder to write off as temporary given tariffs, and warned that AI-related spending could be adding to price pressures.",
           "The hawkish tone (leaning toward higher rates) is a sharp reversal from earlier this year, when markets were pricing in cuts, and is a key driver of this week's bond market volatility."
         ],
-        "tags": ["rates", "macro", "banking"]
+        "tags": [
+          "rates",
+          "macro",
+          "banking"
+        ]
       }
     ],
     "ibd_relevance": [
@@ -214,7 +323,11 @@
           "A wave of corporate bond issuance (companies selling debt to raise cash), roughly $1.7 trillion so far, is competing with Treasuries for investor demand, adding further upward pressure on yields.",
           "New Fed chair Kevin Warsh has taken a more unpredictable communication style than his predecessors, and traders are now roughly split on whether the Fed's next move is a hike rather than a cut - a sharp reversal from expectations earlier this year."
         ],
-        "tags": ["rates", "credit", "macro"]
+        "tags": [
+          "rates",
+          "credit",
+          "macro"
+        ]
       },
       {
         "headline": "AI chip stocks just had their worst day in weeks as borrowing costs bite",
@@ -226,7 +339,11 @@
           "Rising Treasury yields make the enormous, often debt-funded capex (capital expenditure - money spent building physical infrastructure like data centres) behind the AI boom look more expensive and riskier to finance.",
           "Traders also pointed to profit-taking and the unwinding of leveraged positions (stock bets amplified with borrowed money) after a long run-up in AI-linked shares this year."
         ],
-        "tags": ["ai", "tech", "equities"]
+        "tags": [
+          "ai",
+          "tech",
+          "equities"
+        ]
       },
       {
         "headline": "Oil keeps climbing as a US-Iran shipping truce quietly expires",
@@ -238,7 +355,11 @@
           "The US says it has no active negotiations with Tehran and its naval blockade in the region remains in place; at least eight attacks on vessels transiting the strait have been reported this month.",
           "Higher oil prices feed directly into inflation, which is a key reason bond yields are also climbing and the Fed is now leaning hawkish (favouring higher rates) rather than toward cuts."
         ],
-        "tags": ["energy", "geopolitics", "rates"]
+        "tags": [
+          "energy",
+          "geopolitics",
+          "rates"
+        ]
       }
     ],
     "ibd_relevance": [
@@ -264,7 +385,11 @@
           "US stock futures fell and Asia-Pacific markets sold off sharply - Japan's Nikkei 225 down over 2.5% and South Korea's Kospi down more than 1.5% - as investors rotated away from risk assets.",
           "Treasury yields (the interest rate the US government pays to borrow, a benchmark for corporate and mortgage lending) ticked higher, reflecting both the inflationary pull of pricier oil and reduced expectations of a near-term de-escalation."
         ],
-        "tags": ["energy", "geopolitics", "rates"]
+        "tags": [
+          "energy",
+          "geopolitics",
+          "rates"
+        ]
       },
       {
         "headline": "Nike's shares hit a fresh multi-year low as China sales keep sliding",
@@ -276,7 +401,11 @@
           "Local rivals Anta Sports and Li-Ning, along with US challenger brands On and Hoka, continue to take share in the premium running category, with Nike's Greater China revenue down double digits year-on-year.",
           "The stock's slide highlights how a strong home-market recovery isn't enough to offset structural share loss abroad, a pattern investors are watching closely across other US consumer brands exposed to China."
         ],
-        "tags": ["consumer", "retail", "china"]
+        "tags": [
+          "consumer",
+          "retail",
+          "china"
+        ]
       },
       {
         "headline": "Stripe is buying an AI 'traffic router' for more than $7 billion",
@@ -288,7 +417,11 @@
           "It follows Stripe's earlier purchase of Metronome, a usage-based billing platform (software that tracks and invoices customers by how much of a service they consume) built for AI companies, extending Stripe's push into the 'plumbing' behind AI products.",
           "The deal signals consolidation in AI infrastructure moving up the stack - from chips and data centres toward the software layer that meters, routes and bills for AI usage - a theme increasingly relevant to tech M&A and financing."
         ],
-        "tags": ["m&a", "tech", "ai"]
+        "tags": [
+          "m&a",
+          "tech",
+          "ai"
+        ]
       }
     ],
     "ibd_relevance": [
@@ -314,7 +447,11 @@
           "The financing will mostly be debt (borrowed money that has to be repaid, unlike equity), giving hyperscalers (the largest cloud computing firms, like Microsoft, Amazon and Google) and AI labs a way to buy Nvidia hardware without spending all their own cash.",
           "Some investors are nervous the scheme could be artificially inflating demand for AI chips by making it easier to borrow for speculative builds, raising the stakes if AI usage disappoints."
         ],
-        "tags": ["ai", "financing", "banking"]
+        "tags": [
+          "ai",
+          "financing",
+          "banking"
+        ]
       },
       {
         "headline": "AMD and Intel just raised tens of billions to keep up in the AI chip race",
@@ -326,7 +463,11 @@
           "Both chipmakers are racing to fund AI-related capex (capital expenditure [spending on physical assets like factories and equipment]) without relying solely on their own operating cash flow.",
           "The back-to-back raises show credit and equity investors are still willing to fund the AI buildout at scale, even as some worry about how quickly that spending will pay off."
         ],
-        "tags": ["semis", "credit", "equity"]
+        "tags": [
+          "semis",
+          "credit",
+          "equity"
+        ]
       },
       {
         "headline": "Reddit is about to join Wall Street's most-watched stock index",
@@ -338,7 +479,11 @@
           "Reddit becomes only the second major social media company in the S&P 500 after Meta, with a market cap (the total value of a company's shares) of about $29.5bn.",
           "Reddit shares have already surged more than 10% since the announcement, as investors front-run the mechanical buying (trading ahead of a known, scheduled flow of demand) from index funds."
         ],
-        "tags": ["equities", "tech", "indices"]
+        "tags": [
+          "equities",
+          "tech",
+          "indices"
+        ]
       }
     ],
     "ibd_relevance": [
@@ -364,7 +509,10 @@
           "Canada's trade minister Dominic LeBlanc is in Washington seeking a last-minute agreement before the deadline.",
           "Separately, a US trade court upheld the removal of the 'de minimis' exemption (the rule that let parcels worth under $800 enter the US tariff-free), keeping duties on low-cost imports like fast-fashion parcels."
         ],
-        "tags": ["trade", "tariffs"]
+        "tags": [
+          "trade",
+          "tariffs"
+        ]
       },
       {
         "headline": "AI chipmakers post wildly different results in the same week",
@@ -376,7 +524,11 @@
           "South Korea's Samsung and SK Hynix are each up over 14% this week as AI memory chip demand lifts Asian tech stocks.",
           "The split shows investors growing choosier about which AI infrastructure bets to back, even as overall AI capex (capital expenditure [money spent on physical infrastructure like chips and data centres]) keeps climbing."
         ],
-        "tags": ["tech", "semis", "earnings"]
+        "tags": [
+          "tech",
+          "semis",
+          "earnings"
+        ]
       },
       {
         "headline": "Gold is surging as investors bet the Fed won't raise rates after all",
@@ -388,7 +540,11 @@
           "A weaker dollar has also supported gold, since a softer greenback (a nickname for the US dollar) makes dollar-priced gold cheaper for foreign buyers.",
           "Gold remains well off its January 2026 record above $5,300/oz, having fallen sharply before this recent rebound."
         ],
-        "tags": ["rates", "commodities", "fx"]
+        "tags": [
+          "rates",
+          "commodities",
+          "fx"
+        ]
       }
     ],
     "ibd_relevance": [
@@ -414,7 +570,10 @@
           "Wendy's shares jumped as much as 15% and were briefly halted for volatility (a temporary trading pause triggered when a stock's price swings too fast) after the report broke.",
           "The approach follows a brutal Q2 for Wendy's, which withdrew its full-year guidance (a company's own forecast of its future results) and halved its dividend after same-restaurant sales fell 7%."
         ],
-        "tags": ["m&a", "consumer"]
+        "tags": [
+          "m&a",
+          "consumer"
+        ]
       },
       {
         "headline": "Fast-fashion giant Shein is going public at a much lower price than expected",
@@ -426,7 +585,10 @@
           "The steep valuation cut - roughly 70% - reflects investor caution over tariffs, slowing consumer spending, and regulatory scrutiny of Shein's low-cost, fast-turnaround supply chain.",
           "If demand stays weak, Shein may need to lean on its existing private backers again rather than complete the float at its target price."
         ],
-        "tags": ["ipo", "consumer"]
+        "tags": [
+          "ipo",
+          "consumer"
+        ]
       },
       {
         "headline": "The Federal Reserve now looks unlikely to cut interest rates at all this year",
@@ -438,7 +600,10 @@
           "Fed funds futures (contracts traders use to bet on where interest rates will be in future) are pricing rates near 4% by year-end, implying markets now see a hike as more likely than a cut.",
           "Higher-for-longer rates keep borrowing costs elevated for leveraged deals and mortgages, and tend to support the dollar while pressuring rate-sensitive stocks like tech and real estate."
         ],
-        "tags": ["rates", "macro"]
+        "tags": [
+          "rates",
+          "macro"
+        ]
       }
     ],
     "ibd_relevance": [
@@ -464,7 +629,10 @@
           "The 10-year Treasury yield (the interest rate the US government pays to borrow for 10 years, a benchmark for mortgage and corporate loan pricing) eased to around 4.68% on the news.",
           "The S&P 500 and Nasdaq both edged higher, as lower expected rates tend to lift stock valuations, especially for growth and tech names."
         ],
-        "tags": ["rates", "macro"]
+        "tags": [
+          "rates",
+          "macro"
+        ]
       },
       {
         "headline": "Oil stays pricey as US-Iran talks over a key shipping route drag on",
@@ -476,7 +644,10 @@
           "Crude oil (priced via benchmarks like WTI and Brent) remains elevated around $83 a barrel on the supply-risk premium markets are pricing in.",
           "A prolonged disruption would sharply raise energy costs worldwide, complicating the inflation picture central banks are trying to bring down."
         ],
-        "tags": ["energy", "geopolitics"]
+        "tags": [
+          "energy",
+          "geopolitics"
+        ]
       },
       {
         "headline": "AI infrastructure spending is still driving markets, but not every tech stock is winning",
@@ -488,7 +659,10 @@
           "By contrast, Workday, an enterprise software company, fell 4% amid a broader rotation out of software stocks ahead of its own earnings.",
           "The split shows a market still rewarding AI infrastructure spending heavily while turning more cautious on software subscription businesses."
         ],
-        "tags": ["tech", "ai"]
+        "tags": [
+          "tech",
+          "ai"
+        ]
       }
     ],
     "ibd_relevance": [
@@ -514,7 +688,11 @@
           "For banks, higher-for-longer rates keep leveraged loan pricing (the interest rate charged on debt used to fund acquisitions) elevated, which pressures LBO (leveraged buyout - buying a company mostly with borrowed money) returns.",
           "This can push sponsors (private equity firms) toward more equity-heavy deal structures instead of loading deals with debt."
         ],
-        "tags": ["rates", "macro", "uk"]
+        "tags": [
+          "rates",
+          "macro",
+          "uk"
+        ]
       },
       {
         "headline": "Shell might buy a US oil and gas company",
@@ -526,7 +704,10 @@
           "Majors are prioritising scale and lower per-barrel production costs over exploration risk - i.e. buying proven, cheaper-to-run assets instead of gambling on finding new oil.",
           "For an M&A team, this signals active dealflow (the volume of deals being worked on) and potential comparable transactions (similar past deals used to value a new one) in the energy sector."
         ],
-        "tags": ["m&a", "energy"]
+        "tags": [
+          "m&a",
+          "energy"
+        ]
       },
       {
         "headline": "A US bank is losing money on office buildings",
@@ -538,7 +719,11 @@
           "It could tighten credit conditions (make it harder/costlier to borrow) for real estate financing across the sector.",
           "Relevant context if you're asked about real estate finance or leveraged lending in an interview - this is a live, ongoing risk, not old news."
         ],
-        "tags": ["credit", "real-estate", "banking"]
+        "tags": [
+          "credit",
+          "real-estate",
+          "banking"
+        ]
       }
     ],
     "ibd_relevance": [
