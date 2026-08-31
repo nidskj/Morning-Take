@@ -1,5 +1,66 @@
 [
   {
+    "id": "2026-08-31",
+    "date": "2026-08-31",
+    "market_snapshot": "S&P 500 futures -0.36%, Nasdaq futures -0.4% · 10Y Treasury yield ~4.72% · Brent crude ~$90.31/bbl (+2% on Iran strikes) · Gold ~$4,700/oz (15-week high)",
+    "stories": [
+      {
+        "headline": "The US struck Iran again overnight, and oil is spiking",
+        "simple": "US forces attacked Iranian military targets near a key shipping route, and Iran hit back. Oil prices jumped because so much of the world's oil passes through that area.",
+        "interview_line": "The US struck Iranian rocket launchers near the Strait of Hormuz on Sunday, Iran retaliated, and oil jumped as investors price in a wider Middle East escalation.",
+        "detail": [
+          "US forces struck Iranian rocket launchers on Larak Island, in the Strait of Hormuz (the narrow waterway that roughly a fifth of the world's seaborne oil passes through), after Iran appeared to be preparing to lay mines there.",
+          "It's the first US strike on Iran in a month, and Tehran retaliated, reigniting fears the conflict is escalating rather than winding down.",
+          "Brent crude (the international oil price benchmark) jumped about 2% on the news, and WTI crude (the US oil benchmark) rose to around $85/bbl.",
+          "The war is deeply unpopular with US voters ahead of November's midterm elections, adding domestic political pressure on top of the market risk."
+        ],
+        "tags": [
+          "energy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Wall Street just started betting on higher rates, not cuts",
+        "simple": "The head of the US central bank gave a tougher-than-expected speech on inflation, so investors now think interest rates are more likely to go up next month than down.",
+        "interview_line": "Fed chair Kevin Warsh's hawkish Jackson Hole speech has pushed the market-implied odds of a September rate hike to around 60%, up from roughly a third a week ago.",
+        "detail": [
+          "Warsh's Jackson Hole speech (an annual central-bank conference watched closely for policy signals) came across as hawkish (leaning toward higher rates), stressing the Fed still has 'work to do' on inflation.",
+          "Traders in fed funds futures (contracts used to bet on the Fed's next move) now price roughly a 60% chance of a quarter-point hike at September's FOMC meeting, versus about 35% before the speech.",
+          "It puts Warsh at odds with President Trump, who wants lower rates, and in tension with Treasury Secretary Bessent, who has been buying back long-dated government bonds to hold down long-term yields even as short-term rates look set to rise.",
+          "The dollar held near its biggest one-month gain on the shift, while gold's rally shows investors are simultaneously hedging inflation and Middle East risk."
+        ],
+        "tags": [
+          "rates",
+          "central-banks",
+          "macro"
+        ]
+      },
+      {
+        "headline": "OpenAI just cut off a coding tool that Elon Musk's SpaceX bought",
+        "simple": "OpenAI is stopping the app Cursor from using its AI models, because Elon Musk's SpaceX bought Cursor for $60 billion and OpenAI doesn't trust Musk's companies to play by the rules.",
+        "interview_line": "OpenAI is pulling its models from Cursor on November 12, weeks after SpaceX completed a $60bn takeover of the coding startup, and Anthropic has already stepped in to fill the gap.",
+        "detail": [
+          "SpaceX completed a $60bn acquisition of Cursor (a popular AI coding assistant) on August 14, and OpenAI says it will end Cursor's direct API access (the technical connection letting Cursor's software call OpenAI's models) on November 12.",
+          "OpenAI cited an inability to trust that Musk-controlled companies would honour its terms of service, and said future models won't be licensed to Cursor either.",
+          "Developers can keep using OpenAI models inside Cursor via BYOK (bring-your-own-key, i.e. using their own OpenAI account) or through cloud gateways like Microsoft Azure or Amazon Bedrock, but the seamless default integration goes away.",
+          "Anthropic has moved quickly to offer Cursor deeper Claude model support, underlining how fast alliances are shifting between AI labs and the coding tools built on top of them."
+        ],
+        "tags": [
+          "ai",
+          "tech",
+          "m&a"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Renewed Iran strikes and the oil spike raise the geopolitical risk premium priced into credit spreads, which could delay financing for energy, shipping and travel-sector deals while boosting advisory work on energy hedging and E&P M&A.",
+      "Rising September rate-hike odds push up the expected cost of leveraged loan and high-yield financing, likely to slow new LBO announcements and pull forward issuance from borrowers trying to price ahead of a hike.",
+      "The OpenAI-Cursor-SpaceX fallout is a live case study in AI-vendor concentration risk - TMT bankers advising on AI-software M&A now need to diligence model/API dependency as carefully as revenue and churn."
+    ],
+    "left_field_question": "If SpaceX can buy a $60bn AI startup and immediately have its core AI supplier cut it off, what does that mean for how acquirers should diligence AI-software deals going forward?",
+    "left_field_answer": "It shows a target's model or API access can now matter as much as its balance sheet, since a supplier can simply walk away if it distrusts the new owner and gut the product's core functionality overnight. Acquirers need to negotiate model access as a binding deal term rather than assume it carries over, and lenders and advisers should stress-test valuations against the scenario where a critical AI partner exits."
+  },
+  {
     "id": "2026-08-28",
     "date": "2026-08-28",
     "market_snapshot": "S&P 500 +0.72% to 7,731 · Nasdaq +1.57% to 26,541 · 10Y Treasury yield ~4.69% · Brent crude ~$88.22/bbl (-0.3%)",
