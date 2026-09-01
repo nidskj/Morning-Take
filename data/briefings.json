@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-09-01",
+    "date": "2026-09-01",
+    "market_snapshot": "S&P 500 futures -0.44% · 10Y Treasury yield 4.77% (highest since Jan 2025) · Brent crude $91.52/bbl (+1.1% on Iran strikes) · Japan 10Y JGB yield 3.0% (highest since 1996)",
+    "stories": [
+      {
+        "headline": "Iran struck back at US bases, and oil jumped again",
+        "simple": "Iran fired missiles at American military bases in Jordan and the UAE after the US bombed an Iranian target over the weekend. Oil prices rose because investors worry the fighting could spread and disrupt oil shipping.",
+        "interview_line": "Iran fired missiles at US bases in Jordan and the UAE after Washington struck Iranian rocket launchers near the Strait of Hormuz, pushing Brent crude above $91 a barrel.",
+        "detail": [
+          "Iran's Revolutionary Guard (IRGC, Iran's elite military and paramilitary force) launched drones and missiles at US-linked bases in Jordan and the UAE, hours after the US struck Iranian rocket launchers on Larak Island in the Strait of Hormuz (the narrow waterway carrying roughly a fifth of the world's seaborne oil).",
+          "Brent crude (the international oil benchmark) rose over 1% to above $91/bbl, extending a rally of more than 5% over the past week.",
+          "It's the first direct exchange of fire in about a month, reviving fears that a lull in the conflict is ending rather than holding.",
+          "Rising oil is also pushing up Treasury yields, since investors expect higher energy costs to keep inflation elevated and complicate the Fed's rate decision this month."
+        ],
+        "tags": [
+          "energy",
+          "geopolitics",
+          "macro"
+        ]
+      },
+      {
+        "headline": "Government borrowing costs just hit levels not seen in decades",
+        "simple": "The interest rates governments pay to borrow money for the long term have jumped to their highest in roughly 30 years, in both Japan and the US. That makes it more expensive for governments, companies and buyers of debt-financed deals to borrow.",
+        "interview_line": "Japan's 10-year bond yield just hit 3% for the first time since 1996, and the US 30-year Treasury yield is near its highest since 2007.",
+        "detail": [
+          "Japan's 10-year JGB (Japanese government bond) yield rose to 3% on Tuesday, the highest since 1996, on worries about the country's fiscal health (government finances) and record budget requests for next year.",
+          "The US 30-year Treasury yield is trading near 5.3%, its highest sustained level since 2007, as investors demand more compensation to hold long-dated government debt.",
+          "The 10-year US Treasury yield also topped 4.75% on Monday, the highest since January 2025, adding pressure two weeks before the Fed's next rate decision.",
+          "The US Treasury said it will double its buybacks (when the government repurchases older, less-traded bonds to improve liquidity, or how easily bonds trade without moving the price) of long-dated debt to about $4bn a session, an attempt to steady the market."
+        ],
+        "tags": [
+          "rates",
+          "credit",
+          "macro"
+        ]
+      },
+      {
+        "headline": "One of the world's biggest insurance brokers just got even bigger",
+        "simple": "Aon, a huge insurance broker, agreed to buy a rival called USI for $17 billion in cash. The seller is KKR, a private equity firm that bought USI nine years ago and is now cashing out.",
+        "interview_line": "Aon has agreed to buy rival broker USI Insurance Services from KKR for $17 billion in cash, one of the largest insurance deals in years.",
+        "detail": [
+          "Aon will pay $17bn in cash for USI Insurance Services, the tenth-largest US insurance broker (a firm that arranges insurance for clients rather than underwriting the risk itself), with the deal expected to close in the fourth quarter.",
+          "The seller, KKR (a large private equity firm), bought USI in 2017 for $4.3bn including debt and is expected to walk away with about $2bn of profit.",
+          "The deal strengthens Aon's position in the US middle-market (mid-sized business) insurance segment, which it values at more than $40bn, and adds exposure to the fast-growing E&S (excess and surplus, a specialty segment covering harder-to-place risks) market.",
+          "It's one of the largest insurance M&A deals in years and a reminder that big buyout-backed brokers remain prime takeover targets even as financing costs rise elsewhere."
+        ],
+        "tags": [
+          "m&a",
+          "banking",
+          "insurance"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Rising oil and bond yields widen the geopolitical and rate risk priced into credit spreads, likely delaying leveraged financing for energy, shipping and travel-sector deals while keeping high-yield issuance windows narrow ahead of the Fed's September meeting.",
+      "The Aon-USI deal shows PE-backed brokers and mid-market financial-services platforms remain hot exit targets - expect more sponsor-owned insurance assets to be shopped while strategic buyers with cash can still get deals done.",
+      "Surging long-end yields in both the US and Japan raise the cost of debt financing for any LBO or infrastructure deal with long-duration debt, and could pull forward bond issuance from borrowers trying to price before yields climb further."
+    ],
+    "left_field_question": "If both the US and Japan are seeing 30-year borrowing costs at multi-decade highs at the same time, is that a global problem or two unrelated national stories?",
+    "left_field_answer": "It's more global than it looks - both moves reflect the same worry, that governments are issuing more long-term debt than the market wants to absorb while inflation stays sticky. When two of the world's biggest bond markets reprice together, it raises financing costs everywhere, including for companies and buyout deals that price off those benchmark yields."
+  },
+  {
     "id": "2026-08-31",
     "date": "2026-08-31",
     "market_snapshot": "S&P 500 futures -0.36%, Nasdaq futures -0.4% · 10Y Treasury yield ~4.72% · Brent crude ~$90.31/bbl (+2% on Iran strikes) · Gold ~$4,700/oz (15-week high)",
