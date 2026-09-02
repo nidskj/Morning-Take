@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-09-02",
+    "date": "2026-09-02",
+    "market_snapshot": "S&P 500 -0.71% at 7,631 · US 10Y Treasury yield 4.79% (20-month high) · Brent crude >$95/bbl · EUR/USD 1.159 (near 2-week low)",
+    "stories": [
+      {
+        "headline": "Oil tops $95 as the US strikes Iran again in the Strait of Hormuz",
+        "simple": "The US hit an Iranian island in the Strait of Hormuz, a narrow waterway that a huge share of the world's oil passes through, and Iran struck back at US targets in the region. Oil prices jumped because traders fear the fighting could disrupt shipping.",
+        "interview_line": "The US struck an Iranian island in the Strait of Hormuz and Iran retaliated against US assets, pushing Brent crude above $95 a barrel and dragging stocks lower.",
+        "detail": [
+          "US Central Command (the US military command overseeing the Middle East) said it struck an Iranian island in the Strait of Hormuz (the chokepoint carrying roughly a fifth of the world's seaborne oil), with Tehran saying it retaliated by targeting US assets in the region.",
+          "Brent crude (the international oil benchmark) rose above $95 a barrel, its highest level in months, as traders priced in the risk of a fuller Hormuz closure.",
+          "The S&P 500 fell 0.71% to 7,631 and the FTSE 100 dropped 84 points, with chip and tech stocks hit hardest as higher energy costs revived inflation worries.",
+          "The euro slipped to around $1.159, near a two-week low, as the standoff boosted demand for the dollar as a haven (an asset investors buy for safety in times of stress)."
+        ],
+        "tags": [
+          "energy",
+          "geopolitics",
+          "macro"
+        ]
+      },
+      {
+        "headline": "Government bond yields hit their highest since 2008, despite the Treasury's rescue attempt",
+        "simple": "Interest rates on long-term government debt around the world have jumped to levels not seen since the 2008 financial crisis, even after the US Treasury promised to buy back more bonds to calm the market. That makes borrowing more expensive for governments, companies and buyout deals alike.",
+        "interview_line": "Global bond yields have climbed to their highest since 2008, with the US 10-year near 4.8% and the UK 30-year at its highest since 1998, even after the Treasury's buyback pledge.",
+        "detail": [
+          "The US 10-year Treasury yield (the benchmark rate that underpins mortgage and corporate borrowing costs) rose to about 4.79%, a 20-month high, while the UK 30-year gilt yield hit its highest level since 1998 and Germany's 10-year touched its highest since 2011.",
+          "The renewed selloff comes despite the US Treasury's pledge this week to double its buybacks (when the government repurchases its own bonds to support prices and liquidity, or how easily bonds trade without moving the price) of long-dated debt to about $4bn a session starting September 9.",
+          "Rising oil prices from the Iran conflict are adding to inflation fears, while a wave of corporate debt issuance is competing for the same investor demand - AI hyperscalers including Alphabet, Amazon, Meta, Microsoft and Oracle have sold $220bn of bonds this year to fund data centres.",
+          "The combination puts pressure on the Fed and other central banks just as they weigh rate decisions this month, with markets split on whether a cut is still likely."
+        ],
+        "tags": [
+          "rates",
+          "credit",
+          "macro"
+        ]
+      },
+      {
+        "headline": "Sony and Warner Music sue AI firm Anthropic over stolen songs",
+        "simple": "Two of the world's biggest music companies say Anthropic illegally copied tens of thousands of their songs, from the Beatles to Taylor Swift, to train its Claude AI chatbot, without paying for them.",
+        "interview_line": "Sony Music and Warner Chappell have sued Anthropic, alleging it pirated tens of thousands of songs to train its Claude AI models, in a case that could run into billions of dollars.",
+        "detail": [
+          "Sony Music Publishing and Warner Chappell allege Anthropic ran a 'brazen campaign' of torrenting and scraping copyrighted lyrics and sheet music - covering artists from the Beatles to Taylor Swift - to train Claude (Anthropic's AI chatbot).",
+          "The publishers are seeking statutory damages (damages set by law rather than proven financial losses) of up to $150,000 per infringed work across 'tens of thousands' of songs, a potential multi-billion dollar exposure.",
+          "It follows Anthropic's $1.5bn settlement last year with a group of authors over similar AI-training claims, and adds to ongoing litigation from Universal Music Group.",
+          "The case adds to a wave of lawsuits testing whether 'fair use' (a legal doctrine allowing limited use of copyrighted material without permission) covers training AI models on copyrighted content, with implications for every major AI lab."
+        ],
+        "tags": [
+          "ai",
+          "media",
+          "legal"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Surging oil prices and bond yields widen the risk premium priced into credit spreads, likely narrowing high-yield issuance windows and delaying leveraged financing for energy, shipping and travel-sector deals ahead of the Fed's September meeting.",
+      "Rising long-end yields raise the cost of debt for any LBO or infrastructure deal with long-duration financing, while heavy AI hyperscaler bond issuance is crowding out demand and could pull forward other borrowers' deals before yields climb further.",
+      "The Anthropic lawsuit raises the IP litigation risk banks must diligence when underwriting AI infrastructure financing and data-centre debt deals, and could slow AI-related M&A while copyright exposure remains unresolved."
+    ],
+    "left_field_question": "If you were advising an airline or oil major today, would you tell them to hedge fuel costs at $95 a barrel, or bet this Middle East spike fades?",
+    "left_field_answer": "I'd lean toward partial hedging - locking in some volume near current levels to protect against a full Hormuz closure, while leaving room to benefit if diplomacy de-escalates and prices retreat. Given how fast oil has moved on headlines this week, flexibility matters as much as the price you lock in."
+  },
+  {
     "id": "2026-09-01",
     "date": "2026-09-01",
     "market_snapshot": "S&P 500 futures -0.44% · 10Y Treasury yield 4.77% (highest since Jan 2025) · Brent crude $91.52/bbl (+1.1% on Iran strikes) · Japan 10Y JGB yield 3.0% (highest since 1996)",
