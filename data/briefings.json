@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-09-03",
+    "date": "2026-09-03",
+    "market_snapshot": "S&P 500 +0.46% to 7,666.60 · US 10Y Treasury yield 4.818% (highest since Nov 2023) · Brent crude $95.25/bbl · EUR/USD 1.16",
+    "stories": [
+      {
+        "headline": "Oil is closing in on $100 a barrel as the Iran war drags on",
+        "simple": "Fighting between the US and Iran is getting worse, and Iran has now struck back at countries hosting American troops. Oil prices are surging because so much of the world's oil ships through that region, and more expensive oil means more expensive everything else.",
+        "interview_line": "The US and Iran are trading strikes again, and Iran has hit Jordan, Bahrain and Kuwait, pushing Brent crude toward $100 a barrel and reviving inflation fears.",
+        "detail": [
+          "The US carried out fresh strikes on Iran overnight, with Iran retaliating against Jordan, Bahrain and Kuwait - countries that host American forces in the region.",
+          "Brent crude (the international oil benchmark) is trading around $95/bbl and WTI (the US oil benchmark) near $92/bbl, both up sharply as traders price in the risk of a wider Strait of Hormuz disruption (the narrow waterway carrying roughly a fifth of the world's seaborne oil).",
+          "European natural gas futures have hit a three-year high, with the IEA (International Energy Agency) calling the disruption one of the largest in the history of the global oil market.",
+          "Higher energy costs feed straight into inflation, which is why this conflict is now as much a story for central banks and bond markets as it is for the Middle East."
+        ],
+        "tags": [
+          "energy",
+          "geopolitics",
+          "macro"
+        ]
+      },
+      {
+        "headline": "Bond markets are betting the Fed will raise rates, not cut them",
+        "simple": "Investors now think there's a good chance the US central bank raises interest rates this month instead of cutting them, because inflation isn't coming down fast enough. That's pushed the cost of government borrowing to its highest level in nearly three years.",
+        "interview_line": "Markets are now pricing in real odds of a Fed rate hike this month, and the 10-year Treasury yield just hit its highest level since November 2023.",
+        "detail": [
+          "Fed Chair Kevin Warsh struck a hawkish tone (signalling a preference for tighter policy) at Jackson Hole, and Fed Governor Michael Barr said he'd support a hike if inflation doesn't ease, lifting the market-implied odds of a September rate rise to roughly two-in-three.",
+          "The US 10-year Treasury yield (the benchmark rate that underpins mortgage and corporate borrowing costs) climbed to 4.818%, its highest since November 2023.",
+          "Surging oil prices from the Iran conflict are compounding the problem, feeding inflation just as the Fed weighs its next move.",
+          "Stocks snapped a three-day losing streak on Wednesday even as yields rose, with the Dow, S&P 500 and Nasdaq all closing higher, suggesting equity investors are for now looking past the rate risk."
+        ],
+        "tags": [
+          "rates",
+          "macro",
+          "credit"
+        ]
+      },
+      {
+        "headline": "Apple just got its first new CEO in 15 years",
+        "simple": "Tim Cook has stepped down as Apple's boss after running the company for 15 years, handing the job to John Ternus, a longtime Apple engineer. Cook isn't leaving entirely - he's becoming chairman and will keep dealing with governments on Apple's behalf.",
+        "interview_line": "John Ternus has taken over as Apple CEO from Tim Cook, who becomes executive chairman after 15 years in charge and growing the company to a $4.6 trillion valuation.",
+        "detail": [
+          "John Ternus, Apple's head of hardware engineering (the division that builds the iPhone, iPad, AirPods and Apple Watch) since 2013, officially became CEO on September 1, succeeding Tim Cook.",
+          "Cook moves to executive chairman of Apple's board, staying on to handle 'certain aspects of the company', including relationships with policymakers, rather than leaving entirely.",
+          "Cook's 15-year tenure took Apple's market value from roughly $350bn to about $4.6 trillion, making this one of the most closely watched corporate successions in recent memory.",
+          "Apple shares rose even as the broader market sold off on the news, with investors' attention now turning to the September 9 product event, expected to unveil the iPhone 18 lineup and Apple's first foldable iPhone."
+        ],
+        "tags": [
+          "tech",
+          "leadership",
+          "equities"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Rising oil prices and a possible Fed hike push financing costs up together, likely narrowing the window for leveraged loan and high-yield bond issuance for deals across sectors just as borrowing costs climb.",
+      "A hawkish Fed raises the discount rate used in M&A valuations, which could widen bid-ask spreads between buyers and sellers and slow deal announcements in rate-sensitive sectors like real estate and infrastructure.",
+      "A smooth, market-tested succession at Apple is a reassuring data point for governance-focused institutional investors and bankers advising other mega-cap tech companies on their own CEO transition planning."
+    ],
+    "left_field_question": "If a client asked whether now is a good time to launch a debt-financed acquisition, with oil near $100 and the Fed possibly hiking, what would you tell them?",
+    "left_field_answer": "I'd say lock in financing sooner rather than later - if the Fed hikes this month, borrowing only gets more expensive from here. But I'd also stress-test the deal's returns against a scenario where rates stay elevated for longer, since this isn't looking like a short-lived spike."
+  },
+  {
     "id": "2026-09-02",
     "date": "2026-09-02",
     "market_snapshot": "S&P 500 -0.71% at 7,631 · US 10Y Treasury yield 4.79% (20-month high) · Brent crude >$95/bbl · EUR/USD 1.159 (near 2-week low)",
