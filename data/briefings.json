@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-09-04",
+    "date": "2026-09-04",
+    "market_snapshot": "S&P 500 +1.06% to 7,747.71 · US 10Y Treasury yield 4.77% (down from Wednesday's 3-year high) · Brent crude ~$95/bbl · dollar near 4-month low, ¥156.28/$",
+    "stories": [
+      {
+        "headline": "Wall Street rallies as bets on a Fed rate hike cool off",
+        "simple": "A top Federal Reserve official signalled he wants to leave interest rates unchanged for now, calming fears of a rate hike. Markets cheered, and all eyes are now on today's jobs report, which could decide what the Fed does next.",
+        "interview_line": "Fed Governor Waller said he's leaning toward holding rates steady, and stocks jumped on the news ahead of today's closely watched jobs report.",
+        "detail": [
+          "Fed Governor Christopher Waller said Thursday he's leaning toward keeping rates on hold at the September meeting absent any inflation surprises, pulling odds of a hike (traders' implied probability from fed funds futures, contracts that bet on the Fed's next move) down to about 50%, from over 60% a day earlier.",
+          "The S&P 500 jumped 1.06% to 7,747.71 and the Dow rose 1.18% to 53,686.11, snapping back after this week's hawkish-driven selloff, while the 10-year Treasury yield (the benchmark government borrowing rate that underpins mortgage and corporate costs) eased back from its three-year high.",
+          "Today's August jobs report (nonfarm payrolls, the government's monthly count of US jobs added) is the next big swing factor - economists expect a weak reading of around +55,000 to +65,000, which would reinforce the case for holding rates steady.",
+          "The Fed is caught between conflicting pressure: Chair Kevin Warsh has hinted inflation may require hikes, while Vice President JD Vance and President Trump are publicly pushing for cuts to ease housing costs."
+        ],
+        "tags": [
+          "rates",
+          "macro",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Oil prices ease back as more crude flows through the Strait of Hormuz",
+        "simple": "The price of oil has come down a bit after days of fears that fighting near the Middle East's most important shipping route would cut off supplies. More oil tankers are getting through than expected, which is calming nerves - though the price is still much higher than before the conflict.",
+        "interview_line": "Brent crude has slipped back from this week's highs after record volumes of oil moved through the Strait of Hormuz, but it's still trading well above pre-conflict levels.",
+        "detail": [
+          "Brent crude (the international oil benchmark) eased to around $95/bbl, pulling back from a three-day rally, after US Energy Secretary Chris Wright said 17 million barrels transited the Strait of Hormuz (the narrow waterway carrying roughly a fifth of the world's seaborne oil) on Monday - the highest daily volume since the conflict began.",
+          "The pullback suggests traders are pricing in somewhat less risk of a full blockade, even as US-Iran strikes continue and the region remains volatile.",
+          "J.P. Morgan still expects Brent to average around $86/bbl in the third quarter, well above pre-conflict levels near $70, meaning the inflation risk from energy costs hasn't gone away even as the immediate panic eases.",
+          "Higher-for-longer oil prices continue to complicate the Fed's rate decision, since energy costs feed directly into headline inflation."
+        ],
+        "tags": [
+          "energy",
+          "geopolitics",
+          "macro"
+        ]
+      },
+      {
+        "headline": "OpenAI is lining up Wall Street banks for an IPO that could value it at $1 trillion",
+        "simple": "OpenAI, the company behind ChatGPT, is preparing to go public as soon as this month. Bankers reportedly think it could be valued at around $1 trillion, which would make it one of the biggest stock market debuts ever.",
+        "interview_line": "OpenAI has picked Goldman Sachs and Morgan Stanley to lead an IPO that could target a valuation near $1 trillion as soon as this month.",
+        "detail": [
+          "OpenAI is preparing a confidential IPO filing (a draft prospectus filed privately with regulators ahead of a public listing) with Goldman Sachs and Morgan Stanley as lead underwriters (the banks that manage and price the share sale), targeting a debut as soon as September.",
+          "The offering is reportedly being pitched around a $1 trillion valuation and could raise $60 billion or more, which would rank among the largest IPOs in history.",
+          "Rival lab Anthropic is also said to be eyeing a listing later this year at close to a $1 trillion valuation, setting up a race between the two biggest AI labs for public markets' attention and capital.",
+          "A deal this size would be a major fee event for whichever banks lead it, and a bellwether for how public investors are willing to value AI companies that are still burning significant cash."
+        ],
+        "tags": [
+          "tech",
+          "ipo",
+          "banking"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "A cooling in Fed hike odds ahead of today's payrolls print could reopen the window for leveraged loan and high-yield issuance that a hawkish Fed had been squeezing shut.",
+      "An OpenAI listing at a reported $1 trillion valuation would be one of the largest tech IPO mandates in years, and the Goldman/Morgan Stanley pairing sets the bar other banks will be measured against when pitching Anthropic's rumoured IPO.",
+      "Elevated oil prices and Middle East risk keep energy and shipping sector M&A live, but also raise financing costs across the board until the rate picture clears."
+    ],
+    "left_field_question": "If OpenAI lists at a $1 trillion valuation while still burning cash, how would you defend that price to a skeptical institutional investor?",
+    "left_field_answer": "I'd point to its revenue growth trajectory and its lock on the consumer AI market, but I'd also be upfront that this is a growth story priced on future profitability, not current earnings - so the pitch has to be about durable competitive advantage, not near-term multiples."
+  },
+  {
     "id": "2026-09-03",
     "date": "2026-09-03",
     "market_snapshot": "S&P 500 +0.46% to 7,666.60 · US 10Y Treasury yield 4.818% (highest since Nov 2023) · Brent crude $95.25/bbl · EUR/USD 1.16",
