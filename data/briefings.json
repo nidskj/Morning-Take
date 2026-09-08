@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-09-08",
+    "date": "2026-09-08",
+    "market_snapshot": "S&P 500 -0.15% to 7,707 · 10-year Treasury yield ~4.81% · Brent crude ~$97.7/bbl, WTI ~$93/bbl (near 2026 highs) · DXY -0.3% to ~98.9 · Gold ~$4,407/oz",
+    "stories": [
+      {
+        "headline": "Oil edges toward $100 a barrel as the US and Iran keep trading strikes",
+        "simple": "Fighting between the US and Iran is getting worse, and it's pushing up the price of oil. That matters because pricier oil means pricier petrol and higher costs across the whole economy.",
+        "interview_line": "Oil is closing in on $100 a barrel because the US and Iran keep hitting each other's ships and refineries, and that's the market's biggest inflation worry right now.",
+        "detail": [
+          "Brent crude (the international oil price benchmark) is trading near $97.7/bbl and WTI (the US benchmark) near $93/bbl, both extending gains for a third straight session.",
+          "The latest flare-up followed a strike on Saudi Arabia's Jizan refinery (an oil-processing plant with 400,000 barrels/day of capacity), adding to the tanker strikes and missile exchanges between the US and Iran reported over the past week.",
+          "Goldman Sachs raised its December Brent forecast by $5 to $85/bbl, even as Iran says a deal with Oman to manage safe passage through the Strait of Hormuz (the narrow chokepoint carrying roughly a fifth of the world's seaborne oil) could be days away.",
+          "Higher, stickier oil prices feed straight into inflation just as the Fed (the US central bank) weighs whether to raise rates next week."
+        ],
+        "tags": [
+          "energy",
+          "geopolitics",
+          "inflation"
+        ]
+      },
+      {
+        "headline": "The Fed's next move is a genuine coin flip",
+        "simple": "America's central bank might raise interest rates instead of cutting them, because jobs and prices are running hotter than expected. A rate rise would make borrowing more expensive everywhere, from mortgages to company loans.",
+        "interview_line": "Markets now see the Fed's September decision as roughly 50/50 between holding steady and hiking rates — a month ago, everyone expected a cut.",
+        "detail": [
+          "Traders are pricing close to even odds between the Fed holding rates and a 25 basis-point hike (a basis point is 1/100th of a percentage point) at the September 15-16 FOMC (Federal Open Market Committee, the Fed's rate-setting body) meeting.",
+          "August payrolls (the monthly US jobs report) added 162,000 jobs, well above forecasts, with unemployment steady at 4.1%, pointing to a labour market that's still running hot.",
+          "The swing factor is the August CPI (Consumer Price Index, the main inflation gauge) release on September 11; Fed Governor Waller says he'd back holding rates if inflation keeps cooling, but would 'consider' a hike if it comes in hot.",
+          "The 10-year Treasury yield (a benchmark that also feeds into mortgage and corporate borrowing costs) has climbed to about 4.81% as investors price in higher odds of a hike."
+        ],
+        "tags": [
+          "rates",
+          "macro",
+          "banking"
+        ]
+      },
+      {
+        "headline": "Big Tech is about to spend a record $725bn building AI infrastructure",
+        "simple": "Amazon, Google, Microsoft and Meta are planning to spend more money than ever before on AI computers and data centres next year — a huge jump from what they spent this year.",
+        "interview_line": "The four biggest tech companies are set to spend $725bn on AI infrastructure in 2026, up 77% on last year, and banks are financing a lot of it.",
+        "detail": [
+          "Amazon, Alphabet (Google's parent), Microsoft and Meta plan combined capex (capital expenditure, spending on long-life assets like buildings and equipment) of roughly $725bn in 2026, up 77% year-on-year.",
+          "Amazon leads at around $200bn, followed by Google ($175-185bn), Meta ($115-135bn) and Microsoft ($110-120bn), mostly funding Nvidia GPUs (graphics processing units, the chips that power AI) and new data centres.",
+          "Hyperscalers (the large cloud/tech firms running the data centres) say they still can't build capacity fast enough to meet AI demand, which is driving a wave of debt issuance and vendor-financing deals.",
+          "Some investors are starting to question whether the returns will ever justify spending at this scale, a debate that could sharpen if borrowing costs rise alongside the Fed's rate decision."
+        ],
+        "tags": [
+          "tech",
+          "financing",
+          "ai"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Elevated oil prices and rising odds of a Fed hike widen the range of financing scenarios for leveraged loans and high-yield bonds, likely keeping issuance windows choppy until the CPI print clarifies the rate path.",
+      "Energy sector hedging and M&A mandates pick up as producers and airlines look to lock in or hedge against prices near multi-year highs.",
+      "Record hyperscaler AI capex is a bright spot for leveraged finance and structured/vendor-financing desks even as broader dealflow stays cautious on rate uncertainty."
+    ],
+    "left_field_question": "If oil pushes through $100 a barrel in the same week the Fed hikes rates, what happens to airline stocks?",
+    "left_field_answer": "They'd likely get hit twice over — higher fuel costs squeeze margins directly, and higher rates make it pricier to finance the debt and aircraft leases airlines carry. Investors would probably rotate toward energy names and away from consumer-facing travel stocks."
+  },
+  {
     "id": "2026-09-07",
     "date": "2026-09-07",
     "market_snapshot": "Stoxx 600 -0.1% · FTSE 100 -0.12% · US markets shut for Labor Day · Brent crude ~$97/bbl (+1.15%, near 2026 highs on Iran escalation) · EUR/USD ~1.16",
