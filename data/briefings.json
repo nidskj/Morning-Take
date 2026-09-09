@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-09-09",
+    "date": "2026-09-09",
+    "market_snapshot": "S&P 500 -0.6% to ~7,661 · Dow -628pts · 10-year Treasury yield ~4.79% · Brent crude ~$99.7/bbl (testing $100, highest since July) · DXY -0.1% to ~98.75 · EUR/USD ~1.163",
+    "stories": [
+      {
+        "headline": "Oil is nearing $100 a barrel after more US-Iran strikes",
+        "simple": "Fighting between the US and Iran keeps escalating, and it's pushing the price of oil close to $100 a barrel for the first time in months. That makes petrol, shipping and manufacturing more expensive everywhere.",
+        "interview_line": "Oil is testing $100 a barrel again as the US and Iran keep exchanging strikes, and that's now the single biggest risk to the inflation outlook.",
+        "detail": [
+          "Brent crude (the international oil-price benchmark) touched around $99.7 a barrel, its highest since July, after the US struck Iranian oil tankers near Kharg Island (Iran's main crude export terminal, loading roughly 90% of its oil exports).",
+          "US stocks fell on the back of it: the S&P 500 dropped about 0.6% and the Dow lost roughly 628 points, as investors worried pricier oil will squeeze corporate margins and keep the Fed (the US central bank) from cutting rates.",
+          "The 10-year Treasury yield (a benchmark that feeds into mortgage and corporate borrowing costs) held near 4.79%, reflecting higher odds that inflation stays sticky.",
+          "All eyes are on Friday's US CPI (Consumer Price Index, the main inflation gauge) print and the September 15-16 FOMC (Federal Open Market Committee, the Fed's rate-setting body) meeting, where a hike is now back on the table."
+        ],
+        "tags": ["energy", "rates", "geopolitics"]
+      },
+      {
+        "headline": "Apple's new boss unveils its first folding iPhone",
+        "simple": "Apple has a new CEO, John Ternus, and today he's leading the company's biggest product launch of the year - including its first-ever folding iPhone and a smarter version of Siri. It's his first real test in the job.",
+        "interview_line": "Apple just handed the keys to new CEO John Ternus, who's using today's launch - including the company's first folding iPhone - to prove he can fill Tim Cook's shoes.",
+        "detail": [
+          "Tim Cook stepped down as CEO on September 1 and became executive chairman; John Ternus, previously Apple's hardware engineering chief, is now CEO and is fronting today's launch event himself.",
+          "The headline product is Apple's first foldable iPhone, alongside a rebuilt version of Siri (Apple's voice assistant) that uses large language model technology (the AI approach behind chatbots like ChatGPT) to handle tasks like messaging and calendar bookings.",
+          "It's the first time in over a decade someone other than Cook has introduced Apple's flagship products on stage, a closely watched signal of how much the company's strategy and culture will shift under new leadership.",
+          "Investors will be watching whether the new hardware and AI features can reignite iPhone upgrade demand, a key swing factor for Apple's earnings and its multi-trillion-dollar market capitalisation (the total value of all its shares)."
+        ],
+        "tags": ["tech", "consumer", "ai"]
+      },
+      {
+        "headline": "Nvidia is buying AI darling Hugging Face for $12.9bn",
+        "simple": "Nvidia, the chip company at the centre of the AI boom, is buying Hugging Face, a popular platform where developers share AI models. It's a sign Nvidia wants to control more of the AI ecosystem, not just sell the chips.",
+        "interview_line": "Nvidia just confirmed a $12.9bn deal to buy Hugging Face, extending its reach from AI chips into the software and developer tools that sit on top of them.",
+        "detail": [
+          "Nvidia confirmed it will acquire Hugging Face (a platform where AI developers host and share open-source models, often called 'the GitHub of AI') for roughly $12.9bn.",
+          "The deal is one of Nvidia's largest to date and pushes it further beyond chipmaking into AI software and developer infrastructure, deepening its lock-in with the developers who build on its GPUs (graphics processing units, the chips used to train and run AI models).",
+          "It lands in the same week Big Tech's AI capex (capital expenditure, spending on long-term assets like data centres) story keeps growing, reinforcing how much financing and M&A activity is now flowing through the AI supply chain.",
+          "Regulators are expected to scrutinise the deal given Nvidia's dominant position in AI chips, raising the prospect of a lengthy antitrust (anti-monopoly law) review before it closes."
+        ],
+        "tags": ["m&a", "ai", "tech"]
+      }
+    ],
+    "ibd_relevance": [
+      "Oil-driven volatility and a live Fed hike risk are likely to keep high-yield and leveraged loan issuance windows choppy until Friday's CPI print clarifies the rate path.",
+      "Apple's leadership transition and new product cycle keep supplier and component financing active, while investors watch for capital-return or M&A signals from the new CEO.",
+      "The Nvidia-Hugging Face deal adds to a wave of AI-driven M&A and financing mandates, and its scale will likely draw a full antitrust review that shapes how future AI deals get structured."
+    ],
+    "left_field_question": "With oil near $100, a new Apple CEO on stage, and Nvidia buying its way deeper into AI software, which of today's three stories will still matter in five years?",
+    "left_field_answer": "Probably the Nvidia deal. Oil spikes and iPhone launches are cyclical and get forgotten within a quarter or two, but Nvidia buying core AI infrastructure like Hugging Face is part of a structural land-grab for control of the AI stack - the kind of positioning that shapes who wins the next decade of tech, not just this year's news cycle."
+  },
+  {
     "id": "2026-09-08",
     "date": "2026-09-08",
     "market_snapshot": "S&P 500 -0.15% to 7,707 · 10-year Treasury yield ~4.81% · Brent crude ~$97.7/bbl, WTI ~$93/bbl (near 2026 highs) · DXY -0.3% to ~98.9 · Gold ~$4,407/oz",
@@ -104,7 +154,7 @@
         "interview_line": "Portugal has pushed Lufthansa and Air France-KLM into a final bidding round for a stake in TAP after ruling their offers too evenly matched to choose between.",
         "detail": [
           "Lufthansa and Air France-KLM both submitted binding offers in July for a 44.9% stake in TAP Air Portugal, after Iberia-owner IAG (International Airlines Group) dropped out of the race earlier in the process.",
-          "Parpública, the state holding company managing Portugal's stake, concluded the two bids were too closely matched to pick a preferred bidder, so Lisbon has opened a final negotiation round expected to run several weeks.",
+          "Parpública, the state holding company managing Portugal's stake, concluded the two bids were too closely matched to pick a preferred bidder, so Lisbon has opened a final negotiation round expected to run several weeks.",
           "The winning bidder could take on joint management of TAP as early as this year, though the actual capital injection isn't expected until summer 2027, and the Portuguese state will keep majority control.",
           "It's the latest step in European airline consolidation (larger carriers absorbing smaller national ones), continuing a trend that has already reshaped the industry through deals like Lufthansa's stake in ITA Airways."
         ],
