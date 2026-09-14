@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-09-14",
+    "date": "2026-09-14",
+    "market_snapshot": "S&P 500 -0.5% to ~7,619 · Nasdaq futures -1.3% · 10-year Treasury yield ~4.98% · Brent crude ~$108/bbl · Dollar index (DXY) ~99.4",
+    "stories": [
+      {
+        "headline": "Middle East oil shock deepens as key export routes shut",
+        "simple": "Fighting in the Middle East has closed one of the world's main oil shipping lanes and forced Saudi Arabia to shut its backup pipeline too. Oil prices have jumped to their highest level in months, and that filters through to almost everything else.",
+        "interview_line": "Oil has broken above $108 a barrel after Saudi Arabia shut its main backup pipeline following drone strikes, with the Strait of Hormuz already effectively closed.",
+        "detail": [
+          "Brent crude (the global oil-price benchmark) rose over 3% to cross $108 a barrel, while WTI (West Texas Intermediate, the main US oil-price benchmark) climbed to around $102.",
+          "Saudi Arabia shut its East-West pipeline, the 1,200km backup route it uses to bypass the Strait of Hormuz (the narrow waterway at the mouth of the Persian Gulf that around a fifth of the world's oil passes through), after repeated drone strikes removed its main alternative export path.",
+          "The IEA (International Energy Agency, the West's energy watchdog) says Saudi crude supply has fallen to its lowest level in more than three decades, while tanker traffic through Hormuz has dropped to single digits a day versus a normal ~125.",
+          "War-risk insurance and freight costs are climbing again as shippers reroute or halt voyages, adding to the inflationary pass-through into fuel, shipping and goods prices."
+        ],
+        "tags": [
+          "energy",
+          "geopolitics",
+          "shipping"
+        ]
+      },
+      {
+        "headline": "A Fed rate hike is suddenly back on the table",
+        "simple": "America's central bank looked ready to cut interest rates earlier this year. Now, because oil-driven inflation is picking up, investors think it might raise rates instead when it meets this week.",
+        "interview_line": "Markets have swung to pricing in a real chance of a Fed rate hike on Wednesday, a sharp reversal driven by oil-fuelled inflation fears rather than an overheating economy.",
+        "detail": [
+          "The Fed's rate-setting FOMC (Federal Open Market Committee) meets September 15-16, and futures markets have pushed the odds of a 25 basis point (a hundredth of a percentage point) hike sharply higher over the past week.",
+          "The shift follows hawkish comments from Fed officials and hotter inflation data, as rising energy costs from the Middle East disruption feed into headline CPI (Consumer Price Index, the main measure of consumer inflation).",
+          "The 10-year Treasury yield (the benchmark long-term US government borrowing rate) is trading near 4.98%, close to its highest level since October 2023.",
+          "A hike now would mark an unusual pivot: the Fed would be tightening policy in response to a supply-side oil shock rather than an overheating economy, a classic stagflation-style dilemma (weak growth alongside high inflation)."
+        ],
+        "tags": [
+          "rates",
+          "central-banks",
+          "inflation"
+        ]
+      },
+      {
+        "headline": "AI's own leaders are now calling for the industry to slow down",
+        "simple": "The bosses of the biggest AI companies, including Anthropic, OpenAI and Elon Musk's xAI, have publicly said AI development is moving too fast and needs to slow down. Investors panicked and sold off AI-related stocks hard.",
+        "interview_line": "Anthropic, OpenAI and xAI's chiefs have all called for AI development to slow down, triggering a sharp selloff in chip and AI-linked stocks and OpenAI shelving its planned IPO.",
+        "detail": [
+          "Anthropic CEO Dario Amodei called for AI labs to slow the pace at which they advance model capabilities, citing safety concerns, with OpenAI's Sam Altman and xAI's Elon Musk both saying they agreed.",
+          "Chip and AI-linked stocks sold off sharply: South Korea's SK Hynix and Samsung Electronics (major memory-chip makers) fell more than 6% and 4%, while SoftBank (a top investor in OpenAI) dropped 10% in Tokyo.",
+          "In Europe, chip-equipment maker ASML and semiconductor firms Infineon and Nokia all fell 4-6%, and Nasdaq futures (a gauge of US tech-heavy stock sentiment) dropped 1.3% in early trading.",
+          "Altman said OpenAI would shelve its planned IPO (initial public offering, when a private company first sells shares to the public) this year, citing safety concerns, a signal that could cool the wider AI financing and dealmaking pipeline."
+        ],
+        "tags": [
+          "tech",
+          "ai",
+          "equities"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Energy financing and hedging activity should pick up as producers and shippers manage the supply shock, while war-risk costs squeeze deal economics in shipping and logistics M&A.",
+      "A hawkish Fed repricing raises the cost of leveraged loans and high-yield bonds just as issuance windows were reopening, likely pushing sponsors to delay LBOs and IPO roadshows.",
+      "The AI slowdown call and OpenAI's shelved listing could cool tech IPO and follow-on pipelines and dent valuations underpinning chipmaker capex-linked M&A."
+    ],
+    "left_field_question": "If the people building AI are the ones calling for it to slow down, how do you value an AI company whose growth story just got questioned by its own founders?",
+    "left_field_answer": "You'd probably haircut the growth assumptions baked into current valuations and price in more regulatory and reputational risk. It also strengthens the case for diversifying exposure across infrastructure like chips and data centres rather than betting purely on frontier-model developers, since the slowdown call is really about capability races, not underlying demand for compute."
+  },
+  {
     "id": "2026-09-11",
     "date": "2026-09-11",
     "market_snapshot": "FTSE 100 -0.57% to 10,609 (5th straight daily fall) · 10-year Treasury yield ~4.94% (highest since Oct 2023) · Brent crude ~$106/bbl (4-month high) · Dollar index (DXY) ~99.1, near a one-week high ahead of US CPI",
