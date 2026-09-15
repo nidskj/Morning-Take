@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-09-15",
+    "date": "2026-09-15",
+    "market_snapshot": "S&P 500 futures -0.5% · 10-year Treasury yield 5.02% (highest since 2007) · Brent crude ~$107.80/bbl (session high ~$109) · EUR/USD $1.16 · GBP/USD $1.35",
+    "stories": [
+      {
+        "headline": "US government borrowing costs hit their highest level in almost 20 years",
+        "simple": "The interest rate the US government pays to borrow money for 10 years has broken above 5% for the first time since 2007. That makes borrowing more expensive for governments, companies and eventually everyday loans like mortgages.",
+        "interview_line": "The 10-year Treasury yield broke above 5% today, its highest since 2007, as a global bond selloff deepened on oil-driven inflation fears and heavy AI-linked corporate borrowing.",
+        "detail": [
+          "The 10-year Treasury yield (the benchmark rate for long-term US government borrowing, which feeds into mortgage and corporate loan pricing) rose to 5.02%, the highest level since July 2007.",
+          "The move caps a broader global bond selloff (a period of falling bond prices and rising yields as investors sell government debt), with yields also climbing in the UK, Japan and across Europe.",
+          "Analysts point to a mix of drivers: oil-fuelled inflation from the Middle East supply shock, heavy government borrowing, and a surge in corporate debt issuance (bond sales) by AI companies funding data centre buildouts, which is crowding out demand for Treasuries.",
+          "Higher yields raise the discount rate (the rate used to value future company profits in today's money) applied to growth stocks, adding pressure to already-stretched tech valuations."
+        ],
+        "tags": [
+          "rates",
+          "credit",
+          "bonds"
+        ]
+      },
+      {
+        "headline": "Saudi Arabia's oil supply crunch is getting worse, and could last weeks",
+        "simple": "Drone attacks knocked out one of Saudi Arabia's main oil pipelines, and officials now say it could take three to five weeks to fix. That's enough of a hit that the world could lose a meaningful slice of its oil supply.",
+        "interview_line": "Saudi officials now expect three to five weeks to repair the drone-damaged East-West pipeline, a delay that could strip out up to 4% of global oil supply and is keeping Brent crude near $109 a barrel.",
+        "detail": [
+          "Saudi Arabia's East-West pipeline (its main backup route for exporting oil without going through the Strait of Hormuz, the narrow waterway at the mouth of the Persian Gulf) remains shut after drone strikes; officials say repairs, including to a major pumping station, could take three to five weeks.",
+          "Brent crude (the global oil-price benchmark) has climbed back toward $109 a barrel, adding to inflation pressure just as central banks weigh their next move on interest rates.",
+          "With the Strait of Hormuz already disrupted, analysts warn Saudi Arabia could run down its export stockpiles within days if the pipeline isn't restored quickly, putting up to 4% of global oil supply at risk.",
+          "Sustained high oil prices raise costs across shipping, manufacturing and consumer goods, and complicate the Fed's rate decision by pushing headline inflation higher even as growth cools."
+        ],
+        "tags": [
+          "energy",
+          "geopolitics",
+          "commodities"
+        ]
+      },
+      {
+        "headline": "Chip and AI stocks keep sliding as investors question sky-high valuations",
+        "simple": "Shares in chipmakers and AI-related companies fell again as investors worry the industry has been spending too much money too fast, without proof it will pay off.",
+        "interview_line": "Nvidia and Micron led another leg down in chip and AI stocks today, as investors grow more nervous that valuations built on breakneck AI spending have outrun the evidence of returns.",
+        "detail": [
+          "Nvidia (the dominant maker of AI chips) fell around 3.4% and Micron Technology (a major memory-chip maker) dropped about 5.3%, extending the selloff that began after AI industry leaders called for a development slowdown.",
+          "Asian markets felt the pain too, with South Korea's KOSPI index closing down over 3%, reflecting how tightly chip supply chains in Korea, Taiwan and Japan are tied to US AI capital spending.",
+          "The retreat comes as rising bond yields raise the discount rate (the rate used to value future profits in today's money) applied to growth stocks, making richly-valued, not-yet-fully-profitable AI names look more expensive by comparison.",
+          "Investors are increasingly focused on capex (capital expenditure, the money companies spend building data centres and buying chips) versus actual AI revenue, with critics warning spending has outpaced proven returns."
+        ],
+        "tags": [
+          "tech",
+          "ai",
+          "equities"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Rising Treasury yields push up the cost of leveraged loans and high-yield bonds, likely delaying LBOs (leveraged buyouts) and pressuring debt-financed M&A across sectors.",
+      "A prolonged oil supply disruption should keep energy financing, hedging and infrastructure M&A active, while raising input-cost risk in due diligence for consumer and industrials deals.",
+      "Continued AI/chip valuation pressure could cool tech IPO and follow-on pipelines further, though a re-rating may also open opportunities for value-oriented take-private and consolidation deals."
+    ],
+    "left_field_question": "If both oil and bond yields are spiking at the same time, is that a supply problem, an inflation problem, or a growth problem - and does it matter which?",
+    "left_field_answer": "It's mainly a supply-and-inflation problem right now: the oil shock is pushing up prices directly, and that's bleeding into bond yields as investors demand more compensation for future inflation risk. It matters because if it were a growth problem, central banks could cut rates to help; but a supply-driven inflation spike means the Fed may have to raise rates into weaker growth, which is the classic stagflation trade-off."
+  },
+  {
     "id": "2026-09-14",
     "date": "2026-09-14",
     "market_snapshot": "S&P 500 -0.5% to ~7,619 · Nasdaq futures -1.3% · 10-year Treasury yield ~4.98% · Brent crude ~$108/bbl · Dollar index (DXY) ~99.4",
