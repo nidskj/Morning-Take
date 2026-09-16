@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-09-16",
+    "date": "2026-09-16",
+    "market_snapshot": "S&P 500 futures -0.2% · 10-year Treasury yield 5.04% (highest since 2007) · Brent crude ~$107/bbl · EUR/USD $1.16 · GBP/USD $1.34",
+    "stories": [
+      {
+        "headline": "The Fed is expected to raise interest rates today for the first time in three years",
+        "simple": "America's central bank meets today and is widely expected to raise the cost of borrowing money, its first rate increase since 2023. That could make loans, mortgages and credit cards more expensive.",
+        "interview_line": "Markets are pricing in a roughly 90% chance the Fed hikes rates today for the first time since 2023, as it tries to get inflation back under control.",
+        "detail": [
+          "Traders are pricing in a roughly 90% probability of a 25 basis point hike (0.25 percentage points) that would lift the federal funds rate (the Fed's key overnight lending rate, which anchors borrowing costs economy-wide) to a 4.00%-4.25% range.",
+          "The move would be the Fed's first hike since 2023, reversing course after a run of cuts, as annual PCE inflation (the Fed's preferred inflation gauge) is still running near 3.7%, well above its 2% target.",
+          "Markets are focused less on the hike itself, which is largely priced in, and more on the updated dot plot (the Fed's chart of individual officials' rate forecasts) and Chair Kevin Warsh's press conference for signals on further tightening.",
+          "A hike raises the risk-free rate (the return on the safest possible investment, usually government debt) used to price every other asset, adding further pressure to already-elevated Treasury yields and stretched equity valuations."
+        ],
+        "tags": [
+          "rates",
+          "banking",
+          "macro"
+        ]
+      },
+      {
+        "headline": "Saudi Arabia's oil supply problems are getting worse, and it's pushing energy prices higher worldwide",
+        "simple": "Attacks knocked out a key Saudi oil pipeline, and repairs could take anywhere from days to two months. Oil prices are swinging wildly as a result, which eventually feeds into petrol and diesel prices.",
+        "interview_line": "A key Saudi pipeline carrying 7 million barrels a day has been offline since an attack, and Brent crude is back above $107 just as the Fed meets against a backdrop of an energy-driven inflation shock.",
+        "detail": [
+          "Saudi Arabia shut its East-West pipeline (a major artery moving Saudi crude overland to the Red Sea, bypassing the Strait of Hormuz) after strikes from Iran-backed forces, taking roughly 7 million barrels a day of capacity offline.",
+          "Brent crude (the international oil benchmark) has swung between roughly $104 and $109 a barrel this week; repair estimates for the pipeline range from days to eight weeks.",
+          "Saudi output has reportedly fallen to its lowest since 1990 as tanker flows through the Gulf remain disrupted, forcing OPEC (the oil producers' cartel) members to cut production further.",
+          "The energy shock is feeding directly into the inflation numbers the Fed is watching today, complicating the central bank's rate decision."
+        ],
+        "tags": [
+          "energy",
+          "macro",
+          "rates"
+        ]
+      },
+      {
+        "headline": "Wall Street is pouring record amounts of debt into AI data centers, and some worry it's a bubble",
+        "simple": "Tech companies are borrowing enormous sums, increasingly funded by bond investors and private lenders, to build the data centers AI needs. The amounts involved are now in the hundreds of billions of dollars.",
+        "interview_line": "AI data centre debt has ballooned from almost nothing to over $200 billion in a few years, and it's happening just as borrowing costs are rising across the board.",
+        "detail": [
+          "High-yield bond issuance (debt sold by riskier borrowers, paying higher interest) tied to AI data centers has already topped $26 billion in 2026, more than double all of 2025, as hyperscalers (the largest cloud/AI computing firms) race to fund an estimated $697 billion in capital spending this year.",
+          "Private credit funds (non-bank lenders such as Blackstone, Apollo and Blue Owl) now originate most of this debt; their outstanding loans to AI-linked companies have surged from near zero to over $200 billion in a few years.",
+          "Morgan Stanley projects private credit could supply another $800 billion for data centers over the next two years, raising concentration risk (too much lending tied to the fortunes of one sector) across the financial system.",
+          "The financing boom is accelerating just as the Fed prepares to raise rates and Treasury yields sit near two-decade highs, pushing up the cost of servicing all this new debt."
+        ],
+        "tags": [
+          "credit",
+          "tech",
+          "banking"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Rising rates and a hawkish Fed decision widen credit spreads, making leveraged buyouts and event-driven M&A financing pricier and harder to underwrite near-term.",
+      "Oil-driven volatility is pushing energy sector clients toward hedging and refinancing mandates, and could revive stalled Middle East-exposed energy M&A.",
+      "The AI data center financing wave is a major fee pool for leveraged finance and private credit coverage teams, but also a concentration risk banks will need to watch on their own balance sheets."
+    ],
+    "left_field_question": "If the Fed hikes rates today just as an oil shock is also driving up inflation, which pressure - rates or energy - is the bigger threat to a client's deal financing right now, and why?",
+    "left_field_answer": "Rates matter more for deal financing because they set the cost of every dollar borrowed across the whole capital structure, while the oil shock is more contained to energy-intensive sectors and input costs. But the two are connected: if oil keeps pushing inflation higher, the Fed may need to hike again, so today's decision is really a signal about how much more expensive financing could get."
+  },
+  {
     "id": "2026-09-15",
     "date": "2026-09-15",
     "market_snapshot": "S&P 500 futures -0.5% · 10-year Treasury yield 5.02% (highest since 2007) · Brent crude ~$107.80/bbl (session high ~$109) · EUR/USD $1.16 · GBP/USD $1.35",
