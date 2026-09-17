@@ -1,5 +1,66 @@
 [
   {
+    "id": "2026-09-17",
+    "date": "2026-09-17",
+    "market_snapshot": "S&P 500 futures +0.8% · 10-year Treasury yield ~5.0% (holding near its highest since 2007) · Brent crude ~$107/bbl, off this week's highs · Gold ~$4,330/oz",
+    "stories": [
+      {
+        "headline": "The Fed just raised interest rates for the first time since 2023 — and hinted there's more to come",
+        "simple": "America's central bank raised the cost of borrowing money by a small amount today, its first increase in three years. Almost all its top officials think rates will need to go up at least once more before the year is out.",
+        "interview_line": "The Fed hiked rates a quarter point to fight inflation and signalled at least one more increase is likely by December.",
+        "detail": [
+          "The Federal Open Market Committee (FOMC, the Fed's rate-setting committee) voted 12-0 to raise the federal funds rate (the Fed's key overnight lending rate that anchors borrowing costs economy-wide) by 25 basis points (0.25 percentage points) to a 3.75%-4.00% range, its first hike since 2023.",
+          "The Fed's updated dot plot (the chart showing each official's individual rate forecast) shows 16 of 18 policymakers expect at least one more hike this year, with a median year-end projection of 4.00%-4.25%.",
+          "Chair Kevin Warsh said inflation is 'too high,' with too many categories still running above 3% annualised, signalling a central bank more focused on price stability than supporting growth.",
+          "Stocks and bonds sold off in the immediate aftermath as investors priced in a longer tightening cycle, though futures pointed to a rebound as some investors read Warsh's tone as calmer than feared."
+        ],
+        "tags": [
+          "rates",
+          "banking",
+          "macro"
+        ]
+      },
+      {
+        "headline": "Amazon just struck an $8bn deal for backup generators to power its AI data centres — and Generac's stock jumped 45%",
+        "simple": "Amazon agreed to buy huge amounts of backup power equipment from generator maker Generac to keep its AI computer centres running. In return, Amazon got the right to buy a stake in Generac, and investors sent the shares soaring.",
+        "interview_line": "Amazon signed an up-to-$8 billion supply deal with Generac for data centre backup power and got equity warrants alongside it — Generac's stock jumped 45% on the news.",
+        "detail": [
+          "Generac issued Amazon a warrant (a contract giving the right to buy shares at a set price later) to acquire up to roughly 1.7 million shares at about $201 each, vesting as Amazon's actual generator purchases reach up to $8 billion over time.",
+          "The two companies also signed a long-term supply agreement, with initial deliveries of backup power generators worth $2.4 billion expected in 2027 and 2028.",
+          "Generac shares surged as much as 45% in after-hours trading, an unusually large one-day move for a roughly $10 billion industrial company.",
+          "The equity-linked structure (tying supplier payment to stock warrants rather than cash alone) mirrors deals Nvidia and OpenAI have used with smaller partners, a financing pattern increasingly common in the AI infrastructure buildout."
+        ],
+        "tags": [
+          "m&a",
+          "tech",
+          "energy"
+        ]
+      },
+      {
+        "headline": "Oil prices are easing back as Saudi Arabia repairs the pipeline that spooked markets this week",
+        "simple": "A damaged Saudi oil pipeline that pushed petrol prices higher is reportedly close to being fixed. That's letting oil prices cool off a little, a small relief for inflation just as the Fed is trying to bring prices under control.",
+        "interview_line": "Brent crude is easing off its four-month high after reports that Saudi Arabia has made real progress fixing the pipeline that was knocked out earlier this week.",
+        "detail": [
+          "Brent crude (the international oil benchmark) had spiked to near $109 a barrel this week after Saudi Arabia's East-West pipeline, which moves roughly 7 million barrels a day, was shut following an attack.",
+          "Prices retreated after reports that repairs are progressing faster than the earlier days-to-eight-weeks estimate, easing fears of a prolonged supply gap.",
+          "TTF natural gas (Europe's benchmark gas price) also pulled back alongside oil, taking some pressure off European energy costs.",
+          "The timing matters because energy costs feed directly into the inflation data the Fed is watching, so any near-term relief could reduce the odds of a second rate hike later this year."
+        ],
+        "tags": [
+          "energy",
+          "macro"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Equity-linked supplier financing like the Generac-Amazon warrant deal is a template IBD teams could pitch to other AI infrastructure suppliers seeking capital without relying purely on cash from hyperscaler clients.",
+      "A confirmed hike plus signals of more to come will keep pushing up leveraged loan and high-yield pricing, squeezing already-thin LBO and event-driven M&A returns.",
+      "Oil's pullback, if it holds, offers some relief for energy-intensive borrowers and could revive stalled financing for energy and industrials clients that had been on hold amid volatility."
+    ],
+    "left_field_question": "If Amazon can get equity upside for simply signing a supply contract, why would any AI infrastructure supplier ever ask for a normal cash-only deal again?",
+    "left_field_answer": "Because most suppliers don't have Amazon's negotiating leverage or credit quality — the arrangement works because Amazon can extract equity in exchange for guaranteeing enormous, reliable demand, something few customers can offer. For smaller or less strategic buyers, suppliers will still prefer cash upfront, since equity only pays off if the buyer's business, and the supplier's, actually grows."
+  },
+  {
     "id": "2026-09-16",
     "date": "2026-09-16",
     "market_snapshot": "S&P 500 futures -0.2% · 10-year Treasury yield 5.04% (highest since 2007) · Brent crude ~$107/bbl · EUR/USD $1.16 · GBP/USD $1.34",
