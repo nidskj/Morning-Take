@@ -1,5 +1,66 @@
 [
   {
+    "id": "2026-09-18",
+    "date": "2026-09-18",
+    "market_snapshot": "S&P 500 +1.1% to 7,638 · 10-year Treasury yield 4.93% · Brent crude ~$103.80/bbl · Dollar index above 100",
+    "stories": [
+      {
+        "headline": "Wall Street just had its best day in months, bouncing back hard from this week's rate-hike jitters",
+        "simple": "Stock prices jumped a lot on Thursday as fears about the Fed's rate hike faded and oil and borrowing costs came down.",
+        "interview_line": "US stocks rallied sharply as Treasury yields and oil prices retreated, unwinding most of this week's rate-hike selloff.",
+        "detail": [
+          "The S&P 500 (the benchmark US stock index) rose 1.14% to 7,637.76, the Nasdaq Composite (heavy in tech stocks) gained 1.69%, and the Dow Jones Industrial Average added 0.61%, recovering most of Wednesday's post-Fed losses.",
+          "The 10-year Treasury yield (the benchmark long-term US government borrowing rate that sets the floor for mortgage and corporate borrowing costs) fell more than 7 basis points (hundredths of a percentage point) to 4.93%, dropping back below the psychologically important 5% level.",
+          "'Magnificent Seven' megacap tech stocks led gains, with Nvidia and Amazon each up more than 2% and Microsoft up 1.5%, as investors rotated back into growth names.",
+          "The rebound came as Brent crude eased for a third straight session, taking some of the inflation anxiety out of markets that had driven this week's rate hike and bond selloff."
+        ],
+        "tags": [
+          "rates",
+          "macro",
+          "equities"
+        ]
+      },
+      {
+        "headline": "The Bank of England chose not to raise interest rates today, even though UK inflation is climbing",
+        "simple": "Britain's central bank left the cost of borrowing unchanged, even though prices at home are rising faster than expected. Officials were split on the decision.",
+        "interview_line": "The Bank of England held rates at 3.75% despite UK inflation hitting 3.1%, with three of nine policymakers pushing for a hike.",
+        "detail": [
+          "The Monetary Policy Committee (MPC, the BoE's nine-member rate-setting panel) voted 6-3 to hold Bank Rate (the UK's equivalent of the Fed's key interest rate) at 3.75%, with three members preferring an immediate quarter-point rise to 4%.",
+          "UK CPI inflation (Consumer Prices Index, the main gauge of the cost of living) rose to 3.1% in August, well above the BoE's 2% target, and is expected to climb further in coming months.",
+          "The committee cited the 'protracted conflict in the Middle East' as a driver of higher crude and refined energy prices feeding into the inflation outlook, echoing the same shock behind the Fed's hike this week.",
+          "A split vote and a hold, rather than a hike, puts the BoE at odds with a more hawkish (inflation-focused, rate-hike-leaning) Fed, raising the risk that sterling weakens against a dollar strengthened by higher US rates."
+        ],
+        "tags": [
+          "rates",
+          "banking",
+          "macro"
+        ]
+      },
+      {
+        "headline": "Oil markets are calming down after a chaotic week of Middle East supply shocks",
+        "simple": "A series of attacks and blockages hit oil supplies in the Middle East this week, briefly pushing prices sharply higher. Prices are now easing as Saudi Arabia finds workarounds to keep oil flowing.",
+        "interview_line": "Brent crude has eased to around $103.80 a barrel as Saudi Arabia reroutes exports via Oman, calming fears after this week's pipeline attack and Strait of Hormuz incident.",
+        "detail": [
+          "Brent crude (the international oil price benchmark) fell roughly 1% to about $103.80 a barrel, its third straight decline, after peaking near $107 amid supply fears.",
+          "The disruptions stacked up fast this week: Saudi Arabia's East-West Pipeline (which carries about 5 million barrels a day) was hit by drone strikes, Houthi forces (an Iran-aligned militant group) seized Perim Island at the mouth of the Red Sea, and a vessel was struck inside the Strait of Hormuz (the narrow waterway that roughly a fifth of the world's oil passes through).",
+          "Prices eased after Saudi Arabia said it would ship extra crude cargoes via Oman, an alternative export route that sidesteps the most exposed chokepoints.",
+          "The International Energy Agency (IEA, the global energy watchdog) estimates nearly 20 million barrels a day of crude and product exports remain disrupted, meaning the relief could prove temporary if tensions escalate again."
+        ],
+        "tags": [
+          "energy",
+          "macro"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "A calmer rates and oil backdrop could reopen the leveraged loan and high-yield windows that froze this week, giving bankers a chance to reprice and launch deals shelved during the volatility.",
+      "Diverging Fed/BoE policy paths (Fed hiking, BoE holding) widen the transatlantic rate gap, making dollar-denominated financing relatively more expensive for European sponsors and could push more UK/EU M&A financing toward sterling or euro debt.",
+      "Energy and industrials clients exposed to Middle East supply risk will keep pushing for structured hedges and contingency financing in live deals, even as near-term oil prices ease."
+    ],
+    "left_field_question": "If Saudi Arabia can just reroute oil through Oman whenever a chokepoint gets hit, why do markets panic every time there's a Middle East disruption?",
+    "left_field_answer": "Because rerouting has limits — alternative pipelines and ports have far less spare capacity than the routes they replace, so they only absorb smaller or shorter disruptions. Markets price in the worst case first because a bigger or longer blockage, like a prolonged Strait of Hormuz closure, could easily overwhelm those workarounds."
+  },
+  {
     "id": "2026-09-17",
     "date": "2026-09-17",
     "market_snapshot": "S&P 500 futures +0.8% · 10-year Treasury yield ~5.0% (holding near its highest since 2007) · Brent crude ~$107/bbl, off this week's highs · Gold ~$4,330/oz",
