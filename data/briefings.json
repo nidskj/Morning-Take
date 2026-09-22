@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-09-22",
+    "date": "2026-09-22",
+    "market_snapshot": "S&P 500 +0.03%, Nasdaq 100 +0.63% · US 10-year Treasury yield back below 5% · Brent ~$102/bbl, WTI ~$98/bbl · UK 30-year gilt yield 5.89% (highest since 1998)",
+    "stories": [
+      {
+        "headline": "Chip stocks just had one of their best days of the year, and AMD is now worth $1 trillion",
+        "simple": "Shares in computer chip companies jumped a lot, with AMD becoming a trillion-dollar company for the first time, as investors got excited about AI spending again.",
+        "interview_line": "Chipmakers led a broad rally that pushed the Nasdaq to a record close, with AMD crossing a $1 trillion market cap for the first time.",
+        "detail": [
+          "Advanced Micro Devices (AMD) rose about 10%, pushing its market capitalization (the total value of all a company's shares) above $1 trillion for the first time.",
+          "Intel jumped over 12% and Arm Holdings gained 17%, while the Philadelphia Semiconductor Index (a benchmark tracking major US chip stocks) rose 4.3%.",
+          "The rally followed reassurance from Nvidia's CEO about continued AI spending, easing fears from a selloff the prior week triggered by AI safety warnings from industry leaders.",
+          "Falling oil prices and Treasury yields dipping below 5% also supported risk appetite, giving growth stocks (companies valued mainly on future earnings potential rather than current profit) more room to rally."
+        ],
+        "tags": [
+          "equities",
+          "tech",
+          "ai"
+        ]
+      },
+      {
+        "headline": "Britain borrowed a lot more than expected, and lenders are now charging it more to borrow",
+        "simple": "The UK government borrowed more money than planned last month, and investors are demanding higher interest to lend to Britain, right before a big budget announcement.",
+        "interview_line": "UK borrowing overshot forecasts by £3.5bn in August, pushing 30-year gilt yields to their highest since 1998 ahead of the October Budget.",
+        "detail": [
+          "UK public borrowing hit £18.3bn in August, about £3.5bn above the Office for Budget Responsibility's (OBR, the UK's independent fiscal watchdog) forecast and well above City economists' £15.6bn estimate.",
+          "The yield (the effective interest rate the government pays to borrow) on 30-year gilts (UK government bonds) climbed to 5.89%, its highest level since 1998, while 10-year gilt yields rose to around 5.25%, near levels last seen in the 2008 financial crisis.",
+          "The overshoot piles pressure on Chancellor Healey ahead of the October 28 Budget, raising the odds of further tax rises or spending cuts to protect fiscal headroom (the government's buffer against breaching its own borrowing rules).",
+          "Higher gilt yields raise the UK government's own debt-servicing costs and tend to pull up rates across the economy, from mortgages to corporate lending."
+        ],
+        "tags": [
+          "rates",
+          "uk",
+          "credit"
+        ]
+      },
+      {
+        "headline": "Oil prices are falling on hopes of a diplomatic breakthrough with Iran",
+        "simple": "The price of oil has dropped because there's new hope the US and Iran might find a peaceful way to ease their conflict, and Saudi Arabia is exporting more oil again.",
+        "interview_line": "Brent crude slid to an 11-day low near $102 a barrel on hopes of US-Iran diplomacy at this week's UN General Assembly, even as Houthi attacks continue.",
+        "detail": [
+          "Brent crude (the international oil-price benchmark) fell to its lowest level in more than a week, trading around $102 a barrel, while WTI (West Texas Intermediate, the main US oil benchmark) dropped to about $98.",
+          "The declines came as the US and Iran signaled openness to talks on the sidelines of the UN General Assembly (the annual gathering of world leaders in New York), with reports President Trump could meet Iran's president.",
+          "Satellite data showed Saudi oil shipments through the Strait of Hormuz (the narrow waterway carrying roughly a fifth of global oil trade) recovering to 2.9 million barrels a day, up sharply from just 700,000 in August.",
+          "The drop came despite Yemen's Houthi rebels claiming fresh missile and drone strikes on Riyadh and an Aramco facility in Yanbu, underscoring how fragile the de-escalation remains."
+        ],
+        "tags": [
+          "energy",
+          "geopolitics",
+          "oil"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "The chip/AI rally reopens the window for AI-infrastructure financings and secondary offerings that had stalled after last week's selloff, and lifts comparable valuations used in tech M&A pitches.",
+      "Spiking UK gilt yields raise financing costs for UK-linked LBOs and refinancings and pressure rate-sensitive sectors like real estate and utilities, likely delaying UK dealmaking until there's clarity from the October Budget.",
+      "Softer oil prices and de-escalation hopes ease near-term hedging costs for energy and shipping clients, though continued Houthi attacks keep contingency financing and insurance-linked structuring in play."
+    ],
+    "left_field_question": "If AMD just became a trillion-dollar chip company on the same day UK borrowing costs hit their highest since 1998, what does that tell you about where the world's money is flowing right now?",
+    "left_field_answer": "It shows a split-speed global economy: private capital is chasing AI infrastructure with huge conviction, pushing chipmaker valuations to record highs, while sovereign borrowers like the UK are paying up more just to fund day-to-day government spending. That divergence matters for banks, since it means strong demand for AI-related financing but higher cost and less appetite for government-linked or rate-sensitive deals."
+  },
+  {
     "id": "2026-09-21",
     "date": "2026-09-21",
     "market_snapshot": "S&P 500 futures +0.5%, Nasdaq +0.8% · 10-year Treasury yield ~5.0% · Brent crude ~$102/bbl, WTI ~$98/bbl · Dollar broadly flat",
