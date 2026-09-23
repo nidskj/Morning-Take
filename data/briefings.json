@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-09-23",
+    "date": "2026-09-23",
+    "market_snapshot": "S&P 500 futures +0.1%, Nasdaq 100 +0.05% · US 10-year Treasury yield ~4.97% · Brent crude ~$98/bbl (-2.3%) · EUR/USD ~1.142",
+    "stories": [
+      {
+        "headline": "Trump tells the UN it's a peace deal with Iran or all-out war",
+        "simple": "President Trump told the United Nations that the US will either reach a peace deal with Iran or \"annihilate\" the country, and said he expects any deal only after November's US midterm elections.",
+        "interview_line": "Trump used his UN speech to frame Iran as a stark choice — deal or annihilation — while signalling nothing gets resolved before the midterms.",
+        "detail": [
+          "Trump told the UN General Assembly (UNGA, the annual meeting of world leaders in New York) he faces a choice: strike a deal that lets Iran \"rebuild\", or \"annihilate the Islamic Republic\".",
+          "He said he expects a deal only after the November 3 US midterm elections, saying Iran is \"waiting to see how I do\" at the polls.",
+          "Brent crude (the international oil-price benchmark) fell about 2.3% to near $98 a barrel as traders read the remarks as pushing both resolution and renewed disruption risk further out.",
+          "Trump also urged other countries to join the US in economically isolating Iran, adding pressure on any firms or banks still doing business tied to Tehran."
+        ],
+        "tags": [
+          "geopolitics",
+          "energy",
+          "oil"
+        ]
+      },
+      {
+        "headline": "Europe's economy is growing faster than anyone expected",
+        "simple": "Business activity across the euro zone picked up much more than economists predicted this month, even as companies faced rising costs.",
+        "interview_line": "The euro zone's flash PMI jumped to a three-year high in September, confounding expectations for a slowdown.",
+        "detail": [
+          "The S&P Global flash Composite PMI (Purchasing Managers' Index, a survey-based gauge of business activity where above 50 signals growth) rose to 53.1 in September from 52.0, its highest since April 2023.",
+          "Economists polled by Reuters had expected a dip to 51.7, making this a genuine upside surprise rather than a continuation of trend.",
+          "Germany's private sector expanded at its fastest pace in almost a year, with services returning to growth after five months of contraction.",
+          "Firms reported a steeper rise in input costs (what businesses pay for materials, energy and staff), a warning sign for inflation just as the ECB weighs how much further room it has to ease rates."
+        ],
+        "tags": [
+          "macro",
+          "europe",
+          "rates"
+        ]
+      },
+      {
+        "headline": "A betting site wants regulators to call it a bank, not a bookmaker",
+        "simple": "Prediction market Polymarket is lobbying UK and EU regulators to be treated like a financial company instead of a gambling business, which would make it far cheaper and easier to operate across Europe.",
+        "interview_line": "Polymarket is pushing UK and EU regulators to classify its contracts as financial instruments rather than bets, letting it expand across Europe under one licence instead of 27.",
+        "detail": [
+          "Polymarket wants its contracts regulated under MiFID (the EU's Markets in Financial Instruments Directive, the rulebook governing banks, brokers and exchanges) rather than national gambling laws.",
+          "A financial-services designation would give it a single EU 'passport' (a licence valid across all member states) instead of having to clear 27 separate national gambling regimes.",
+          "ESMA (the European Securities and Markets Authority, the EU's markets regulator) has so far pushed back, warning that prediction markets are vulnerable to insider trading.",
+          "The outcome will shape how prediction markets and other bet-like financial products get regulated globally, and how much compliance cost new entrants face expanding into Europe."
+        ],
+        "tags": [
+          "regulation",
+          "fintech",
+          "trading"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "The Iran ultimatum keeps a geopolitical risk premium in oil, sustaining demand for hedging and structured financing from energy and shipping clients while keeping defence and energy-services deal pipelines active.",
+      "A stronger-than-expected euro zone PMI supports European equity and credit issuance windows but could slow the pace of ECB rate cuts, a factor to flag in financing-cost assumptions for European LBOs.",
+      "Polymarket's push for a financial-services licence is a bellwether for how prediction markets and other bet-adjacent products get regulated — worth watching for fintech teams eyeing similar EU passporting plays."
+    ],
+    "left_field_question": "If Trump says a deal with Iran won't come until after the midterms, why did oil prices fall today instead of staying elevated on the uncertainty?",
+    "left_field_answer": "Markets had been pricing in significant supply-disruption risk, so any credible signal of eventual de-escalation — even one pushed months out — lets traders unwind some of that risk premium now rather than wait. It's less about certainty of a deal and more about the probability of the worst-case outcome, a wider war closing the Strait of Hormuz, going down."
+  },
+  {
     "id": "2026-09-22",
     "date": "2026-09-22",
     "market_snapshot": "S&P 500 +0.03%, Nasdaq 100 +0.63% · US 10-year Treasury yield back below 5% · Brent ~$102/bbl, WTI ~$98/bbl · UK 30-year gilt yield 5.89% (highest since 1998)",
