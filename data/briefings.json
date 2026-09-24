@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-09-24",
+    "date": "2026-09-24",
+    "market_snapshot": "S&P 500 ~7,706 (-0.75%) · US 10-year Treasury yield ~5.12% (highest since 2007) · Brent crude ~$101.6/bbl · EUR/USD ~1.145",
+    "stories": [
+      {
+        "headline": "Trump and Xi sit down in Washington to try to cool the trade war",
+        "simple": "The US and Chinese presidents met face-to-face today to talk about tariffs, AI chips and rare earth minerals. Investors hope it means fewer nasty surprises on trade for a while.",
+        "interview_line": "The Trump-Xi summit matters because even a partial truce on tariffs and chip export controls would be a real relief for global supply chains and markets.",
+        "detail": [
+          "Tariffs (import taxes) between the two countries are still elevated — around 36.5% on Chinese goods entering the US and 31% on US goods entering China — and any move to trim them would lower costs for importers on both sides.",
+          "Export controls (US limits on selling advanced AI chips to China) were high on the agenda, with Nvidia's most advanced chips still largely blocked from the Chinese market.",
+          "Rare earths (minerals essential for electronics, EVs and defence equipment, where China controls most of the world's supply) give Beijing leverage it has used before to pressure Washington.",
+          "The US reportedly delayed new tariffs targeting China's industrial overcapacity (duties meant to offset China flooding markets with cheap steel, EVs and solar panels) until after the summit, keeping them as a bargaining chip."
+        ],
+        "tags": [
+          "trade",
+          "geopolitics",
+          "china"
+        ]
+      },
+      {
+        "headline": "US borrowing costs just hit their highest level since 2007",
+        "simple": "The interest rate the US government pays to borrow money for 10 years has climbed above 5%, spooking stock markets. It's a sign investors are worried inflation isn't going away.",
+        "interview_line": "The 10-year Treasury yield breaking above 5% for the first time since 2007 tells you bond investors think inflation risk, not growth, is back in the driver's seat.",
+        "detail": [
+          "The 10-year Treasury yield (the interest rate on US government debt, a benchmark for mortgages and corporate borrowing costs worldwide) rose to around 5.12%, its highest since 2007.",
+          "The move follows a Federal Reserve rate hike under new chair Kevin Warsh, who has flagged persistent inflation risks even as growth data holds up.",
+          "Higher yields make it more expensive for companies to issue bonds and finance leveraged deals, since debt (borrowed money) costs more to service.",
+          "US equities fell in response, with the S&P 500 down around 0.75% and the Nasdaq Composite down over 1%, as growth stocks are typically hit hardest by rising rates."
+        ],
+        "tags": [
+          "rates",
+          "bonds",
+          "credit"
+        ]
+      },
+      {
+        "headline": "The $110bn Paramount-Warner Bros deal just cleared its last big hurdle",
+        "simple": "Paramount Skydance settled with a group of US states that were trying to block its huge takeover of Warner Bros Discovery. That clears the way for one of the biggest media mergers ever to go through.",
+        "interview_line": "Paramount's settlement with state regulators removes the last major roadblock to its $110bn purchase of Warner Bros Discovery, one of the largest media mergers in years.",
+        "detail": [
+          "Paramount Skydance's $110bn all-cash acquisition (buying Warner Bros Discovery outright at $31 a share) combines two film studios, CBS, CNN, and streaming services Paramount+ and HBO Max.",
+          "The company settled an antitrust case (a legal challenge alleging the deal would harm competition) with attorneys general from 12 US states.",
+          "Concessions include an extra $300m a year in domestic film and TV production for five years and independent editorial boards for CNN and CBS to protect newsroom independence.",
+          "The settlement is a live template for how large, politically sensitive media mergers can get approved despite antitrust pushback (regulatory objections that a deal would reduce competition)."
+        ],
+        "tags": [
+          "m&a",
+          "media",
+          "regulation"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "A Trump-Xi trade détente, even partial, would reopen cross-border M&A and financing conversations with China-exposed clients that have been on ice amid tariff and export-control uncertainty.",
+      "Yields at an 18-year high push up the cost of acquisition financing and leveraged loans, likely to cool LBO activity and push issuers toward equity or convertible structures instead of straight debt.",
+      "The Paramount-WBD settlement is a live template for getting large, politically sensitive media and tech mergers past state AGs — useful precedent for bankers structuring conduct remedies on other pending deals."
+    ],
+    "left_field_question": "If a $110bn media merger just got cleared and China talks are happening in Washington, why would rising Treasury yields be the story that actually worries an investment bank more?",
+    "left_field_answer": "Because yields set the price of money for every deal in the pipeline, not just one merger. A 10-year yield near 5% raises financing costs across the board, can stall LBOs and refinancings, and forces re-pricing of assets bankers are trying to sell — it's a systemic headwind, while the M&A and trade stories are single, contained events."
+  },
+  {
     "id": "2026-09-23",
     "date": "2026-09-23",
     "market_snapshot": "S&P 500 futures +0.1%, Nasdaq 100 +0.05% · US 10-year Treasury yield ~4.97% · Brent crude ~$98/bbl (-2.3%) · EUR/USD ~1.142",
