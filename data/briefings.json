@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-09-25",
+    "date": "2026-09-25",
+    "market_snapshot": "S&P 500 ~7,704 (-0.06%) · US 10-year Treasury yield ~5.22% (highest since 2007) · Brent crude ~$106.60/bbl (+3.4%) · Dollar index ~101.27",
+    "stories": [
+      {
+        "headline": "US government borrowing costs just hit a level not seen since 2007",
+        "simple": "The interest rate the US government pays to borrow for 10 years has jumped to its highest point in almost two decades. That makes loans, mortgages and company borrowing more expensive everywhere.",
+        "interview_line": "The 10-year Treasury yield pushing above 5.2% — its highest since 2007 — shows bond investors are betting inflation and oil prices, not growth, will keep the Fed hiking.",
+        "detail": [
+          "The 10-year Treasury yield (the interest rate on US government debt, a global benchmark for mortgages and corporate borrowing) surged to around 5.22%, a level last seen in June 2007.",
+          "The 30-year Treasury yield (the government's longest-dated borrowing rate) also hit its highest level since 2004, extending a broader bond market rout (a sustained sell-off that pushes yields up as prices fall).",
+          "Markets are now pricing roughly a 64% chance of another 25 basis point Fed rate hike (a 0.25 percentage point increase) in October, with strong economic data and high oil prices reinforcing inflation concerns.",
+          "Higher yields raise the cost of leveraged loans and bond issuance (debt companies use to fund buyouts and refinancing), a direct headwind for private equity and M&A financing."
+        ],
+        "tags": [
+          "rates",
+          "bonds",
+          "credit"
+        ]
+      },
+      {
+        "headline": "Oil prices are swinging wildly on hopes of a deal to reopen the Strait of Hormuz",
+        "simple": "A narrow sea passage that a fifth of the world's oil sails through has been disrupted by the Iran conflict. Prices are jumping and falling on every rumour of a peace deal.",
+        "interview_line": "Brent crude near $107 shows how much the oil market still hinges on whether the US and Iran can agree to reopen the Strait of Hormuz, the world's most important oil chokepoint.",
+        "detail": [
+          "Brent crude (the international oil price benchmark) gained 3.4% to around $106.60 a barrel after touching an intraday high above $108, before a report of phased Strait of Hormuz reopening talks (a narrow shipping lane between Iran and Oman that carries about a fifth of global oil supply) pared the rally.",
+          "A senior Iranian official floated letting tankers transit the Strait in exchange for the US ending its naval blockade (a military operation restricting ship movement), part of a wider road map including a regional ceasefire.",
+          "Indirect US-Iran talks at the UN General Assembly made little concrete progress, leaving traders to price geopolitical risk premium (the extra cost built into oil prices for supply disruption risk) rather than confirmed supply changes.",
+          "The oil spike is compounding the bond sell-off, since higher energy costs feed directly into inflation expectations and give the Fed more reason to keep rates elevated."
+        ],
+        "tags": [
+          "energy",
+          "geopolitics",
+          "rates"
+        ]
+      },
+      {
+        "headline": "Barry Diller walks away from his $18bn bid for the rest of MGM Resorts",
+        "simple": "The media mogul's company had offered to buy all of casino giant MGM Resorts for about $18 billion. He's now pulled the offer, and MGM's shares fell hard on the news.",
+        "interview_line": "Barry Diller's decision to drop his $18bn buyout of MGM Resorts is a reminder that even well-capitalised bidders are getting cold feet about the debt load big take-private deals require right now.",
+        "detail": [
+          "People Inc. (Diller's holding company, formerly IAC, which already owns 27% of MGM) withdrew its proposal to take MGM Resorts private at $48.30 a share, a deal that had valued the casino operator at more than $18bn.",
+          "Diller cited concerns that 'the mix wasn't coming together,' with reports pointing to the debt load (borrowed money needed to fund the take-private) as a key sticking point amid today's higher borrowing costs.",
+          "MGM shares tumbled almost 10% on the news, while the withdrawal comes shortly after regulators approved a separate Caesars buyout, underscoring how selective financing has become in casino sector M&A.",
+          "Diller left the door open to a future 'strategic transaction' with MGM, meaning the stake overhang (Diller's large minority holding creating uncertainty for other investors) isn't fully resolved."
+        ],
+        "tags": [
+          "m&a",
+          "leisure",
+          "credit"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "A 10-year yield above 5.2% and a 30-year at a 20-year high sharply raise the cost of acquisition financing, likely cooling leveraged buyout activity and pushing sponsors toward equity-heavier or convertible structures.",
+      "Oil volatility tied to the Strait of Hormuz adds a second inflation shock on top of rates, meaning energy and shipping clients need hedging advice while high-yield issuance windows stay unpredictable.",
+      "Diller's withdrawn MGM bid is a live signal that take-private financing is getting harder to close even for well-known sponsors, a cautionary data point for bankers pitching leisure and gaming sector LBOs."
+    ],
+    "left_field_question": "If oil and Treasury yields are both spiking today, which one should worry an investment bank's financing desk more?",
+    "left_field_answer": "The yield spike matters more structurally, because it reprices the cost of debt across every deal in the pipeline, not just energy-linked ones. Oil volatility is a real but more containable shock — it hits specific sectors and can reverse quickly on a Hormuz deal, whereas a 20-year-high borrowing cost forces banks to re-underwrite leveraged deals across the board."
+  },
+  {
     "id": "2026-09-24",
     "date": "2026-09-24",
     "market_snapshot": "S&P 500 ~7,706 (-0.75%) · US 10-year Treasury yield ~5.12% (highest since 2007) · Brent crude ~$101.6/bbl · EUR/USD ~1.145",
