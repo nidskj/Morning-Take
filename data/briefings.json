@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-09-28",
+    "date": "2026-09-28",
+    "market_snapshot": "S&P 500 futures ~7,805 (+0.5%) · US 10-year Treasury yield ~5.18% · Brent crude ~$107.34/bbl (+2.9%) · Dollar index ~101.01",
+    "stories": [
+      {
+        "headline": "Trump rejects Iran's offer to reopen the Strait of Hormuz, and oil jumps again",
+        "simple": "Iran offered to reopen a key oil shipping route if the US eased up on it. Trump said no, so traders are betting the disruption to oil supply - and higher prices - will continue.",
+        "interview_line": "Trump's rejection of Iran's Hormuz proposal pushed Brent back above $107, a sign this supply risk has no clear endpoint yet.",
+        "detail": [
+          "Iran's foreign minister offered to reopen the Strait of Hormuz (the narrow waterway between Iran and Oman that carries about a fifth of the world's oil supply) and resume nuclear talks within seven days, in exchange for the US lifting its naval blockade (warships restricting ship movement) and other measures.",
+          "Trump rejected the offer and told aides he expects US strikes on Iran to resume after November's midterm elections, removing hopes of near-term de-escalation.",
+          "Brent crude (the international oil price benchmark) jumped nearly 3% to above $107 a barrel, adding to weeks of geopolitical risk premium (the extra price built into oil for the chance of a supply shock) already priced in.",
+          "Sustained high oil prices feed directly into inflation, giving the Fed one more reason to keep raising interest rates even as growth data softens."
+        ],
+        "tags": [
+          "energy",
+          "geopolitics",
+          "oil"
+        ]
+      },
+      {
+        "headline": "Wall Street now sees a 70% chance the Fed raises rates again next month",
+        "simple": "The Federal Reserve just raised rates and investors think it isn't finished - most now expect another increase in October because inflation isn't cooling fast enough.",
+        "interview_line": "Futures markets are pricing roughly a 70% chance of another Fed hike on October 28th, after a senior Fed official signalled more tightening is needed.",
+        "detail": [
+          "Fed Governor Michael Barr said \"further policy adjustments are likely to be needed\" to bring inflation to target, days after the Fed's last 25 basis point hike (a 0.25 percentage point rate increase).",
+          "The CME FedWatch tool (a market-based gauge of rate-hike odds derived from futures prices) now shows roughly 70-73% odds of another hike at the October 27-28 meeting, up from about 64% earlier in the week.",
+          "University of Michigan consumer sentiment sits near historic lows at 48.1, with households expecting 4.6% inflation over the next year - a weak-growth-plus-high-inflation mix that leaves the Fed with few good options.",
+          "Futures markets are now pricing the fed funds rate (the Fed's benchmark short-term interest rate) rising to about 4.2% by December and roughly 4.8% by next September."
+        ],
+        "tags": [
+          "rates",
+          "central-banks",
+          "inflation"
+        ]
+      },
+      {
+        "headline": "The path is now clear for Paramount's $110bn takeover of Warner Bros. Discovery",
+        "simple": "Paramount settled its legal fight with US states that were trying to block its huge purchase of Warner Bros. Discovery, removing the last big obstacle to one of the largest media mergers ever.",
+        "interview_line": "Paramount Skydance's settlement with state attorneys general clears the last major roadblock to its $110bn acquisition of Warner Bros. Discovery.",
+        "detail": [
+          "Paramount Skydance reached a settlement with California and eleven other state attorneys general (state-level law enforcement officials) who had sued to block the deal on antitrust grounds (concerns a merger would reduce competition and harm consumers).",
+          "The consent decree (a court-approved settlement agreement) ends the states' bid to block the $110.9bn deal, struck at $31 a share for Warner Bros. Discovery when it was first announced in February.",
+          "A federal court had set an emergency deadline of September 28 that could have blocked the merger; the settlement effectively resolved the dispute before that deadline arrived.",
+          "The deal remains one of the largest media mergers on record, consolidating Paramount and Warner Bros. Discovery's studio, streaming and cable news assets under a single owner."
+        ],
+        "tags": [
+          "m&a",
+          "media",
+          "regulation"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "A cleared path for the $110bn Paramount-WBD deal shows large strategic M&A can still close in an active antitrust environment, a positive signal for bankers pitching mega-cap media and telecom consolidation.",
+      "Rising Fed hike odds, with the fed funds rate seen approaching 4.8% by next year, keep raising the bar for leveraged financing, pushing sponsors toward equity-heavier structures and delaying LBOs reliant on cheap debt.",
+      "Persistent oil volatility from the Hormuz standoff means energy, shipping and airline clients need active hedging advice, while high-yield issuance windows stay unpredictable for related sectors."
+    ],
+    "left_field_question": "If the Fed hikes again in October while oil is spiking on the Hormuz standoff, what happens to companies trying to raise debt right now?",
+    "left_field_answer": "They get squeezed from both sides - higher base rates raise the cost of any new borrowing, while oil-driven inflation makes it harder for the Fed to reverse course. In practice, issuers are likely to rush deals into the market before the October meeting to lock in current spreads, rather than wait and risk a worse repricing."
+  },
+  {
     "id": "2026-09-25",
     "date": "2026-09-25",
     "market_snapshot": "S&P 500 ~7,704 (-0.06%) · US 10-year Treasury yield ~5.22% (highest since 2007) · Brent crude ~$106.60/bbl (+3.4%) · Dollar index ~101.27",
