@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-09-29",
+    "date": "2026-09-29",
+    "market_snapshot": "Dow 51,481 (-0.7% Mon) · US 10-year Treasury yield ~5.25% (19-year high) · Brent crude ~$107+/bbl (up again early Tue) · Gold ~$4,111/oz (-4% Mon)",
+    "stories": [
+      {
+        "headline": "US government borrowing costs hit their highest in almost 20 years",
+        "simple": "The interest the US government pays to borrow has climbed to a level not seen since 2007. That makes loans more expensive for almost everyone.",
+        "interview_line": "The 10-year Treasury yield above 5.25% resets the price of money across the economy, so every deal has to clear a higher hurdle.",
+        "detail": [
+          "The 10-year Treasury yield (the return investors demand to lend to the US government for ten years) rose as much as 11 basis points (0.11 percentage points) to about 5.27%, its highest since 2007.",
+          "The 30-year yield jumped to about 5.55%, so borrowing costs rose right along the curve (the line linking yields at different maturities).",
+          "Higher Treasury yields raise the risk-free rate (the return on the safest asset), which lifts the cost of corporate debt and lowers valuations built on discounted cash flows (valuing a company by its future cash, shrunk back to today's money).",
+          "The Dow fell 347 points (0.67%) on Monday as stocks reacted to the bond sell-off."
+        ],
+        "tags": [
+          "rates",
+          "bonds",
+          "equities"
+        ]
+      },
+      {
+        "headline": "Markets now expect the US central bank to raise interest rates again next month",
+        "simple": "Investors think the US central bank will push rates up again in October because prices are still rising. Higher rates make borrowing dearer for companies and households.",
+        "interview_line": "With roughly a 70% market-implied chance of an October hike, the Fed is being priced as still fighting inflation, not easing.",
+        "detail": [
+          "CME FedWatch (a tool that turns futures prices into rate-move probabilities) shows about a 70% chance of a 25 basis point (0.25 percentage point) Fed hike in October, up from 64% a day earlier and 57% a week ago.",
+          "Oil-driven inflation (price rises caused by more expensive energy) makes it harder for the Fed to hold or cut rates.",
+          "A stronger dollar accompanied the move, tightening financial conditions (how easy or hard it is to borrow and raise money) for the rest of the world.",
+          "Leveraged buyers (firms buying companies with lots of borrowed money) face higher interest bills, weighing on LBO (leveraged buyout) returns."
+        ],
+        "tags": [
+          "rates",
+          "central banks",
+          "credit"
+        ]
+      },
+      {
+        "headline": "Oil climbs again after the US rejects Iran's shipping-route offer, while gold tumbles",
+        "simple": "Oil got more expensive as hopes faded for reopening a key shipping route. Gold fell sharply as higher interest rates made it less attractive to hold.",
+        "interview_line": "Oil up and gold down on the same day shows markets fearing inflation and rate hikes more than they fear geopolitics as a safe-haven trade.",
+        "detail": [
+          "Brent crude (the international oil benchmark) rose toward $107 a barrel after President Trump rejected Iran's proposal to reopen the Strait of Hormuz (a narrow shipping lane carrying roughly a fifth of world oil).",
+          "Gold fell as much as 4% to about $4,111 an ounce, a seven-week low, because it pays no interest and looks less attractive when yields (returns on bonds) rise.",
+          "A stronger dollar added pressure, since gold is priced in dollars and becomes more expensive for foreign buyers.",
+          "Energy-heavy sectors such as airlines and shipping face cost pressure, while producers benefit from the higher price."
+        ],
+        "tags": [
+          "energy",
+          "commodities",
+          "geopolitics"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Ten-year yields near 5.3% raise the cost of acquisition financing, so expect sponsor-led deals to lean on more equity and strategic buyers with cash to stay ahead.",
+      "A likely October hike pushes issuers to rush bond and loan deals to market before conditions tighten, which could bring forward some financing mandates.",
+      "Oil volatility keeps energy, airline and shipping clients in need of hedging and refinancing advice, while equity valuations are pressured by higher discount rates."
+    ],
+    "left_field_question": "If the 10-year yield is above 5% and gold is falling, what does that tell you about what markets are worried about?",
+    "left_field_answer": "It suggests investors fear inflation and tighter policy more than they fear a crisis, because they are selling gold, a classic safe haven, in favour of bonds that now pay well. In effect, the market is saying money has become expensive again and cash-generating assets are winning."
+  },
+  {
     "id": "2026-09-28",
     "date": "2026-09-28",
     "market_snapshot": "S&P 500 futures ~7,805 (+0.5%) · US 10-year Treasury yield ~5.18% · Brent crude ~$107.34/bbl (+2.9%) · Dollar index ~101.01",
