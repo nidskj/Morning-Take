@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-10-02",
+    "date": "2026-10-02",
+    "market_snapshot": "S&P 500 7,666 (+0.2% Thu) · Dow 50,927 (+0.04%) · US 10-year Treasury yield ~5.24% (hit 5.34% intraday, highest since 2002) · Brent ~$101.7/bbl · Gold ~$4,191/oz · US jobs report due today",
+    "stories": [
+      {
+        "headline": "US borrowing costs hit their highest level in over 20 years, then pull back",
+        "simple": "The interest rate the US government pays to borrow spiked to a level not seen since 2002 before easing. Higher rates make loans pricier for companies and homebuyers.",
+        "interview_line": "The 10-year Treasury touching 5.34% sets a much higher hurdle for every financing and valuation, so today's jobs data matters for whether deals get done.",
+        "detail": [
+          "The 10-year Treasury yield (the annual return investors demand to lend to the US government for ten years) hit 5.344% intraday, its highest since 2002, before easing to about 5.24%.",
+          "The 30-year yield also reached a 24-year high, so the whole yield curve (the line linking yields across maturities) has shifted up.",
+          "Traders are watching nonfarm payrolls (the monthly count of new US jobs), expected around 90K versus 162K previously, to judge the Fed's rate path (where the central bank sets interest rates).",
+          "Higher yields raise the discount rate (the rate used to shrink future cash flows to today's value), which pressures equity valuations and LBO returns (leveraged buyouts, takeovers funded mostly by debt)."
+        ],
+        "tags": [
+          "rates",
+          "bonds",
+          "macro"
+        ]
+      },
+      {
+        "headline": "Oil stays above $100 as markets wait on Trump's next move on Iran",
+        "simple": "Oil is still very expensive because nobody knows if the US will take more military action against Iran. That keeps fuel and business costs high.",
+        "interview_line": "With Brent near $100, energy-linked inflation is feeding higher rates, so the geopolitical risk premium is now a financing story too.",
+        "detail": [
+          "Brent crude (the global oil price benchmark) closed around $101.69 a barrel, while WTI (the US benchmark) settled near $92.87 after a 2.7% rise.",
+          "Traders are pricing a geopolitical risk premium (extra price for the chance of supply disruption) tied to the US-Iran conflict, with speculation that action could wait until after the midterm elections.",
+          "Sustained high oil feeds inflation expectations (what markets think prices will do), which keeps bond yields elevated.",
+          "Energy producers see stronger cash flows, while airlines and chemicals face margin squeeze (profit falling as costs rise faster than prices)."
+        ],
+        "tags": [
+          "energy",
+          "geopolitics",
+          "inflation"
+        ]
+      },
+      {
+        "headline": "Investors grow nervous about France's finances",
+        "simple": "Investors want extra payment to lend to France because its government is borrowing a lot and politics are unstable. That makes French borrowing costlier than Germany's.",
+        "interview_line": "The French-German spread widening shows euro-area fiscal risk is back, which raises funding costs for French corporates and banks.",
+        "detail": [
+          "The OAT-Bund spread (the gap between French and German 10-year bond yields) has been reported at about 100-140 basis points (1 basis point = 0.01 percentage point), the widest in around 14 years.",
+          "The budget deficit (annual gap between government spending and income) is expected to widen to about 5.4% of GDP.",
+          "Scope Ratings cut France to A+ and Morningstar DBRS moved its outlook to negative (a warning a downgrade could follow).",
+          "French banks hold large amounts of government bonds, so wider spreads hit their funding costs and capital (the buffer protecting against losses)."
+        ],
+        "tags": [
+          "credit",
+          "europe",
+          "sovereigns"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Yields near 20-year highs raise financing costs, pressuring LBO sponsors and leveraged loan and high-yield issuance, so sponsor-led dealflow stays subdued.",
+      "Oil above $100 supports energy sector M&A and capital raising, while squeezing airlines, chemicals and consumer names that may need refinancing or restructuring advice.",
+      "Widening French spreads and downgrades raise euro-area funding costs, which could slow European corporate and bank deals but boost liability management work."
+    ],
+    "left_field_question": "If the 10-year Treasury yield rises another 50 basis points, who in an investment bank's client base is hurt first, and who benefits?",
+    "left_field_answer": "Highly leveraged buyout sponsors and rate-sensitive growth companies are hurt first, as their debt costs and valuations take a direct hit. Cash-rich corporates and those with fixed-rate debt are relatively insulated, and banks gain advisory work on refinancings, restructurings and defensive M&A."
+  },
+  {
     "id": "2026-09-29",
     "date": "2026-09-29",
     "market_snapshot": "Dow 51,481 (-0.7% Mon) · US 10-year Treasury yield ~5.25% (19-year high) · Brent crude ~$107+/bbl (up again early Tue) · Gold ~$4,111/oz (-4% Mon)",
