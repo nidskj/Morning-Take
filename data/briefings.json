@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-10-14",
+    "date": "2026-10-14",
+    "market_snapshot": "S&P 500 7,805 (~flat Tue) · Nasdaq 27,204 · Dow 51,670 (led declines) · US 10-year Treasury yield ~5.2% · Brent ~$106.65/bbl (Mon settle, after Saudi airport attacks) · US CPI due today",
+    "stories": [
+      {
+        "headline": "Goldman beats on record deal-advice fees while JPMorgan misses",
+        "simple": "Goldman Sachs earned far more than expected, helped by record fees for advising on company takeovers. JPMorgan fell short after losses on bonds it holds.",
+        "interview_line": "Goldman's record advisory fees show the M&A cycle is still strong, even though shrinking backlogs at several banks hint the pace may cool.",
+        "detail": [
+          "Goldman posted net revenue of $18.7bn (+23% y/y), with investment banking fees (money banks earn advising on and financing deals) of $3.2bn, +21% y/y.",
+          "Advisory fees (fees for M&A advice) hit a quarterly record of about $1.65bn; equities trading (buying and selling shares for clients) drove much of the beat.",
+          "JPMorgan missed on EPS (earnings per share, profit divided by share count) at $5.57, hurt by roughly $658m of securities losses; its CFO called the pipeline (deals in progress) 'very strong'.",
+          "Goldman's and Citi's backlogs (estimated future fees from signed mandates) fell versus Q2, a possible early sign of a slowdown."
+        ],
+        "tags": [
+          "banking",
+          "m&a",
+          "earnings"
+        ]
+      },
+      {
+        "headline": "Fed official says one more rate rise may be needed this year",
+        "simple": "A top Federal Reserve official said the US may raise interest rates once more this year, but probably not again in 2027. Markets are now waiting on today's inflation numbers.",
+        "interview_line": "With the Fed possibly hiking again and the 10-year near 5.2%, borrowing is expensive, so deal values and buyout returns are under pressure.",
+        "detail": [
+          "NY Fed president Williams said one more hike may be appropriate, easing fears of repeated hikes; markets price a possible December move (a hike at the Fed's final 2026 meeting).",
+          "The 10-year Treasury yield (return on lending to the US government for ten years) is about 5.2%, near its highest since 2002.",
+          "US CPI (Consumer Price Index, the headline inflation gauge) is due today and could move rate expectations sharply.",
+          "High yields lift the cost of debt in LBOs (leveraged buyouts, takeovers funded mostly with borrowed money) and cut valuations through a higher discount rate (rate used to value future cash flows)."
+        ],
+        "tags": [
+          "rates",
+          "fed",
+          "credit"
+        ]
+      },
+      {
+        "headline": "Oil stays above $100 as Middle East attacks threaten supply",
+        "simple": "Oil is still very expensive after attacks on Saudi airports raised fears of supply disruption. That keeps prices and inflation high.",
+        "interview_line": "Oil above $100 feeds inflation and keeps rates high, which hurts deal financing but supports energy-sector dealmaking.",
+        "detail": [
+          "Brent crude (the global oil price benchmark) settled at $106.65 on Monday, up 1.8%, after attacks on Saudi airports.",
+          "Higher energy prices push up inflation, making it harder for central banks to cut or stop raising rates.",
+          "Energy producers gain cash flow (money generated from operations), which can fund M&A (mergers and acquisitions) and capex (capital spending).",
+          "Energy-intensive sectors such as airlines and chemicals face margin pressure (smaller profit per dollar of sales), complicating their financing."
+        ],
+        "tags": [
+          "energy",
+          "commodities",
+          "inflation"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Record advisory fees at Goldman confirm strong M&A dealflow, but falling backlogs suggest the pipeline may thin into 2027.",
+      "A 5.2% 10-year yield and a possible further Fed hike raise financing costs, weighing on LBOs and leveraged loan and bond issuance.",
+      "Oil above $100 favours energy M&A and strategic reviews while squeezing airlines and industrials."
+    ],
+    "left_field_question": "If oil stays above $100 and the Fed hikes again, which sector would you advise to buy a competitor, and why?",
+    "left_field_answer": "Energy producers: high oil prices boost their cash flow and share prices, so they can fund deals with cash or stock rather than expensive debt. Meanwhile, high rates make leveraged buyers like private equity less competitive, leaving strategic buyers with strong balance sheets best placed."
+  },
+  {
     "id": "2026-10-02",
     "date": "2026-10-02",
     "market_snapshot": "S&P 500 7,666 (+0.2% Thu) · Dow 50,927 (+0.04%) · US 10-year Treasury yield ~5.24% (hit 5.34% intraday, highest since 2002) · Brent ~$101.7/bbl · Gold ~$4,191/oz · US jobs report due today",
