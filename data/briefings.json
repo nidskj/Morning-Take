@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-10-15",
+    "date": "2026-10-15",
+    "market_snapshot": "S&P 500 -~1.0% · Nasdaq -~1.9% · Dow ~flat (-0.1%) · US 10-year Treasury yield ~5.28% (+6bp) · US 30-year ~5.59% · Brent above $100/bbl and rising · Wed 14 Oct close; FX not sourced",
+    "stories": [
+      {
+        "headline": "Prices rose faster than expected, shaking stocks and bonds",
+        "simple": "US prices went up by more than experts predicted, mostly because fuel is costly. Investors now fear interest rates will go up again, so shares fell and borrowing got pricier.",
+        "interview_line": "A hotter-than-expected inflation print makes another Fed hike plausible, which pushes up financing costs and can delay deals.",
+        "detail": [
+          "September CPI (consumer price index, a measure of what households pay for goods and services) reportedly rose ~3.7% y/y vs ~3.6% expected; sources differ on exact figures.",
+          "Core inflation (prices excluding food and energy) came in above forecast, which worries the Fed more than energy-driven spikes.",
+          "The 10-year Treasury yield (the interest rate the US government pays to borrow for ten years) rose ~6bp (basis points, hundredths of a percent) to ~5.28%.",
+          "Markets increased rate hike odds (the chance of the Fed raising its benchmark rate); Nasdaq fell ~1.9% as high-growth tech is sensitive to higher discount rates (the rate used to value future profits)."
+        ],
+        "tags": [
+          "rates",
+          "inflation",
+          "macro"
+        ]
+      },
+      {
+        "headline": "Japanese banks and insurers pile into their own government's bonds",
+        "simple": "Big Japanese lenders and insurers have been buying lots of Japan's government debt after years of staying away. That matters because they used to put that money abroad.",
+        "interview_line": "If Japanese institutions keep money at home, there are fewer buyers of US and European bonds, which can lift global borrowing costs.",
+        "detail": [
+          "FT analysis (per secondary reports) shows lenders and insurers bought a net ¥5.4tn (~$34bn) of JGBs (Japanese government bonds) in the five months to August.",
+          "Higher Bank of Japan rates make domestic bonds more attractive vs. foreign debt, a process called repatriation (bringing overseas money back home).",
+          "Japan is a huge holder of US Treasuries (US government bonds), so reduced demand could add upward pressure on yields (the return on a bond).",
+          "Yields near multi-decade highs already pressure refinancing (replacing maturing debt with new debt) for leveraged borrowers."
+        ],
+        "tags": [
+          "rates",
+          "japan",
+          "fixed income"
+        ]
+      },
+      {
+        "headline": "Cost of insuring against AI-boom debt defaults hits records",
+        "simple": "Lenders are paying more to protect themselves in case companies borrowing heavily to build AI data centres can't repay. It shows worry about how much debt the AI boom is using.",
+        "interview_line": "Record default-insurance costs on AI borrowers suggest credit markets are starting to price in risk behind the AI capex boom.",
+        "detail": [
+          "CDS (credit default swaps, insurance-like contracts that pay out if a borrower defaults) on AI names such as Oracle have hit record levels; Oracle's five-year CDS was reported ~212bp.",
+          "S&P cut Oracle to BBB- (one notch above junk, i.e. sub-investment-grade), after negative free cash flow (cash left after investment).",
+          "Record hyperscaler (large cloud providers) bond trading shows heavy issuance and investor positioning; figures are from mid-2026 reports and may be stale.",
+          "Wider spreads (extra yield over safe government bonds) raise financing costs for data-centre and project-finance deals."
+        ],
+        "tags": [
+          "credit",
+          "ai",
+          "cds"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Higher yields and rate-hike risk raise financing costs for LBOs (leveraged buyouts) and slow sponsor-led dealflow.",
+      "Falling equities, especially tech, can pause IPOs and equity issuance until volatility settles.",
+      "Stress in AI-related credit could hit tech and data-centre financing, while pushing more activity into advisory on refinancing and restructuring."
+    ],
+    "left_field_question": "If inflation stays high and the Fed keeps hiking, which part of an investment bank's business benefits and which suffers?",
+    "left_field_answer": "Equity issuance and leveraged M&A usually suffer because deals cost more to finance and valuations drop. Fixed-income trading, rates hedging and restructuring advisory often benefit from volatility and stressed borrowers."
+  },
+  {
     "id": "2026-10-14",
     "date": "2026-10-14",
     "market_snapshot": "S&P 500 7,805 (~flat Tue) · Nasdaq 27,204 · Dow 51,670 (led declines) · US 10-year Treasury yield ~5.2% · Brent ~$106.65/bbl (Mon settle, after Saudi airport attacks) · US CPI due today",
