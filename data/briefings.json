@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-10-19",
+    "date": "2026-10-19",
+    "market_snapshot": "S&P 500 -1.1% (Fri close, futures rebounding) · Nasdaq -2.2% (Fri) · Dow -0.3% (Fri) · US 10-year yield ~5.07% (from ~5.13%) · Brent ~$107 (-2.5%) · USD/JPY ~157.98 · EUR/USD ~1.122 · early Monday levels, not final close",
+    "stories": [
+      {
+        "headline": "Insurance against AI company debt is getting very expensive",
+        "simple": "Investors are paying record prices to protect themselves in case AI firms can't repay their loans. The worry is that the huge spending on AI data centres won't earn money fast enough.",
+        "interview_line": "Record CDS pricing on Oracle and CoreWeave shows credit markets are questioning how AI capex gets funded, which matters for any leveraged infrastructure financing.",
+        "detail": [
+          "Oracle's 5-year CDS (credit default swap, insurance that pays out if a borrower defaults) hit a record ~288bp (basis points, hundredths of a percent); CoreWeave's is reported above 1,000bp.",
+          "Hyperscalers (the biggest cloud and AI spenders) such as Amazon, Alphabet and Meta also saw record-wide spreads (the extra yield or cost investors demand for risk), though at far lower levels.",
+          "JPMorgan and MUFG have spent 6+ months trying to syndicate (sell on to other lenders) ~$38bn of construction debt for an Oracle-leased data centre project.",
+          "Capex (capital expenditure, spending on long-term assets) funded via SPVs (special purpose vehicles, separate entities that hold the debt) rose from ~$172bn in 2025 to ~$346bn so far in 2026, per one estimate."
+        ],
+        "tags": [
+          "credit",
+          "ai",
+          "banking"
+        ]
+      },
+      {
+        "headline": "Trump pauses new Russia sanctions and oil prices drop",
+        "simple": "The US has put new sanctions on Russia on hold, so oil got cheaper. Cheaper oil eases worries about prices rising and helped borrowing costs dip.",
+        "interview_line": "Pausing Russia sanctions takes some supply risk out of oil, which eases inflation fears and gives bond yields room to fall.",
+        "detail": [
+          "A late-Friday executive order delayed broad new US sanctions on Russia; Brent (the global oil benchmark) fell ~2.5% to about $107 a barrel.",
+          "The 10-year Treasury yield (the interest rate on US government 10-year borrowing) eased to ~5.07% from ~5.13%, having touched 5.35% earlier this month, the highest since 2002.",
+          "Lower oil reduces inflation expectations (what markets think prices will do), which reduces pressure on the Fed (US central bank) to raise rates.",
+          "Energy-sector issuers and sponsors get clearer visibility on commodity prices, though sources differ slightly on exact levels."
+        ],
+        "tags": [
+          "energy",
+          "rates",
+          "macro"
+        ]
+      },
+      {
+        "headline": "Ares reportedly in talks to buy buyout firm Leonard Green",
+        "simple": "A big lender called Ares has held talks to buy Leonard Green, a firm that buys and runs companies. Nothing has been agreed.",
+        "interview_line": "Ares buying Leonard Green would show private credit giants moving into private equity to offer clients both lending and ownership.",
+        "detail": [
+          "The FT reported Ares Management held early talks to acquire Leonard Green & Partners; neither firm has confirmed and no price is public.",
+          "Ares has ~$644bn AUM (assets under management, client money it invests), mostly private credit (loans from non-bank funds); private equity is only ~4% of it.",
+          "Leonard Green manages ~$85bn in buyout funds (pools of money used to buy companies, often with borrowed money).",
+          "The talks were first reported in July; the date of the latest development is unverified, so treat status as unconfirmed."
+        ],
+        "tags": [
+          "m&a",
+          "private equity",
+          "private credit"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Wider AI credit spreads and stuck data-centre syndications raise financing costs and could slow tech and infrastructure debt deals.",
+      "Yields near 5% still weigh on LBO (leveraged buyout) financing, but lower oil and a small yield dip may help sponsor dealflow.",
+      "Alternative managers consolidating (Ares/Leonard Green) reshapes the sponsor client base and competition for financing mandates."
+    ],
+    "left_field_question": "If AI company credit default swaps keep widening, who ends up holding the risk and why should a bank's M&A team care?",
+    "left_field_answer": "Banks that underwrote the debt are stuck holding it if they can't sell it on, which uses up balance sheet and makes them less willing to lend for new deals. For M&A, that means tighter financing for tech and data-centre acquisitions, lower leverage, and more reliance on private credit funds."
+  },
+  {
     "id": "2026-10-15",
     "date": "2026-10-15",
     "market_snapshot": "S&P 500 -~1.0% · Nasdaq -~1.9% · Dow ~flat (-0.1%) · US 10-year Treasury yield ~5.28% (+6bp) · US 30-year ~5.59% · Brent above $100/bbl and rising · Wed 14 Oct close; FX not sourced",
