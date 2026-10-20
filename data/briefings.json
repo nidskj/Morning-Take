@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-10-20",
+    "date": "2026-10-20",
+    "market_snapshot": "US stocks ~+0.5% (Mon close, chipmakers rebound) · US 10-year yield ~5.08-5.15% (sources differ) · WTI ~$100 (flat), Brent ~$108-110 · USD/JPY ~158.5 · Dollar index ~102.0 · Monday levels, not today's close",
+    "stories": [
+      {
+        "headline": "Borrowing costs stay near 20-year highs as the Fed eyes another rate rise",
+        "simple": "The interest rate on US government loans is still about 5%, the highest in roughly two decades. Fed officials have signalled they may raise rates again this year because prices are still rising too fast.",
+        "interview_line": "With the 10-year around 5% and the Fed open to another hike, the cost of capital is the main brake on LBO and leveraged financing activity.",
+        "detail": [
+          "The 10-year Treasury yield (the interest rate on US government 10-year borrowing) was ~5.08-5.15% on Monday, after touching 5.35% earlier in October, the highest since 2002.",
+          "FOMC minutes (the record of the Fed's rate-setting committee meeting) showed most participants judged another hike likely appropriate by year end.",
+          "Fed Chair Kevin Warsh has said inflation (the rate prices are rising) remains 'too high and has been for too long'.",
+          "Higher risk-free rates (the return on government debt, the base for pricing all other borrowing) raise the discount rate (the rate used to value future cash flows), pressuring equity valuations and deal maths."
+        ],
+        "tags": [
+          "rates",
+          "macro",
+          "fed"
+        ]
+      },
+      {
+        "headline": "Oil stays around $100 a barrel, keeping inflation worries alive",
+        "simple": "Oil is still very expensive, about $100 a barrel, because of tension in the Middle East. That keeps petrol and shipping costs high and makes it harder for interest rates to fall.",
+        "interview_line": "Oil near $100 keeps inflation sticky, which keeps central banks hawkish and makes energy a key sector for both M&A and financing.",
+        "detail": [
+          "WTI (West Texas Intermediate, the US oil benchmark) ended Monday flat near $100 after a round trip; Brent (the global benchmark) was quoted around $108-110, with sources differing.",
+          "Oil has been a swing factor for yields: lower oil last week (on paused Russia sanctions) helped bonds, but any rebound adds to inflation expectations (what markets think prices will do).",
+          "Sustained high prices boost energy-company cash flows and can support upstream M&A (buying oil and gas producers) and refinancing.",
+          "The dollar index (the dollar against a basket of major currencies) was ~102 and USD/JPY ~158.5, with the yen the weakest major."
+        ],
+        "tags": [
+          "energy",
+          "macro",
+          "fx"
+        ]
+      },
+      {
+        "headline": "Japan's Dai-ichi Life reported to be bidding for Australia's Challenger",
+        "simple": "A big Japanese life insurer is reported to have made an offer for Challenger, an Australian company that sells retirement income products. The deal is worth about $5.7bn.",
+        "interview_line": "Dai-ichi going from a stake to a bid for Challenger shows Japanese insurers using yen cash to buy overseas retirement and annuity businesses.",
+        "detail": [
+          "Reuters Breakingviews (not the FT) cites a Daiichi Life offer for Challenger valued at ~$5.7bn; I could not verify terms or whether the bid is agreed or unsolicited.",
+          "Dai-ichi's Australian arm TAL bought a 15.1% stake in Challenger in 2025 at a ~53% premium (the extra over the prior share price), so this would be a step up from a minority holding.",
+          "Challenger sells annuities (products paying a steady income in retirement) and manages funds; the sector is attractive as populations age.",
+          "Needs approval from FIRB (Australia's foreign investment regulator) and APRA (the prudential regulator), which are likely to shape timing."
+        ],
+        "tags": [
+          "m&a",
+          "insurance",
+          "cross-border"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Yields around 5% and a hawkish Fed keep leveraged financing expensive, slowing LBO dealflow and favouring equity-funded or strategic buyers.",
+      "High oil supports energy-sector cash flows, refinancing and upstream M&A mandates.",
+      "Cross-border insurer and asset-manager deals (Dai-ichi/Challenger) point to steady financial-sector M&A and fairness-opinion work."
+    ],
+    "left_field_question": "If the 10-year yield is 5% and rising, why might a company still choose to do an acquisition now?",
+    "left_field_answer": "A strategic buyer can use its own cash or shares, so it is less exposed to expensive debt than a private equity buyer. Weak sellers' valuations and less competition from leveraged bidders can also make deals cheaper. The key is that the deal's returns must clearly beat the higher cost of capital."
+  },
+  {
     "id": "2026-10-19",
     "date": "2026-10-19",
     "market_snapshot": "S&P 500 -1.1% (Fri close, futures rebounding) · Nasdaq -2.2% (Fri) · Dow -0.3% (Fri) · US 10-year yield ~5.07% (from ~5.13%) · Brent ~$107 (-2.5%) · USD/JPY ~157.98 · EUR/USD ~1.122 · early Monday levels, not final close",
