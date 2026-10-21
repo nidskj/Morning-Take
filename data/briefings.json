@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-10-21",
+    "date": "2026-10-21",
+    "market_snapshot": "S&P 500 ~7,712 (+0.3%), Dow ~52,495 (+1%) · US 10-year yield ~5.12% · WTI ~$102.75, Brent ~$110 · GBP/USD ~1.338, dollar weaker · Gold ~$4,125 · Tuesday close, not today's",
+    "stories": [
+      {
+        "headline": "Musk says SpaceX and Tesla are weighing a merger",
+        "simple": "Elon Musk's two giant companies are looking at joining together, and each has set up a small group of directors to study it. Together they could be worth over $3 trillion.",
+        "interview_line": "A SpaceX-Tesla combination would be one of the largest mega-mergers ever, and the key questions are valuation, governance and how it is financed.",
+        "detail": [
+          "Special committees (groups of independent directors who review a deal where insiders have a conflict) have been formed at both firms.",
+          "The combined group could exceed $3tn in market value (the total worth of all shares), making it among the biggest deals ever.",
+          "SpaceX reported Starlink revenue up 69% as subscribers nearly doubled, supporting its valuation.",
+          "Likely to be all-stock (shareholders get shares, not cash), so exchange ratio (how many shares of one firm each holder of the other gets) is the key negotiation."
+        ],
+        "tags": [
+          "m&a",
+          "tech",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Banks are cutting back lending to the AI building boom",
+        "simple": "Lenders are growing nervous about the huge piles of debt used to build AI data centres. New borrowing for AI has dropped sharply since the summer.",
+        "interview_line": "AI financing is shifting from easy credit to being priced for real default risk, which tightens funding for the data-centre build-out.",
+        "detail": [
+          "Global AI-related debt issuance fell to about $23bn in September from $113bn in June, per FT reporting.",
+          "CoreWeave's 5-year CDS spread (the yearly cost of insuring against its default) reportedly hit a record ~1,195bp; this is secondhand and unverified.",
+          "Weaker credits (lower-rated borrowers) such as CCC spreads (extra yield over safe bonds) are widening while BBB barely moves, showing investors are discriminating.",
+          "Banks pulling back pushes borrowers towards private credit (lending by funds, not banks) and equity."
+        ],
+        "tags": [
+          "credit",
+          "ai",
+          "banking"
+        ]
+      },
+      {
+        "headline": "Oil near $110 keeps the Fed leaning towards another rate rise",
+        "simple": "Oil prices are still very high because talks to end the US-Iran conflict haven't produced a deal. That keeps prices rising, so markets expect interest rates to go up again in December.",
+        "interview_line": "Oil above $100 is feeding inflation, so the Fed is expected to hold in October and hike in December, keeping financing costs high.",
+        "detail": [
+          "Brent (the global oil price benchmark) is ~$110 and WTI (the US benchmark) ~$102.75, nearly 14% higher this month.",
+          "Traders price ~85% odds of another hike by year end; the FOMC (the Fed's rate-setting committee) meets 27-28 Oct and is expected to hold.",
+          "The 10-year Treasury yield (the interest rate on US 10-year government borrowing) closed ~5.12%; the curve flattened (short rates rose relative to long rates).",
+          "Chair Kevin Warsh declined to signal a decision, keeping policy uncertainty high."
+        ],
+        "tags": [
+          "rates",
+          "energy",
+          "macro"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Yields above 5% and a possible December hike keep leveraged financing expensive, favouring stock-funded and strategic deals over LBOs.",
+      "A SpaceX-Tesla merger would be a record advisory and financing mandate and signals appetite for mega-cap tech M&A.",
+      "AI debt pullback means data-centre and tech infrastructure financing shifts to private credit and equity, creating opportunities in capital-markets advisory."
+    ],
+    "left_field_question": "If oil stays at $110, which sectors would you expect to see more M&A in, and why?",
+    "left_field_answer": "Energy would see consolidation as cash-rich producers buy reserves, and oil services too. Airlines and chemicals would face margin pressure, which can trigger distressed sales or restructuring. Higher inflation and rates also favour strategic buyers with strong balance sheets over leveraged buyers."
+  },
+  {
     "id": "2026-10-20",
     "date": "2026-10-20",
     "market_snapshot": "US stocks ~+0.5% (Mon close, chipmakers rebound) · US 10-year yield ~5.08-5.15% (sources differ) · WTI ~$100 (flat), Brent ~$108-110 · USD/JPY ~158.5 · Dollar index ~102.0 · Monday levels, not today's close",
