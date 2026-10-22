@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-10-22",
+    "date": "2026-10-22",
+    "market_snapshot": "S&P 500 ~7,757 (+0.6%), Dow ~52,857 (+0.7%) · US 10-year yield ~5.12% · Brent ~$110-111, WTI ~$98+ · Hang Seng -2% to -3%, Nikkei -1.6% to -2.7% (Asia, Thursday) · US figures are Wednesday's close · Sourced outside the FT (ft.com blocked)",
+    "stories": [
+      {
+        "headline": "Oil jumps back above $110 as Iran tensions rise and Asian shares fall",
+        "simple": "Reports that the US and Israel are planning new strikes on Iran after the November elections pushed oil prices up. Share prices in Asia dropped as investors worried about higher costs.",
+        "interview_line": "Oil above $110 is a tax on growth and keeps inflation high, so it limits how fast central banks can cut rates and makes clients cautious about big deals.",
+        "detail": [
+          "Brent crude (the global oil price benchmark) traded around $110-111 a barrel on Iran and Strait of Hormuz (the narrow shipping route for much of the world's oil) worries.",
+          "Hong Kong's Hang Seng (Hong Kong's main stock index) fell roughly 2-3% and Japan's Nikkei 225 (Japan's main index) fell about 2%, with chip and AI shares hit hardest.",
+          "Higher oil feeds inflation (the general rise in prices), which keeps interest rates higher for longer.",
+          "Geopolitical risk premium (extra return investors demand for uncertainty) raises volatility (how sharply prices swing), which can delay IPOs and deal launches."
+        ],
+        "tags": [
+          "energy",
+          "macro",
+          "markets"
+        ]
+      },
+      {
+        "headline": "Salesforce to buy Braze for $5.7 billion as software dealmaking heats up",
+        "simple": "Salesforce has agreed to buy Braze, a marketing software company, for about $5.7 billion in cash. Braze's shareholders get a big premium over its recent share price.",
+        "interview_line": "Salesforce paying a 58% premium for Braze shows strategic buyers will still pay up for AI-ready software with sticky customers, even with rates this high.",
+        "detail": [
+          "All-cash deal at $47.50 a share, a 58% premium (extra paid over the pre-deal share price) to the last close; equity value about $5.66bn.",
+          "Closing expected in fiscal 2028 pending regulatory approval (clearance from competition authorities), a long timetable that adds deal risk.",
+          "Part of a run of tech deals: Thoma Bravo-owned Proofpoint agreed to buy Varonis for about $6.3bn, and LSEG bought Octus for about $3.5bn.",
+          "Sponsor-backed buyers like Thoma Bravo (private equity firms that buy companies using debt) are still active, supported by the leveraged finance (loans for heavily indebted buyers) market."
+        ],
+        "tags": [
+          "m&a",
+          "tech",
+          "software"
+        ]
+      },
+      {
+        "headline": "US borrowing costs sit near their highest in over 20 years",
+        "simple": "The interest rate the US government pays to borrow for ten years is around 5.1%, near a two-decade high. Prices are still rising about 3.7% a year, so rates are staying high.",
+        "interview_line": "A 5% risk-free rate raises the bar for every deal and valuation, which is why buyers need strong strategic logic and more equity rather than cheap debt.",
+        "detail": [
+          "The 10-year Treasury yield (the return on US government debt, the base for pricing most loans and bonds) was about 5.12%.",
+          "September CPI (consumer price index, a measure of consumer inflation) was reported at 3.7%, limiting room for the Fed (the US central bank) to cut.",
+          "Higher discount rates (the rate used to turn future profits into today's value) lower company valuations, widening the gap between what buyers and sellers want.",
+          "Equities have still held near record highs, driven by AI-related earnings, so credit spreads (the extra yield over government debt that companies pay) have stayed fairly contained."
+        ],
+        "tags": [
+          "rates",
+          "credit",
+          "macro"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Strategic tech M&A (Salesforce/Braze, Proofpoint/Varonis, LSEG/Octus) shows software and data dealflow continuing, supporting advisory fees.",
+      "A 5%+ risk-free rate and oil near $110 keep financing costs and volatility high, favouring cash and strategic buyers over leveraged deals and weighing on IPO timing.",
+      "Geopolitical risk around Iran could push clients to delay launches until after the US midterms, shifting dealflow into late 2026 and early 2027."
+    ],
+    "left_field_question": "If oil stays above $100 for a year, which sectors would you expect to see M&A in, and why?",
+    "left_field_answer": "I would expect consolidation in energy, since cash-rich producers can buy smaller ones, and in the sectors hurt by fuel costs such as airlines and chemicals, where weaker firms are forced to sell or merge. I would also expect more interest in energy security assets like renewables, pipelines and storage."
+  },
+  {
     "id": "2026-10-21",
     "date": "2026-10-21",
     "market_snapshot": "S&P 500 ~7,712 (+0.3%), Dow ~52,495 (+1%) · US 10-year yield ~5.12% · WTI ~$102.75, Brent ~$110 · GBP/USD ~1.338, dollar weaker · Gold ~$4,125 · Tuesday close, not today's",
