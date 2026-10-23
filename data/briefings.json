@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-10-23",
+    "date": "2026-10-23",
+    "market_snapshot": "S&P 500 -1.2% · Nasdaq -2.6% (26,009) · Dow ~flat · US 10-year yield ~4.96-4.99% (-12bp) · Brent ~$111.9 (+2.8%), WTI ~$98.8 · Meta ~-7% · Asia set to open lower Friday · US figures are Thursday's close · Sourced outside the FT (ft.com blocked)",
+    "stories": [
+      {
+        "headline": "Meta's huge AI spending scares investors and drags tech down",
+        "simple": "Meta said it will spend even more on AI and its spare cash turned negative. Investors got nervous and tech shares fell sharply.",
+        "interview_line": "Meta's slide shows investors now want proof AI spending pays off, which makes funding the AI build-out harder and more expensive for everyone.",
+        "detail": [
+          "Meta raised the low end of 2026 capex (capital expenditure, money spent on equipment and data centres) to $135bn-$145bn.",
+          "Free cash flow (cash left after running costs and investment) was negative about $2.1bn in Q3.",
+          "Meta's CDS (credit default swap, insurance against a borrower defaulting) spread hit a record, signalling bond investors are wary.",
+          "Nasdaq Composite (tech-heavy US index) fell 2.6%; Nvidia fell about 4%."
+        ],
+        "tags": [
+          "tech",
+          "credit",
+          "equities"
+        ]
+      },
+      {
+        "headline": "OpenAI reportedly raising up to $30bn at a $1.25 trillion value",
+        "simple": "OpenAI is said to be raising a huge pot of money that values it at about $1.25 trillion. That is a little less than it had hoped for.",
+        "interview_line": "A cut to OpenAI's target valuation hints that even the biggest AI firms face investor pushback on price, which matters for IPO timing and private funding rounds.",
+        "detail": [
+          "Reported raise of up to $30bn at a $1.25tn valuation (what investors collectively say the company is worth); this is a report, not a confirmed deal.",
+          "FirstFT framed it as a trimmed valuation target, meaning earlier ambitions were higher.",
+          "Private mega-rounds (large fundraisings outside public markets) are a key funding route for AI because of the capex (heavy up-front spending) needed.",
+          "A weaker tech tape (market mood) can delay a future IPO (stock market listing)."
+        ],
+        "tags": [
+          "ai",
+          "private markets",
+          "m&a"
+        ]
+      },
+      {
+        "headline": "Oil climbs on Iran strike reports while government borrowing costs drop",
+        "simple": "Reports of new US-Israeli strikes on Iran pushed oil higher. Investors also bought safe government bonds, which pulled borrowing costs down.",
+        "interview_line": "Rising oil but falling yields shows markets pricing in a growth scare rather than inflation relief, a mixed backdrop for deal financing.",
+        "detail": [
+          "Brent (global oil benchmark) rose 2.8% to about $111.9 after reports of renewed strikes on Iran following Election Day.",
+          "The 10-year Treasury yield (return on US government debt, a base for borrowing costs) fell about 12.5bp (basis points, hundredths of a percent) to roughly 4.96-4.99%.",
+          "Falling yields reflect a flight to safety (investors moving into low-risk assets) during the tech sell-off.",
+          "Oil-driven inflation (general price rises) limits how far central banks can cut rates."
+        ],
+        "tags": [
+          "energy",
+          "rates",
+          "macro"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Tech sell-off and wider credit spreads on AI names may delay tech IPOs and raise the cost of funding AI-related deals.",
+      "Lower Treasury yields help leveraged finance and M&A funding costs, but equity volatility makes sponsors and corporates cautious about launching deals.",
+      "AI capex needs favour debt capital markets and private funding mandates (e.g. OpenAI, hyperscaler bond issuance) as a source of advisory and financing fees."
+    ],
+    "left_field_question": "If Meta's spending makes its own investors nervous, would you advise a client to fund AI with debt or equity?",
+    "left_field_answer": "It depends on cash flow and credit standing. Meta's negative free cash flow and widening default-insurance cost make debt pricier, while equity dilutes shareholders and signals stress. I'd likely suggest a mix, staggered, with milestones tied to AI revenue."
+  },
+  {
     "id": "2026-10-22",
     "date": "2026-10-22",
     "market_snapshot": "S&P 500 ~7,757 (+0.6%), Dow ~52,857 (+0.7%) · US 10-year yield ~5.12% · Brent ~$110-111, WTI ~$98+ · Hang Seng -2% to -3%, Nikkei -1.6% to -2.7% (Asia, Thursday) · US figures are Wednesday's close · Sourced outside the FT (ft.com blocked)",
