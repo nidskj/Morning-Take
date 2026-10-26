@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-10-26",
+    "date": "2026-10-26",
+    "market_snapshot": "S&P 500 -0.5% (7,624) · Nasdaq -0.2% (25,955) · Dow -1.2% (52,215) · US 10-year yield ~5.0% · Brent ~$115 (off $116.7 Friday settle, six-month high) · Nikkei ~-0.7%, Hang Seng slightly up · US figures are Friday's close; Asia/oil are early Monday · Sourced outside the FT (ft.com not searchable)",
+    "stories": [
+      {
+        "headline": "Oil near $115 as the world waits on Iran",
+        "simple": "Oil is very expensive because people fear a new US-Israeli strike on Iran. It dipped on Monday after no attack happened over the weekend and Qatar offered to mediate.",
+        "interview_line": "Oil near $115 keeps inflation and interest rates higher for longer, which squeezes company profits and makes deal financing costlier.",
+        "detail": [
+          "Brent (the global oil price benchmark) settled at $116.72 on Friday, its highest since April, then eased about 1-2% in Asian trade on Monday.",
+          "Reports of possible strikes on Iran after the US midterms drove the spike; Qatari mediators reportedly travelled to Tehran.",
+          "The 10-year Treasury yield (the interest rate on US government debt, which sets borrowing costs across the economy) sits near 5%.",
+          "Higher energy prices feed inflation (rising prices), making rate cuts less likely and hitting airlines, chemicals and consumer sectors."
+        ],
+        "tags": [
+          "energy",
+          "rates",
+          "macro"
+        ]
+      },
+      {
+        "headline": "Tech shares keep sliding on worries about AI spending",
+        "simple": "Investors are getting nervous that big tech firms are spending too much on AI. Chip and electronics shares fell again in Asia on Monday.",
+        "interview_line": "The market is shifting from rewarding AI ambition to demanding returns, which raises the cost of funding data centres and AI deals.",
+        "detail": [
+          "Nasdaq Composite (tech-heavy US index) closed at 25,955 on Friday and Japan's Nikkei 225 fell about 0.7% on chip and electronics weakness.",
+          "Capex (capital expenditure, money spent on equipment and data centres) by tech giants is under scrutiny as cash flow shrinks.",
+          "AI-linked corporate debt risk gauges, such as CDS (credit default swaps, insurance against default), have been hitting records per recent FT reporting.",
+          "Rising yields hurt long-duration growth stocks (shares valued on profits far in the future) because future earnings are discounted at a higher rate."
+        ],
+        "tags": [
+          "tech",
+          "credit",
+          "equities"
+        ]
+      },
+      {
+        "headline": "Private equity group EQT agrees to buy Qiagen for about €9.6bn",
+        "simple": "Investment firm EQT and partners have agreed to buy medical-testing company Qiagen for cash. It shows big takeovers are still happening despite shaky markets.",
+        "interview_line": "EQT's Qiagen deal shows sponsors and sovereign wealth funds will still write big cheques for quality healthcare assets even with 5% yields.",
+        "detail": [
+          "The offer is €46.50 per share in cash from an EQT-led consortium including Abu Dhabi Investment Authority and CPP Investment Board (a Canadian pension fund); reported size is about €9.6bn (some sources say €10.8bn including debt).",
+          "This is a take-private (buying a listed company and delisting it), a core private equity deal type.",
+          "Financing relies on LBO debt (leveraged buyout, borrowing against the target's cash flows), which is pricier with the 10-year near 5%.",
+          "Closing is reported as expected in mid-2027, pending regulatory approvals."
+        ],
+        "tags": [
+          "m&a",
+          "private equity",
+          "healthcare"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Oil near $115 and 5% yields raise financing costs, pressuring LBO and leveraged loan deal structures.",
+      "Healthcare take-privates like Qiagen show sponsor and sovereign money is still active, supporting sell-side mandates in life sciences.",
+      "AI-spending doubts and tech volatility may delay tech IPOs and raise the cost of data-centre and AI infrastructure financing."
+    ],
+    "left_field_question": "If oil stays above $100 for a year, which sector would you want to advise on M&A, and why?",
+    "left_field_answer": "I'd pick energy and energy infrastructure, because high prices lift cash flows and give producers firepower for acquisitions and consolidation. I'd be cautious on airlines and chemicals, where margins get squeezed and boards tend to pause deals until costs stabilise."
+  },
+  {
     "id": "2026-10-23",
     "date": "2026-10-23",
     "market_snapshot": "S&P 500 -1.2% · Nasdaq -2.6% (26,009) · Dow ~flat · US 10-year yield ~4.96-4.99% (-12bp) · Brent ~$111.9 (+2.8%), WTI ~$98.8 · Meta ~-7% · Asia set to open lower Friday · US figures are Thursday's close · Sourced outside the FT (ft.com blocked)",
