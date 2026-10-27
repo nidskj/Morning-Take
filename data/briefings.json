@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-10-27",
+    "date": "2026-10-27",
+    "market_snapshot": "S&P 500 +0.7% (7,677) · Dow +0.3% (52,362) · Nasdaq +0.8% · Brent ~$115.8 (Friday high $116.7, highest since April) · US 10-year yield ~5% · Monday close figures; Tuesday moves not yet available · Sourced outside the FT (ft.com not reachable)",
+    "stories": [
+      {
+        "headline": "Oil stays near $115 as Iran talks drag on",
+        "simple": "Oil is still very expensive because people fear new strikes on Iran. Prices swing with every hint of a deal or an attack.",
+        "interview_line": "With oil near $115 and bond yields around 5%, inflation stays sticky and borrowing stays expensive, which makes deals harder to finance.",
+        "detail": [
+          "Brent (the global oil price benchmark) settled at $115.81, after hitting $116.72 on Friday, its highest since April.",
+          "Reports of possible US-Israeli strikes on Iran, and Trump saying it is 'decision time' on a deal, are driving the swings.",
+          "The 10-year Treasury yield (the interest rate on US government debt, which anchors borrowing costs) is near 5%.",
+          "Higher energy prices feed inflation (rising prices), reducing the chance of rate cuts and hurting airlines, chemicals and consumer firms."
+        ],
+        "tags": [
+          "energy",
+          "rates",
+          "macro"
+        ]
+      },
+      {
+        "headline": "Insurance against Big Tech defaulting hits record highs",
+        "simple": "Investors are paying more than ever to protect themselves in case AI-heavy tech firms can't repay their debts. The worry is that AI spending is being funded with too much borrowing.",
+        "interview_line": "AI capex is increasingly debt-funded, so record CDS pricing on Oracle and peers suggests credit markets are demanding a higher price for that risk.",
+        "detail": [
+          "CDS (credit default swaps, insurance contracts that pay out if a company defaults) on Oracle, Alphabet, Meta, Nvidia and others hit records, per LSEG data cited in FT-based reports.",
+          "Oracle's five-year CDS reportedly topped 2 percentage points and S&P cut it to BBB- (one notch above 'junk', i.e. sub-investment-grade).",
+          "Big Tech has issued a record ~$182bn of investment-grade bonds (highly rated corporate debt) this year; figures vary by source.",
+          "Loss-making 'neocloud' CoreWeave has CDS spreads (the annual cost of default protection) above 1,100bp (basis points, hundredths of a percent)."
+        ],
+        "tags": [
+          "credit",
+          "ai",
+          "bonds"
+        ]
+      },
+      {
+        "headline": "Anthropic files for a stock market listing",
+        "simple": "AI company Anthropic has publicly filed to sell shares on the stock market. The news lifted tech shares ahead of a busy week of big-company results.",
+        "interview_line": "A flagship AI IPO would test whether public investors will still fund AI growth at high valuations while credit markets are getting nervous.",
+        "detail": [
+          "An IPO (initial public offering, a company's first sale of shares to the public) filing gives the first official look at financials and valuation.",
+          "Alphabet, Amazon and Microsoft report earnings this week; their AI spending plans will set the tone for the sector.",
+          "Equity capital markets (the part of a bank that handles share sales) activity depends on stable markets, which oil and yields could threaten.",
+          "Details here come from market-report headlines only; treat specifics as unverified."
+        ],
+        "tags": [
+          "ipo",
+          "ai",
+          "equity markets"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Oil near $115 and 5% yields raise financing costs, so leveraged buyouts and acquisition debt are harder to price.",
+      "Record AI-debt CDS could slow big tech bond issuance and data-centre financing, a major debt capital markets fee pool.",
+      "A mega AI IPO filing signals the ECM window is open for tech, if volatility from Iran stays contained."
+    ],
+    "left_field_question": "If oil stays above $110 for six months, which of your sector coverage areas would you worry about first, and why?",
+    "left_field_answer": "I'd worry first about airlines and chemicals, because fuel and feedstock are large costs they can't always pass on, so margins and debt cover shrink. For an IBD team that means fewer deals and more refinancing or restructuring work, while energy producers see stronger cash flows and more M&A appetite."
+  },
+  {
     "id": "2026-10-26",
     "date": "2026-10-26",
     "market_snapshot": "S&P 500 -0.5% (7,624) · Nasdaq -0.2% (25,955) · Dow -1.2% (52,215) · US 10-year yield ~5.0% · Brent ~$115 (off $116.7 Friday settle, six-month high) · Nikkei ~-0.7%, Hang Seng slightly up · US figures are Friday's close; Asia/oil are early Monday · Sourced outside the FT (ft.com not searchable)",
