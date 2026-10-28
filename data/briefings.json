@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-10-28",
+    "date": "2026-10-28",
+    "market_snapshot": "S&P 500 -0.1% · Nasdaq -0.4% · Stoxx 600 -0.4% · Brent ~$115 (-1%) · US 10-year yield ~4.97% · Early-session moves; ft.com not reachable, sourced from other outlets",
+    "stories": [
+      {
+        "headline": "Fed decides on interest rates today, with another rise possible by December",
+        "simple": "America's central bank announces today whether to change the cost of borrowing. Most experts expect no change now, but a rise later this year.",
+        "interview_line": "With oil high and government borrowing costs near 5%, the Fed has little room to cut, so companies should plan for expensive debt for longer.",
+        "detail": [
+          "FOMC (the Fed committee that sets US interest rates) announces its decision at 2pm ET; a Reuters poll has 94 of 100 economists expecting a hold.",
+          "Markets price roughly a 73% chance of a hike in December, reported as unconfirmed against conflicting sources on the current rate level (3.5-4.0% range).",
+          "The 10-year Treasury yield (the return on 10-year US government debt, the benchmark for corporate borrowing) sits near 5%.",
+          "Energy-driven inflation (rising prices) is the main reason a cut is off the table."
+        ],
+        "tags": [
+          "rates",
+          "macro",
+          "fed"
+        ]
+      },
+      {
+        "headline": "Oil stays near $115 as Iran deal talks drag on",
+        "simple": "Oil is still very expensive because nobody knows if there will be a deal or new strikes with Iran. The price jumps on every headline.",
+        "interview_line": "Oil near $115 keeps inflation high and makes deals harder to price, because nobody knows what energy costs will be next quarter.",
+        "detail": [
+          "Brent (the global oil price benchmark) settled at $115.81, down 0.8%, and fell roughly another 1% early today.",
+          "Friday's $116.72 was the highest since April; WTI (the US oil benchmark) closed around $103.",
+          "Trump said it is 'decision time' on a deal or renewed strikes, so prices swing on headlines.",
+          "Higher energy costs squeeze airlines, chemicals and consumer groups, while helping energy producers' cash flow."
+        ],
+        "tags": [
+          "energy",
+          "macro",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Cost of insuring Big Tech and AI firms against default hits records",
+        "simple": "Investors are paying more than ever to protect themselves in case big AI companies can't repay their huge loans. It shows growing worry about how much they are borrowing.",
+        "interview_line": "AI spending is now funded by record bond sales, so lenders are demanding more protection, and that could raise financing costs across the sector.",
+        "detail": [
+          "CDS (credit default swaps, insurance-like contracts that pay out if a borrower defaults) on Oracle, Meta and others have hit record highs.",
+          "Big Tech has reported selling about $182bn of investment-grade bonds (bonds from safer borrowers) in 2026, with capex (spending on equipment and data centres) above $690bn expected.",
+          "Oracle's five-year CDS was reported at its highest since 2008, and CoreWeave's above 1,100 basis points (1bp = 0.01%).",
+          "Some investors say record CDS volumes may reflect hedging by banks rather than bearish bets, so figures are not all conclusive."
+        ],
+        "tags": [
+          "credit",
+          "tech",
+          "debt"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Rates near 5% and a possible December hike keep financing costly, slowing leveraged buyouts and sponsor-led M&A.",
+      "Oil volatility makes valuing energy and industrial targets harder, so deals may wait for clarity.",
+      "Record AI debt issuance means strong demand for bond and loan advisory work, but widening credit spreads could raise financing costs for tech M&A."
+    ],
+    "left_field_question": "If you were advising a CFO today, would you tell them to issue debt now or wait?",
+    "left_field_answer": "I'd lean towards issuing now. Yields are near 5%, markets expect a possible hike in December, and oil-driven uncertainty could push costs higher, so locking in funding while markets are open is safer. The exception is a company that doesn't need the cash yet and can afford to wait."
+  },
+  {
     "id": "2026-10-27",
     "date": "2026-10-27",
     "market_snapshot": "S&P 500 +0.7% (7,677) · Dow +0.3% (52,362) · Nasdaq +0.8% · Brent ~$115.8 (Friday high $116.7, highest since April) · US 10-year yield ~5% · Monday close figures; Tuesday moves not yet available · Sourced outside the FT (ft.com not reachable)",
