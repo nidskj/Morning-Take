@@ -1,5 +1,66 @@
 [
   {
+    "id": "2026-10-29",
+    "date": "2026-10-29",
+    "market_snapshot": "S&P 500 +0.3% · Nasdaq +0.3% · Dow +0.2% (Wed close) · US 2-year yield ~4.78% · Fed funds 3.75-4.0% · Dec hike ~85% priced · Brent/FX not confirmed; ft.com not reachable, sourced from other outlets",
+    "stories": [
+      {
+        "headline": "US central bank holds rates but two officials wanted a rise",
+        "simple": "America's central bank left borrowing costs unchanged yesterday. Two of its members wanted to raise them, and traders now expect a rise in December.",
+        "interview_line": "The Fed's 10-2 hold with two hawkish dissents tells me borrowing costs are staying high, so I'd expect clients to lock in financing early.",
+        "detail": [
+          "FOMC (the committee that sets US interest rates) voted 10-2 to hold the federal funds rate (the Fed's overnight lending rate) at 3.75-4.0%.",
+          "Governor Lisa Cook and Cleveland Fed's Beth Hammack dissented (voted against the majority) in favour of a 25 basis point (0.25 percentage point) hike.",
+          "Traders price roughly an 85% chance of a hike at the 9 December meeting, up sharply from under 10% beforehand, per CME FedWatch (a market-implied probability tool).",
+          "The 2-year Treasury yield (return on 2-year US government debt, sensitive to rate expectations) jumped to about 4.78% after the decision, then eased as Chair Kevin Warsh discussed fewer meetings."
+        ],
+        "tags": [
+          "rates",
+          "macro",
+          "fed"
+        ]
+      },
+      {
+        "headline": "Big tech's huge AI spending faces its test this week",
+        "simple": "The biggest tech firms are spending hundreds of billions on AI. Investors are checking this week whether that spending is actually earning money.",
+        "interview_line": "The market is asking if roughly $800bn of AI spending earns a return, and the answer drives tech valuations and the debt those firms raise.",
+        "detail": [
+          "Alphabet and Microsoft reported on 28 October and Amazon reports 29 October; Bloomberg frames the week as a test of over $800bn of expected hyperscaler capex (capital expenditure, spending on long-term assets like data centres).",
+          "Meta already reported, with 2026 capex guidance narrowed to $135-145bn and negative free cash flow (cash left after investment) of about $2.1bn; the stock fell about 9%.",
+          "Exact Alphabet and Microsoft results could not be confirmed from sources reachable today, so check them before using specifics.",
+          "Heavy spending is often funded by bond issuance (companies borrowing from investors), feeding capital markets activity."
+        ],
+        "tags": [
+          "tech",
+          "capex",
+          "credit"
+        ]
+      },
+      {
+        "headline": "Asian and US banks are in the deal spotlight",
+        "simple": "One big Indonesian bank's shares jumped on talk of a merger that the buyer denied. Meanwhile a US regional bank agreed a small takeover.",
+        "interview_line": "Bank consolidation is picking up, but rumours are cheap, so I'd look for signed deals and regulatory backing rather than share-price moves.",
+        "detail": [
+          "DBS denied speculation that DBS Indonesia could merge with Bank Central Asia via a share exchange (swapping shares rather than paying cash); BCA closed up 7.65% on 28 October.",
+          "First Community Bankshares agreed to buy Main Street Financial Services for about $243m in an all-stock deal (each share converts at 0.6174 of the buyer's shares).",
+          "Closing is expected in early Q2 2027, subject to shareholder and regulatory approvals (sign-off from bank supervisors).",
+          "Azerbaijan's central bank governor said on 29 October it backs bank consolidation, a sign of wider push for bigger banks."
+        ],
+        "tags": [
+          "m&a",
+          "banking"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "A likely December hike keeps financing costly, which weighs on leveraged buyouts and sponsor-led deals.",
+      "AI capex and funding needs support debt and equity capital markets mandates, but investor doubts on returns could cool tech issuance.",
+      "Bank consolidation chatter in Asia and US regionals supports FIG (financial institutions group) M&A advisory, mostly small and mid-sized deals."
+    ],
+    "left_field_question": "If the Fed raises rates in December, which of your clients' deals do you think gets delayed first?",
+    "left_field_answer": "Leveraged buyouts, because they rely on cheap debt and sponsors can simply wait. Strategic buyers with strong balance sheets and stock-funded deals are less affected, so I'd expect them to keep going."
+  },
+  {
     "id": "2026-10-28",
     "date": "2026-10-28",
     "market_snapshot": "S&P 500 -0.1% · Nasdaq -0.4% · Stoxx 600 -0.4% · Brent ~$115 (-1%) · US 10-year yield ~4.97% · Early-session moves; ft.com not reachable, sourced from other outlets",
