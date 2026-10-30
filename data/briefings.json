@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-10-30",
+    "date": "2026-10-30",
+    "market_snapshot": "Nasdaq -1.4% · S&P 500 -0.3% · Dow -0.3% (Thu close) · Nasdaq-100 futures ~-2% · Amazon -5% at close, ~-7% after hours · Dec Fed hike ~75% priced · yields/oil/FX not confirmed; ft.com not reachable, sourced from other outlets",
+    "stories": [
+      {
+        "headline": "Big tech's AI spending spooks investors again",
+        "simple": "Google's parent, Amazon and Intel all gave investors reasons to worry. Shares fell because spending on AI is huge and the payoff looks slower than hoped.",
+        "interview_line": "The market is no longer rewarding AI spending on its own, it wants proof of profit, which makes tech funding and valuations more fragile.",
+        "detail": [
+          "Alphabet shares fell about 12% after a revenue miss, reigniting worries over capex (capital expenditure, spending on long-term assets like data centres).",
+          "Amazon's Q3 revenue was $201.9bn and EPS (earnings per share) $1.89, both slightly short; AWS (its cloud arm) grew 39%, but shares slid about 7% after hours as cash burn rose against reaffirmed $220bn capex guidance.",
+          "Intel guided Q4 revenue of $15-16bn versus $17.1bn expected (guidance means the company's own forecast), citing a weak PC market and supply limits; shares fell roughly 16-23% after hours.",
+          "Nasdaq-100 futures (contracts tracking the index before the market opens) pointed about 2% lower. After-hours moves differ by source and may change at the open."
+        ],
+        "tags": [
+          "tech",
+          "capex",
+          "equities"
+        ]
+      },
+      {
+        "headline": "Strong US data pushes traders to bet on a rate rise in December",
+        "simple": "The US economy grew strongly and prices are still rising fast. That makes it more likely the central bank raises borrowing costs again next month.",
+        "interview_line": "Hot growth and inflation data mean higher-for-longer rates, so I'd expect sponsors to delay leveraged deals and corporates to prioritise refinancing.",
+        "detail": [
+          "Strong Q3 GDP (gross domestic product, the size of the economy) and PCE inflation (the Fed's preferred price gauge) added to hike bets.",
+          "The Fed held rates on Wednesday with two dissents (votes against the majority) in favour of a hike; markets now price roughly a 75% chance of a December rise, though sources differ.",
+          "Higher expected rates lift Treasury yields (the return on US government debt, the benchmark for borrowing costs) and weigh on growth stocks, which are valued on distant earnings.",
+          "Exact yield, oil and dollar moves could not be confirmed today; check before quoting levels."
+        ],
+        "tags": [
+          "rates",
+          "macro",
+          "fed"
+        ]
+      },
+      {
+        "headline": "Two big takeovers agreed: DoorDash-Instacart and ADT going private",
+        "simple": "DoorDash agreed to buy grocery-delivery firm Instacart for about $17bn. Separately, an AI-backed investor agreed to buy home-security firm ADT.",
+        "interview_line": "Large deals are still getting signed despite higher rates, which shows boards will pay up for strategic scale and cash-generative assets.",
+        "detail": [
+          "DoorDash will pay $65 per Instacart share, a 26% premium (extra over the pre-rumour price) to the 22 October close, at least 75% in cash with the rest in DoorDash stock.",
+          "Break fees (payments if a deal collapses) are reported at $650m owed by Instacart and $1.25bn by DoorDash; completion is expected by 2028, implying a long antitrust (competition regulator) review.",
+          "Thrive Holdings, backed by OpenAI, agreed to take ADT private at $10 per share, a 45.6% premium to the 27 October close, about $15.3bn enterprise value (equity plus net debt).",
+          "ADT still needs shareholder and US regulatory approval, and reports mention room for a rival bidder (a topping bid). Figures come from secondary outlets, not original filings."
+        ],
+        "tags": [
+          "m&a",
+          "consumer",
+          "take-private"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Two $15bn+ signings show strategic and sponsor M&A still working, with premiums of 26-46% setting a high bar for targets.",
+      "Rate-hike bets and a tech sell-off raise financing costs and could delay tech equity and convertible issuance, though AI funding needs still support debt mandates.",
+      "Long antitrust timelines (DoorDash-Instacart to 2028) push advisers to focus on regulatory strategy and deal certainty, including break fees."
+    ],
+    "left_field_question": "Amazon's cloud grew 39% and yet its shares fell. What does that tell you about how the market values companies right now?",
+    "left_field_answer": "Growth alone is not enough: investors are pricing in the cost of earning it. With capex around $220bn and cash burn rising, the market wants returns to show up in free cash flow, so any miss against already-high expectations gets punished."
+  },
+  {
     "id": "2026-10-29",
     "date": "2026-10-29",
     "market_snapshot": "S&P 500 +0.3% · Nasdaq +0.3% · Dow +0.2% (Wed close) · US 2-year yield ~4.78% · Fed funds 3.75-4.0% · Dec hike ~85% priced · Brent/FX not confirmed; ft.com not reachable, sourced from other outlets",
