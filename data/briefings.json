@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-02",
+    "date": "2026-11-02",
+    "market_snapshot": "S&P 500 7,580 -1.8% · Nasdaq 25,437 -2.9% · Dow 51,770 -1.1% (Fri close) · Fed funds 3.75-4.00% · Oct payrolls due Fri · yields/oil/FX not confirmed; ft.com not reachable, sourced from other outlets",
+    "stories": [
+      {
+        "headline": "Tech shares crash, worst day for US stocks since June",
+        "simple": "Disappointing results from big tech firms sent AI-linked shares sharply lower on Friday. Investors are asking when all that AI spending will start paying off.",
+        "interview_line": "Friday showed the market punishing AI spending without clear returns, which could make tech equity and debt raises harder to price this quarter.",
+        "detail": [
+          "The S&P 500 fell 1.82% (the broad US share index), its biggest one-day drop since 5 June; the Nasdaq (tech-heavy index) fell 2.86%.",
+          "The Nasdaq lost 5.3% in October as weak earnings (company profit reports) hit AI names.",
+          "Apple and Palantir report today, with AMD on 3 Nov, so volatility (size of price swings) may stay high.",
+          "Futures (contracts pricing the market before it opens) and today's open were not confirmed; check before quoting."
+        ],
+        "tags": [
+          "equities",
+          "tech",
+          "ai"
+        ]
+      },
+      {
+        "headline": "Central bank on hold, but some want higher rates; jobs data due Friday",
+        "simple": "The US central bank kept borrowing costs unchanged, but two members wanted them higher. A big jobs report on Friday could decide what comes next.",
+        "interview_line": "With the Fed split and still leaning hawkish, I'd expect financing costs to stay elevated, so issuers will want to lock in funding early.",
+        "detail": [
+          "The Fed (US central bank) voted 10-2 to hold the policy rate at 3.75-4.00%; the two dissents (votes against) wanted a hike.",
+          "October nonfarm payrolls (monthly count of US jobs added) land Friday 6 Nov, along with unemployment.",
+          "ISM manufacturing PMI (survey of factory activity) and JOLTS (job openings data) come early this week.",
+          "US midterm elections on 3 Nov add policy uncertainty (doubt over future tax and regulation), which can delay deals."
+        ],
+        "tags": [
+          "rates",
+          "fed",
+          "macro"
+        ]
+      },
+      {
+        "headline": "Mega-mergers still in play as regulators and rates loom",
+        "simple": "Several huge takeovers are waiting for approval, and bankers are talking about even bigger ones. Companies are still willing to pay for scale despite shaky markets.",
+        "interview_line": "Megadeals like NextEra-Dominion show strategic M&A survives volatility, but long regulatory timelines and funding costs shape structure.",
+        "detail": [
+          "NextEra's proposed takeover of Dominion values Dominion's equity (shareholders' stake) at about $66.8bn, with closing expected mid-to-late 2027.",
+          "Sysco's $29.1bn pursuit of Jetro Restaurant Depot awaits FTC (US competition regulator) approval.",
+          "Barclays says a SpaceX-Tesla combination is part of the Tesla bull case; no deal is announced, so this is speculation.",
+          "Long closing timelines mean ticking fees and bridge loans (short-term acquisition financing) matter."
+        ],
+        "tags": [
+          "m&a",
+          "energy",
+          "financing"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Tech selloff weakens equity issuance windows (IPOs, follow-ons) and tech M&A valuations in the near term.",
+      "Hawkish Fed keeps leveraged finance and sponsor LBO (debt-funded buyout) deals harder to price.",
+      "Large utility and consumer deals keep strategic advisory and acquisition financing mandates active."
+    ],
+    "left_field_question": "If the AI trade keeps unwinding, which sector's M&A gets busier and why?",
+    "left_field_answer": "Likely consolidation in beaten-down tech and AI infrastructure, as lower valuations make stock-funded targets cheaper and strong balance sheets can buy. Utilities and power would also stay busy, since AI-driven electricity demand underpins deals like NextEra-Dominion regardless of share prices."
+  },
+  {
     "id": "2026-10-30",
     "date": "2026-10-30",
     "market_snapshot": "Nasdaq -1.4% · S&P 500 -0.3% · Dow -0.3% (Thu close) · Nasdaq-100 futures ~-2% · Amazon -5% at close, ~-7% after hours · Dec Fed hike ~75% priced · yields/oil/FX not confirmed; ft.com not reachable, sourced from other outlets",
