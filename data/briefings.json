@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-03",
+    "date": "2026-11-03",
+    "market_snapshot": "Mon: S&P 500 and Nasdaq lower (tech sell-off extends), Dow higher · Oil lower on US-Iran de-escalation hopes · Markets price ~73% odds of a Fed hike by December (CME FedWatch, single source) · closing levels/yields/FX not confirmed; ft.com not reachable, sourced from other outlets",
+    "stories": [
+      {
+        "headline": "Tech sell-off drags on as Apple and Palantir report",
+        "simple": "Tech shares kept falling after a rough October, and investors are nervous about big AI spending. Apple and Palantir reported after the market closed.",
+        "interview_line": "The AI sell-off is testing whether tech valuations can support new share sales and big acquisitions right now.",
+        "detail": [
+          "S&P 500 and Nasdaq (US broad and tech-heavy share indices) extended losses on Monday while the Dow rose, a sign of rotation (money moving between sectors).",
+          "October's slide wiped more than $2tn off the Nasdaq-100 (index of the 100 biggest Nasdaq non-financial firms) by one report's count.",
+          "Palantir beat revenue estimates (Q3 revenue about $2.31bn, up roughly 96% year on year) and raised guidance (its profit and sales outlook), yet shares still fell about 2% after hours.",
+          "Apple fell about 2% after hours on a weak margin forecast (expected profit as a share of sales) and iPad sales that missed estimates."
+        ],
+        "tags": [
+          "equities",
+          "tech",
+          "ai"
+        ]
+      },
+      {
+        "headline": "Traders now expect the US central bank to raise rates again",
+        "simple": "Markets think the Fed may push borrowing costs up again by December because prices are still rising. Higher rates make loans more expensive for everyone.",
+        "interview_line": "Markets are pricing a Fed hike, so deal financing costs are rising, which hits leveraged buyouts hardest.",
+        "detail": [
+          "CME FedWatch (a tool that turns futures prices into rate odds) showed about a 73% chance of a hike by December; this is from a single pre-market source, so verify before quoting.",
+          "Treasury yields (the return on US government debt, the base for all borrowing costs) hit multi-year highs in late September amid inflation worries tied to the Iran conflict.",
+          "October jobs data (payrolls, the monthly count of new jobs) is due Friday and could move rate bets sharply.",
+          "Higher base rates raise the cost of leveraged loans (floating-rate debt for buyouts) and cool sponsor (private equity) activity."
+        ],
+        "tags": [
+          "rates",
+          "fed",
+          "macro"
+        ]
+      },
+      {
+        "headline": "Oil falls as US-Iran tensions ease before the midterms",
+        "simple": "Oil got cheaper after signs the US will avoid new military action against Iran before next week's elections. Cheaper oil eases pressure on prices and on energy firms' profits.",
+        "interview_line": "Falling oil helps the inflation outlook but squeezes energy producers, and could shift energy M&A and financing.",
+        "detail": [
+          "Oil fell as President Trump reportedly ruled out further US strikes on Iran before the midterm elections (the US congressional votes), easing fears of lost Middle East supply.",
+          "Lower oil reduces inflation expectations (what markets think prices will do), which could slightly ease pressure on the Fed.",
+          "Lower crude hits upstream (oil and gas production) cash flow, which can push weaker producers toward consolidation or refinancing.",
+          "Geopolitical risk premium (extra price for uncertainty) can return fast; the specific Brent price move was not confirmed."
+        ],
+        "tags": [
+          "energy",
+          "geopolitics",
+          "macro"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Continued tech weakness narrows the IPO and follow-on window and keeps tech M&A valuations uncertain.",
+      "Rate-hike expectations raise acquisition financing costs and slow sponsor-led LBOs.",
+      "Lower oil and falling energy valuations could prompt energy sector consolidation and refinancing mandates."
+    ],
+    "left_field_question": "If the Fed raises rates while tech shares are falling, what happens to M&A?",
+    "left_field_answer": "Debt-funded deals slow because financing costs more, and sellers resist lower valuations. Cash-rich strategic buyers gain an edge and can buy beaten-down targets, so deal activity shifts toward strategics and away from private equity."
+  },
+  {
     "id": "2026-11-02",
     "date": "2026-11-02",
     "market_snapshot": "S&P 500 7,580 -1.8% · Nasdaq 25,437 -2.9% · Dow 51,770 -1.1% (Fri close) · Fed funds 3.75-4.00% · Oct payrolls due Fri · yields/oil/FX not confirmed; ft.com not reachable, sourced from other outlets",
