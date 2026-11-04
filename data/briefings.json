@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-04",
+    "date": "2026-11-04",
+    "market_snapshot": "Tue close: S&P 500 +0.36% to ~7,569 · Nasdaq +0.83% to ~25,372 · Dow -0.38% to ~51,787 · US 10-yr yield ~4.93-4.95% · Brent ~$103.6 (single source) · ~73-82% odds of a Fed hike in December (sources differ) · ft.com not reachable; sourced from CNBC/Yahoo/other outlets",
+    "stories": [
+      {
+        "headline": "Chip maker Marvell agrees a giant $115bn takeover of Lumentum",
+        "simple": "Marvell, a chip company, plans to buy Lumentum, which makes the light-based parts that move data inside AI data centres. It is paying with its own shares, not cash.",
+        "interview_line": "An all-stock deal of this size shows AI infrastructure buyers will use their share price as currency rather than borrow at today's high rates.",
+        "detail": [
+          "Deal value is about $115bn including debt (Reuters), paid entirely in stock: 4.5 Marvell shares per Lumentum share.",
+          "Marvell holders would own about 67% of the combined company (pro forma ownership: each side's share of the merged firm).",
+          "Rationale is optical interconnects (light-based links between chips and servers) as AI data centres need faster data movement.",
+          "All-stock structure avoids acquisition debt (borrowing to fund the purchase) but exposes both sides to share-price swings and needs regulatory (antitrust) approval."
+        ],
+        "tags": [
+          "m&a",
+          "tech",
+          "equity"
+        ]
+      },
+      {
+        "headline": "Democrats win big in the midterms; US borrowing costs dip",
+        "simple": "Early results suggest Democrats did very well in the US elections. Investors reacted by buying government bonds, which pushed the cost of government borrowing down a little.",
+        "interview_line": "Election results matter to bankers mainly through rates and regulation, since a divided Washington changes the outlook for tax, spending and antitrust policy.",
+        "detail": [
+          "CNBC reported Democrats on course to win at least the House, with the Senate projected too; results were still coming in.",
+          "The 10-year Treasury yield (the return on 10-year US government debt, a benchmark for loan pricing) was about 4.93-4.95%, and fell as results came in.",
+          "A divided or Democrat-led Congress can mean less new fiscal stimulus (government spending/tax cuts), which can lower expected bond supply (new government debt issued).",
+          "Markets still price a likely Fed hike (central bank raising its policy rate) in December, with odds quoted between ~73% and ~82% depending on source."
+        ],
+        "tags": [
+          "rates",
+          "politics",
+          "macro"
+        ]
+      },
+      {
+        "headline": "AI shares bounce back, but Apple and Palantir slip",
+        "simple": "Chip and AI shares recovered after a rough few days. Apple and Palantir still fell because investors worried about profit margins and slower growth in new orders.",
+        "interview_line": "Even strong results get punished when expectations are high, which makes tech valuations a key swing factor for equity issuance and M&A.",
+        "detail": [
+          "Nasdaq rose 0.83% and the S&P 500 0.36% on a chip rebound, while the Dow fell 0.38%, showing rotation (money shifting between sectors).",
+          "Apple guided gross margin (profit left after direct costs, as % of sales) to 45-46% vs about 46.9% expected, and fell around 2%.",
+          "Palantir beat revenue estimates but fell about 1.7-2% on a slowdown in contract value (the total value of signed deals).",
+          "AMD was due to report after the close; results were not confirmed at time of writing."
+        ],
+        "tags": [
+          "equities",
+          "tech",
+          "valuation"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Marvell-Lumentum shows large stock-funded tech M&A is still happening, supporting advisory fees in semis and AI infrastructure.",
+      "Yields near 5% and likely Fed hike keep leveraged and sponsor-led financing expensive, favouring all-stock or cash-rich strategic buyers.",
+      "A tech rebound would help ECM (equity capital markets) reopen for follow-ons and IPOs, but volatile valuations still complicate pricing."
+    ],
+    "left_field_question": "A client wants to buy a rival using shares rather than cash. When is that better, and what are the risks?",
+    "left_field_answer": "Shares make sense when debt is expensive and the buyer's stock is highly valued, as in Marvell's deal for Lumentum. The risks are dilution of existing owners, and the target's holders bearing the buyer's share-price swings between signing and closing, which is often managed with a fixed exchange ratio or a collar."
+  },
+  {
     "id": "2026-11-03",
     "date": "2026-11-03",
     "market_snapshot": "Mon: S&P 500 and Nasdaq lower (tech sell-off extends), Dow higher · Oil lower on US-Iran de-escalation hopes · Markets price ~73% odds of a Fed hike by December (CME FedWatch, single source) · closing levels/yields/FX not confirmed; ft.com not reachable, sourced from other outlets",
