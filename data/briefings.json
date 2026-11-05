@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-05",
+    "date": "2026-11-05",
+    "market_snapshot": "Wed close: S&P 500 +1.6% to ~7,689 · Nasdaq +1.4% to ~25,737 · Dow +3.0% to ~53,356 · US 10-yr yield ~4.89% (from 4.95%) · Brent ~$95 (-8%) · VIX ~17 · ft.com not reachable; sourced from secondary outlets, figures vary slightly by source",
+    "stories": [
+      {
+        "headline": "Stocks jump as the US election result removes a big unknown",
+        "simple": "US shares had their best day in months after voting showed the President's party no longer controls everything in Washington. Investors like knowing the outcome and expect fewer big surprises.",
+        "interview_line": "A split Washington tends to mean fewer sweeping policy shocks, which investors read as more predictable conditions for companies to plan and do deals.",
+        "detail": [
+          "Dow rose about 3% (its best day in roughly 19 months); S&P 500 up ~1.6%.",
+          "Gridlock (a divided government that struggles to pass big new laws) is usually read as market-friendly because policy risk falls.",
+          "VIX (the 'fear gauge' measuring expected share-price swings) dropped to about 17, showing calmer sentiment.",
+          "Reports are secondary and the exact seat counts were not confirmed in my sources."
+        ],
+        "tags": [
+          "markets",
+          "politics",
+          "equities"
+        ]
+      },
+      {
+        "headline": "Oil prices tumble as hopes grow for a deal with Iran",
+        "simple": "Oil got much cheaper after signs that the US and Iran may talk their way out of the war. Cheaper fuel eases pressure on prices everywhere.",
+        "interview_line": "A sharp fall in oil lowers inflation worries, which helps shares and gives central banks less reason to keep raising rates.",
+        "detail": [
+          "Brent (the global oil price benchmark) fell roughly 8% to about $95 a barrel; one report had it down ~9% intraday.",
+          "Driver was diplomacy headlines, not new supply, so the move can reverse quickly (headline risk: prices jumping on news rather than fundamentals).",
+          "Lower energy costs feed through to inflation expectations (what markets think future price rises will be), and so to bond yields.",
+          "Energy producers' shares and credit spreads (the extra yield investors demand over safe bonds) are the most exposed."
+        ],
+        "tags": [
+          "energy",
+          "oil",
+          "inflation"
+        ]
+      },
+      {
+        "headline": "Borrowing costs ease a little but stay high",
+        "simple": "The rate the US government pays to borrow for ten years dipped but is still near the highest in years. Investors still expect the Fed to raise interest rates again.",
+        "interview_line": "With long-term borrowing costs still near multi-year highs, companies are leaning on stock and cash rather than debt to fund big deals.",
+        "detail": [
+          "US 10-year Treasury yield (the return on a ten-year US government bond, a benchmark for borrowing costs) fell to ~4.89% from ~4.95%.",
+          "Markets still price a meaningful chance of a Fed rate hike in December (the odds differ by source).",
+          "Higher yields raise the cost of leveraged loans (loans to heavily indebted companies, often used in buyouts), squeezing LBO maths.",
+          "The Bank of England also decided on rates today; I could not confirm the outcome."
+        ],
+        "tags": [
+          "rates",
+          "credit",
+          "fed"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Calmer politics and a falling VIX improve the window for IPOs and follow-on equity offerings.",
+      "Yields near 4.9% keep debt financing costly, favouring all-stock M&A and sponsor deals with more equity.",
+      "Lower oil helps energy-intensive sectors' earnings visibility but cuts energy producers' cash flow, which may shift energy M&A and financing."
+    ],
+    "left_field_question": "If oil fell 8% in a day, who loses, and would you still advise an energy client to do a deal this week?",
+    "left_field_answer": "Producers and oilfield services lose through lower revenue and share prices, while airlines and chemicals gain. I'd be cautious advising an energy client to price a deal this week because a headline-driven move makes valuations unstable, so I'd wait for the oil price to settle or use a structure that bridges any valuation gap."
+  },
+  {
     "id": "2026-11-04",
     "date": "2026-11-04",
     "market_snapshot": "Tue close: S&P 500 +0.36% to ~7,569 · Nasdaq +0.83% to ~25,372 · Dow -0.38% to ~51,787 · US 10-yr yield ~4.93-4.95% · Brent ~$103.6 (single source) · ~73-82% odds of a Fed hike in December (sources differ) · ft.com not reachable; sourced from CNBC/Yahoo/other outlets",
