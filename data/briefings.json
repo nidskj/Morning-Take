@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-06",
+    "date": "2026-11-06",
+    "market_snapshot": "Thu: Dow ~-1,800 pts · S&P 500 down ~3-4% · Nasdaq ~-5% (correction) · Brent ~$96.70 (+2.2%, after ~-9% Wed) · BoE Bank Rate 4% · ft.com not reachable; figures from secondary outlets and conflict slightly",
+    "stories": [
+      {
+        "headline": "AI shares crash and drag the whole US stock market down",
+        "simple": "Shares in AI and chip companies fell sharply, pulling the wider market down with them. Investors are worried the huge amounts spent on AI won't pay off soon enough.",
+        "interview_line": "The AI sell-off shows how much of the market rests on a few tech names, and a sharp fall can quickly shut the door on new share sales.",
+        "detail": [
+          "Dow fell ~1,800 points and the Nasdaq entered a correction (a drop of 10%+ from its recent high); reports differ on the exact S&P 500 fall (3-4%).",
+          "Follows a late-October tech slide on worries about Big Tech AI spending (capex: money spent on long-term assets like data centres) and chipmaker cash burn.",
+          "Concentration risk (a few large stocks make up much of an index) amplifies falls in the whole market.",
+          "Exact trigger for Thursday's move was not confirmed in my sources."
+        ],
+        "tags": [
+          "equities",
+          "ai",
+          "markets"
+        ]
+      },
+      {
+        "headline": "Bank of England raises interest rates for the first time since 2023",
+        "simple": "The UK central bank made borrowing more expensive by lifting its main rate to 4%. It said this doesn't mean lots more rises are coming.",
+        "interview_line": "A BoE hike signals sticky inflation, which raises UK borrowing costs and makes lenders more cautious on new deals.",
+        "detail": [
+          "MPC (Monetary Policy Committee, the panel that sets UK rates) voted 8-1 for a 0.25 percentage point rise to 4%.",
+          "Governor Bailey said it should not be seen as the first of an 'inevitable long sequence' of hikes (a hawkish-but-cautious message, hawkish meaning favouring higher rates).",
+          "Higher Bank Rate lifts floating-rate borrowing costs (loans whose interest resets with a benchmark) for leveraged buyers and corporates.",
+          "Gilt (UK government bond) and sterling reaction not confirmed in my sources."
+        ],
+        "tags": [
+          "rates",
+          "uk",
+          "central-banks"
+        ]
+      },
+      {
+        "headline": "Oil swings wildly as Iran war uncertainty drags on",
+        "simple": "Oil prices jumped back a bit after a huge fall the day before. Nobody knows yet how the conflict with Iran will end, so prices keep lurching.",
+        "interview_line": "Oil swinging on Iran headlines keeps inflation expectations, and therefore interest rates, hard to call.",
+        "detail": [
+          "Brent (the global benchmark oil price) rose ~2.2% to ~$96.70 after falling nearly 9% on Wednesday.",
+          "Analysts say uncertainty over the Iran war still dominates; a deal would cut prices, escalation would lift them.",
+          "Energy prices feed into inflation (the rate prices rise), which shapes central bank decisions like the BoE's.",
+          "Volatile commodities complicate hedging (using contracts to lock in prices) and valuation for energy-linked issuers."
+        ],
+        "tags": [
+          "energy",
+          "commodities",
+          "inflation"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Tech/AI equity rout shuts the IPO and follow-on window and may delay or reprice sector M&A, especially stock-funded deals.",
+      "BoE hike plus volatile oil keep financing costs high; leveraged finance and sponsor LBO (leveraged buyout) activity stay cautious.",
+      "Defensive and energy-adjacent sectors may see relative M&A interest as acquirers look for stable cash flows."
+    ],
+    "left_field_question": "If AI stocks fall 10% in a week, what happens to a tech IPO you are advising on?",
+    "left_field_answer": "The likely move is to delay, since public comparables (listed peers used to value a company) have dropped and investors demand a bigger discount. Alternatively, I would explore a private placement or a dual-track (preparing both a sale and a listing) to keep options open."
+  },
+  {
     "id": "2026-11-05",
     "date": "2026-11-05",
     "market_snapshot": "Wed close: S&P 500 +1.6% to ~7,689 · Nasdaq +1.4% to ~25,737 · Dow +3.0% to ~53,356 · US 10-yr yield ~4.89% (from 4.95%) · Brent ~$95 (-8%) · VIX ~17 · ft.com not reachable; sourced from secondary outlets, figures vary slightly by source",
