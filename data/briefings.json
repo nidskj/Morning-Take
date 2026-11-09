@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-09",
+    "date": "2026-11-09",
+    "market_snapshot": "Mon: Brent ~$96.45 (after ~-16% last week) · WTI ~$91 · US 10-yr yield ~4.9% · US futures slightly up, Asia rebounded · ft.com not reachable; figures from secondary outlets (Reuters via Investing.com) and may differ",
+    "stories": [
+      {
+        "headline": "Oil prices keep falling as hopes grow for a deal to end the Iran war",
+        "simple": "Oil got cheaper after Trump said he's unlikely to order new attacks on Iran while peace talks go on. No deal is signed yet, so prices could jump back.",
+        "interview_line": "Oil has fallen sharply on peace hopes, which helps costs for fuel-hungry industries, but with no deal signed the risk of a sudden reversal is real.",
+        "detail": [
+          "Brent (the global oil price benchmark) was ~$96 after a ~16% weekly fall; the market is removing its war risk premium (extra price paid for fear of supply disruption).",
+          "Talks are Qatari-led; ships were still reported hit near the Strait of Hormuz (a key shipping route for Gulf oil), so supply risk persists.",
+          "Lower oil eases inflation pressure, which can reduce the chance of further central bank rate rises.",
+          "Energy producers' earnings and valuations are exposed if prices keep falling."
+        ],
+        "tags": [
+          "energy",
+          "geopolitics",
+          "commodities"
+        ]
+      },
+      {
+        "headline": "Tech shares steady after a rough week, but this week's earnings are a test",
+        "simple": "Tech and AI shares were sold off last week and have calmed down a little. Company results this week will show whether investors can relax.",
+        "interview_line": "Markets are fragile after the AI sell-off, so this week's tech earnings will decide whether confidence and the IPO window recover.",
+        "detail": [
+          "Asian shares rebounded and US futures (contracts on where an index will open) edged up after a week of AI-trade selling.",
+          "CoreWeave, Applied Materials and Cisco report this week; CoreWeave is a bellwether for AI infrastructure spending and debt-funded data centres.",
+          "Reuters ties the mood to the Democrats' midterm sweep, which raises policy uncertainty (e.g. on tax and regulation).",
+          "Volatility (the size of price swings) makes it harder to price IPOs and equity raises."
+        ],
+        "tags": [
+          "equities",
+          "ai",
+          "markets"
+        ]
+      },
+      {
+        "headline": "US inflation data due Tuesday could decide whether interest rates go higher",
+        "simple": "A strong jobs report has made investors worry the Fed may raise rates again. Tuesday's inflation figures will show if prices are still rising fast.",
+        "interview_line": "Higher-for-longer rates raise borrowing costs for every deal, so Tuesday's inflation print matters for financing and valuations.",
+        "detail": [
+          "US CPI (consumer price index: a measure of price rises for households) is released Tuesday.",
+          "The 10-year Treasury yield (the return on US government 10-year debt, a benchmark for borrowing costs) is ~4.9%, up on fears of a Fed hike.",
+          "Strong payrolls (monthly count of jobs added) suggest the economy can handle higher rates, which pushes yields up.",
+          "Higher yields raise the cost of LBO financing (buying companies with borrowed money) and lower the value of long-term cash flows in valuations."
+        ],
+        "tags": [
+          "rates",
+          "inflation",
+          "fed"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Financing conditions: yields near 4.9% and CPI risk keep leveraged and acquisition debt expensive, delaying sponsor-led deals.",
+      "Dealflow: tech volatility weighs on IPOs and tech M&A; a calmer week would reopen the window.",
+      "Sector M&A: falling oil pressures energy valuations but may prompt consolidation; lower fuel costs help airlines and industrials."
+    ],
+    "left_field_question": "If oil fell another 20% tomorrow, which sector would you advise to buy a company, and why?",
+    "left_field_answer": "Cheaper oil squeezes energy producers' profits and share prices, so stronger or better-funded rivals might buy them cheaply, which creates sell-side and restructuring advisory work. Meanwhile airlines and chemicals gain from lower costs and may have stronger balance sheets to make acquisitions."
+  },
+  {
     "id": "2026-11-06",
     "date": "2026-11-06",
     "market_snapshot": "Thu: Dow ~-1,800 pts · S&P 500 down ~3-4% · Nasdaq ~-5% (correction) · Brent ~$96.70 (+2.2%, after ~-9% Wed) · BoE Bank Rate 4% · ft.com not reachable; figures from secondary outlets and conflict slightly",
