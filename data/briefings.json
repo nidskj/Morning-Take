@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-10",
+    "date": "2026-11-10",
+    "market_snapshot": "Tue: Brent ~$91.7 (-6.7%) · WTI ~$85.9 (-5.5%) · S&P 500 closed Mon at 7,549.94, Dow +2.2%, Nasdaq +2.7% · Asia higher · ft.com not reachable; figures from secondary outlets, yields/FX not confirmed",
+    "stories": [
+      {
+        "headline": "Oil drops again as Trump plays down new strikes on Iran",
+        "simple": "Oil got cheaper after Trump said new attacks on Iran are unlikely while talks go on. Iran's side has denied talks are happening, so prices could swing back.",
+        "interview_line": "Oil is falling on peace hopes, which eases inflation worries, but with Iran publicly denying talks the risk premium could return overnight.",
+        "detail": [
+          "Brent (global oil price benchmark) fell ~6.7% to ~$92 as traders strip out the risk premium (extra price paid for fear of supply loss).",
+          "A reported $8bn Hormuz deal (arrangement around the Strait of Hormuz, key Gulf shipping route) awaits Trump's sign-off.",
+          "Lower oil reduces inflation pressure, easing pressure on central banks to raise interest rates.",
+          "Energy producers' earnings and credit are exposed if the slide continues."
+        ],
+        "tags": [
+          "energy",
+          "geopolitics",
+          "commodities"
+        ]
+      },
+      {
+        "headline": "Wall Street jumps as oil falls and tech shares recover",
+        "simple": "US shares had a big up day because cheaper oil eased fears about prices and interest rates. Tech firms bounced back, though Nvidia fell.",
+        "interview_line": "Monday's rally shows markets are trading the oil price as a proxy for inflation and rates, which is good for equity issuance windows if it holds.",
+        "detail": [
+          "The Dow rose ~2.2% and the Nasdaq (tech-heavy index) ~2.7%; the S&P 500 (broad US large-company index) closed at 7,549.94.",
+          "Falling oil cuts expected inflation, which lowers bond yields (the return investors demand to lend) and lifts equity valuations.",
+          "Nvidia fell against the tide, a sign of dispersion (stocks moving differently) within AI-linked names.",
+          "A sustained risk-on mood (investors willing to take more risk) supports IPO and follow-on (extra share sale by a listed company) activity."
+        ],
+        "tags": [
+          "equities",
+          "rates",
+          "tech"
+        ]
+      },
+      {
+        "headline": "Crédit Agricole proposes merging its Italian arm with Banco BPM",
+        "simple": "French bank Crédit Agricole wants to combine its Italian business with Italian lender Banco BPM and offer BPM shareholders a bonus. It needs regulator approval.",
+        "interview_line": "Crédit Agricole's Banco BPM proposal shows European bank consolidation is back on, driven by cost synergies and a push for scale.",
+        "detail": [
+          "The proposal includes a ~20% premium (extra over market price) and a €1bn dividend for Banco BPM shareholders.",
+          "Crédit Agricole would lift its stake in the combined bank to ~45%, with ~€800m annual pre-tax synergies (cost savings from combining).",
+          "Needs ECB approval and Italian 'golden power' clearance (government right to block deals in strategic sectors); completion targeted H2 2027.",
+          "Signals continued cross-border bank M&A (mergers and acquisitions) in Europe; timing of the proposal relative to today's news not verified."
+        ],
+        "tags": [
+          "m&a",
+          "banking",
+          "europe"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Falling oil and a stronger equity tape improve conditions for IPOs and follow-ons, but Iran headline risk can shut windows quickly.",
+      "Lower inflation fears could ease financing costs, supporting leveraged buyout and acquisition financing.",
+      "Crédit Agricole/Banco BPM keeps European financial-institutions M&A advisory active; energy-sector M&A could slow if oil keeps falling."
+    ],
+    "left_field_question": "If oil fell another 20% tomorrow, which sectors would you advise to do deals and which would you steer away from?",
+    "left_field_answer": "Airlines, chemicals and transport benefit from lower fuel costs and would likely have stronger balance sheets and appetite for acquisitions. Oil producers and oilfield services would face lower valuations and tighter credit, so I'd expect distressed or defensive consolidation there rather than growth deals."
+  },
+  {
     "id": "2026-11-09",
     "date": "2026-11-09",
     "market_snapshot": "Mon: Brent ~$96.45 (after ~-16% last week) · WTI ~$91 · US 10-yr yield ~4.9% · US futures slightly up, Asia rebounded · ft.com not reachable; figures from secondary outlets (Reuters via Investing.com) and may differ",
