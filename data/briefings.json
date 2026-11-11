@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-11",
+    "date": "2026-11-11",
+    "market_snapshot": "Tue close: S&P 500 7,520.93 (-0.4%) · Dow 52,231.89 (-0.3%) · Nasdaq 25,065.87 (-0.7%) · US 10y ~4.99% (briefly >5%), 2y ~4.74% · Brent ~$91.8, WTI ~$86.4 · DXY ~102.2 (+0.5%) · USD/JPY ~158.7 · ft.com not reachable; figures from secondary outlets",
+    "stories": [
+      {
+        "headline": "Hotter US inflation makes a Fed rate rise in December look likely",
+        "simple": "US prices rose faster than expected in October. Markets now expect the Fed to raise interest rates next month, making borrowing dearer.",
+        "interview_line": "October's hot CPI print has flipped the debate from when the Fed cuts to how much it hikes, which pushes the 10-year back toward 5% and tightens financing for everyone.",
+        "detail": [
+          "Headline CPI (consumer price index, the main measure of US inflation) rose 0.4% month on month vs 0.3% expected; core CPI (excluding volatile food and energy) rose 0.3% vs 0.2%.",
+          "Futures now price at least a 25bp (basis points; 25bp = 0.25 percentage points) hike in December, with ~10% odds of 50bp.",
+          "The 10-year Treasury yield (return on 10-year US government debt, the benchmark for global borrowing costs) briefly topped 5%; the 2-year sits near 4.74%.",
+          "A stronger dollar (DXY, dollar index vs major currencies, up ~0.5%) and higher yields weigh on equity valuations and leveraged borrowers."
+        ],
+        "tags": [
+          "rates",
+          "macro",
+          "inflation"
+        ]
+      },
+      {
+        "headline": "Anthropic sets terms for a record-sized stock market debut",
+        "simple": "AI company Anthropic plans to sell shares to the public at $70-78 each, valuing it at up to $1.4 trillion. That's well below the $2 trillion some backers had hoped for.",
+        "interview_line": "Anthropic pricing below the hype shows even the hottest AI names have to meet public-market discipline, and its reception will set the tone for the whole tech IPO pipeline.",
+        "detail": [
+          "The roadshow (management's pitch to investors before pricing) launched on 10 November: 825m Class A shares at $70-78, raising up to ~$64bn on Nasdaq under ticker ANT.",
+          "Pricing is expected on 18 November with trading from 19 November; reports say the order book (investor demand logged by the banks) is already covered at the range.",
+          "Seven strategic partners, including Google and Nvidia, will buy $26bn of non-voting stock in a concurrent private placement (shares sold directly to selected investors) at the IPO price.",
+          "The $1.33-1.4trn valuation (fully diluted, counting all options and convertible shares) is far below the ~$2trn floated a month ago, amid an AI stock sell-off."
+        ],
+        "tags": [
+          "ecm",
+          "tech",
+          "ipo"
+        ]
+      },
+      {
+        "headline": "Nvidia falls again as its board investigates boss Jensen Huang",
+        "simple": "Nvidia's board is looking into reports that its CEO was targeted by a suspected Chinese spy. The shares have dropped two days running.",
+        "interview_line": "The Huang probe is a key-person and governance risk at the world's most important AI stock, and it lands a week before Nvidia's results and Anthropic's IPO pricing.",
+        "detail": [
+          "Independent directors, with outside counsel, are running the probe; the board says it has no reason to think national security or company data was compromised.",
+          "Shares fell ~4% on Monday and over 5% on Tuesday, weighing on the Nasdaq; this is key-person risk (a firm's value depending heavily on one individual) at a heavy index weight.",
+          "Three Republican House committee chairs have asked Huang to a closed-door briefing on 18 November; Q3 FY2027 earnings are due 17 November.",
+          "Contagion (stress spreading to related assets) into AI suppliers and customers could hurt sentiment for tech issuance and AI-infrastructure financing."
+        ],
+        "tags": [
+          "tech",
+          "governance",
+          "equities"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "ECM: Anthropic's ~$64bn deal is the bellwether for the tech IPO window; a strong book and debut would unlock other AI and tech listings, a weak one could shut the window into year-end.",
+      "Financing: a December hike and a 10-year near 5% raise the cost of leveraged loans and high-yield bonds, squeezing LBO maths and favouring all-equity or strategic buyers.",
+      "Sector M&A: AI volatility (Nvidia probe, valuation resets) could widen bid-ask gaps on tech deals, but lower valuations may also tempt strategics into acquisitions."
+    ],
+    "left_field_question": "If Anthropic's IPO is the biggest ever, why might its bankers be happy to price it below the $2 trillion valuation people were talking about?",
+    "left_field_answer": "Banks want a deal that trades up on day one, so they leave some money on the table to reward investors and secure strong demand. A weak debut on a deal this size would hurt the whole IPO pipeline and the banks' reputations, so a 'sensible' price protects future fee pools, especially with yields near 5% and AI stocks wobbling."
+  },
+  {
     "id": "2026-11-10",
     "date": "2026-11-10",
     "market_snapshot": "Tue: Brent ~$91.7 (-6.7%) · WTI ~$85.9 (-5.5%) · S&P 500 closed Mon at 7,549.94, Dow +2.2%, Nasdaq +2.7% · Asia higher · ft.com not reachable; figures from secondary outlets, yields/FX not confirmed",
