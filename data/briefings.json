@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-12",
+    "date": "2026-11-12",
+    "market_snapshot": "Wed close: S&P 500 ~7,619 (+1.3%) · Dow ~52,486 (+0.5%) · Nasdaq ~25,466 (+1.6%) · Thu: Nasdaq-100 futures lower, Nvidia ~-8% pre-market · US 10y ~5.01%, 2y ~4.78% · Brent ~$90, broadly flat · DXY ~102.3 · ft.com not reachable; figures from secondary outlets",
+    "stories": [
+      {
+        "headline": "Nvidia's board moves toward firing boss Jensen Huang",
+        "simple": "Nvidia's board is reportedly getting ready to remove its founder and CEO after reports of two affairs, one with a suspected Chinese spy. The shares fell about 8% after the news.",
+        "interview_line": "Losing the founder of the world's most important AI company is a huge key-person shock, and it lands days before Nvidia's results and Anthropic's IPO pricing.",
+        "detail": [
+          "The WSJ reported, and Reuters confirmed, that the board met late Wednesday on Huang's future and is weighing an interim CEO (a temporary chief while a permanent one is found); Nvidia has not confirmed.",
+          "Shares closed at $173.73 Wednesday and fell ~8.6% after hours to near $159; the stock has lost over $300bn of market cap (total value of its shares) since the scandal broke.",
+          "This is key-person risk (a company's value relying heavily on one individual) at a stock with a heavy index weight (share of benchmarks like the S&P 500), so the hit spreads to passive funds.",
+          "The FT reported Nvidia hired ex-prosecutor Joon Kim for the internal probe; Q3 FY2027 earnings are due 17 November, with a possible congressional subpoena (legal order to testify) looming."
+        ],
+        "tags": [
+          "tech",
+          "governance",
+          "equities"
+        ]
+      },
+      {
+        "headline": "Huge demand could push Anthropic's share sale price higher",
+        "simple": "So many investors want Anthropic shares that its banks are thinking about raising the price. That could value the AI firm at $1.5 trillion or more.",
+        "interview_line": "Talk of lifting Anthropic's range shows deep demand for quality AI exposure, even with Nvidia in turmoil and the 10-year at 5%.",
+        "detail": [
+          "The FT reported that underwriters (banks that buy and resell the shares, led by Goldman Sachs and Morgan Stanley) are weighing a price above the $70-78 range.",
+          "The book (log of investor orders) is already covered at the range; 825m shares at the top would raise ~$64bn, plus a reported ~$26bn private placement (shares sold directly to strategic partners) at the IPO price.",
+          "A range raise would lift the fully diluted valuation (counting all options and convertibles) from ~$1.26-1.41trn to $1.5trn+, and the raise to ~$100bn.",
+          "Pricing is expected 18 November, trading from 19 November on Nasdaq; the Nvidia shock is a test of whether the order book stays firm."
+        ],
+        "tags": [
+          "ecm",
+          "tech",
+          "ipo"
+        ]
+      },
+      {
+        "headline": "UK watchdog threatens deeper probe of $45bn McCormick-Unilever food deal",
+        "simple": "Britain's competition regulator worries McCormick buying Unilever's food brands like Knorr and Hellmann's would mean less choice in UK shops. The companies have until 18 November to offer fixes.",
+        "interview_line": "The CMA's move shows big cross-border deals now need remedies planned from day one, because even a mostly US deal can be slowed by a UK review.",
+        "detail": [
+          "The CMA (Competition and Markets Authority, the UK's antitrust regulator) found a 'realistic prospect of a substantial lessening of competition' in dry ingredient mixes and dry sauces sold to UK retailers.",
+          "The parties can offer UILs (undertakings in lieu of reference, promises such as selling brands to avoid a deeper probe) by 18 November; otherwise it goes to Phase 2 (an in-depth review of up to 24 weeks).",
+          "Unilever already moved to sell Colman's; the US FTC (Federal Trade Commission) granted early termination (cleared the deal before its waiting period ended).",
+          "Completion is targeted for mid-2027; a Phase 2 would add timing risk and could force more divestments (selling parts of a business) that change deal value."
+        ],
+        "tags": [
+          "m&a",
+          "consumer",
+          "regulation"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "ECM: Anthropic's possible range raise signals strong demand for large tech IPOs, but the Nvidia CEO crisis could hit AI valuations right before pricing on 18 November; bookrunners will watch for order drop-outs.",
+      "Sector M&A: the CMA's stance on McCormick-Unilever is a reminder that consumer-staples carve-outs need early remedy packages, hitting timelines and break-fee talks on cross-border deals.",
+      "Financing: a 10-year at ~5% and December Fed hike odds keep leveraged finance expensive, while AI-sector volatility widens bid-ask gaps on tech deals and AI-infrastructure debt."
+    ],
+    "left_field_question": "If Nvidia replaces Jensen Huang, would that be good or bad for bankers working on other AI deals?",
+    "left_field_answer": "In the short term it's bad: uncertainty at the sector's bellwether makes investors cautious, which can delay IPOs and widen valuation gaps on M&A. Over time a clean, credible succession could reduce governance risk and steady the sector, and any valuation reset might make AI targets cheaper for strategic buyers."
+  },
+  {
     "id": "2026-11-11",
     "date": "2026-11-11",
     "market_snapshot": "Tue close: S&P 500 7,520.93 (-0.4%) · Dow 52,231.89 (-0.3%) · Nasdaq 25,065.87 (-0.7%) · US 10y ~4.99% (briefly >5%), 2y ~4.74% · Brent ~$91.8, WTI ~$86.4 · DXY ~102.2 (+0.5%) · USD/JPY ~158.7 · ft.com not reachable; figures from secondary outlets",
