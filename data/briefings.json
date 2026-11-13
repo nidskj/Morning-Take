@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-13",
+    "date": "2026-11-13",
+    "market_snapshot": "Thu close: S&P 500 -0.4% · Nasdaq -0.4% · Nvidia -4.3% to $166.19 (was -14% intraday) · US 10y ~5.12% (+13bp) · Brent ~$95.8 (+3.3%), WTI ~$94 · USD/JPY ~160, Tokyo warns of intervention · Fri: Nikkei +0.5%, Hang Seng -1% · ft.com not reachable; figures from secondary outlets",
+    "stories": [
+      {
+        "headline": "Nvidia boss Jensen Huang quits; finance chief takes over for now",
+        "simple": "Nvidia's founder resigned straight away after reports of affairs, and its finance chief is running the company until a permanent boss is found. The shares fell but recovered most of the early drop.",
+        "interview_line": "Nvidia now faces a leadership gap just as it reports results on 17 November and Anthropic prices its IPO, so the whole AI trade is waiting to see whether investors trust the succession plan.",
+        "detail": [
+          "Nvidia's 8-K (a US filing companies must make for major events) says Huang left as CEO and director immediately; CFO Colette Kress is interim CEO and stays CFO.",
+          "Harvey Jones became Nvidia's first-ever independent chair (a board leader separate from the CEO), a governance (how a company is overseen) fix investors had wanted.",
+          "Shares closed -4.3% at $166.19 after falling up to 14% intraday (during the trading day); reports say Nvidia has lost almost $500bn of market cap (total value of its shares) since the scandal began.",
+          "The board will look at internal and external candidates; Reuters has reported a further relationship with an employee, which raises headline risk (the chance that more bad news moves the price) before Tuesday's Q3 results."
+        ],
+        "tags": [
+          "tech",
+          "governance",
+          "equities"
+        ]
+      },
+      {
+        "headline": "US borrowing costs jump as markets bet on a Fed rate rise in December",
+        "simple": "The interest rate on 10-year US government debt rose above 5.1% because prices and jobs are running hot. Traders now fully expect the Fed to raise rates next month.",
+        "interview_line": "With the 10-year above 5% and a December hike fully priced, money is getting more expensive for everyone, from mortgage holders to private equity buyers.",
+        "detail": [
+          "The 10-year Treasury yield (return on US government debt) rose ~13bp (basis points; 1bp = 0.01%) to ~5.12% when bond markets reopened after Veterans Day.",
+          "Drivers: a hotter-than-expected CPI (consumer price index, the main inflation gauge) and October payrolls of +165k against a 65k forecast, with unemployment down to 4.1%.",
+          "CME FedWatch (a tool that turns futures prices into implied rate-move odds) shows ~100% odds of a hike at the 9 December FOMC (the Fed's rate-setting committee), mostly 25bp.",
+          "The stronger dollar has pushed USD/JPY to ~160, where Japan has intervened before (sold dollars to support the yen); Japan's 10-year JGB (government bond) yield is ~2.87%."
+        ],
+        "tags": [
+          "rates",
+          "macro",
+          "fx"
+        ]
+      },
+      {
+        "headline": "Oil jumps after Trump says the US doesn't need a deal with Iran",
+        "simple": "Oil prices rose sharply after Trump said the US doesn't need a deal with Iran, which means Iranian oil is likely to stay off the market. That reversed a big fall earlier in the week.",
+        "interview_line": "Oil went from pricing peace to pricing a long standoff in a single post, and higher energy costs feed straight into the inflation worries already pushing yields up.",
+        "detail": [
+          "Brent (the global oil benchmark) settled ~3.3% higher near $96 a barrel after falling ~24% in 10 days to $90 on hopes of a deal.",
+          "Trump also reportedly took JD Vance off the talks; with a naval blockade (ships stopping Iranian exports) in place, Iranian supply stays off the market.",
+          "Risks to the Strait of Hormuz and tanker attacks keep war-risk insurance premiums (extra cost to insure ships in conflict zones) high, which adds to delivered costs.",
+          "Higher crude helps upstream (exploration and production) names like Exxon and Chevron and lifts breakeven inflation (inflation expectations implied by bond prices)."
+        ],
+        "tags": [
+          "energy",
+          "geopolitics",
+          "commodities"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "ECM: Nvidia's leadership vacuum and a 5%+ 10-year make for a tense setup for Anthropic's pricing on 18 November; bookrunners will watch for order cuts and price sensitivity.",
+      "Financing: a fully priced December hike pushes up base rates for leveraged loans and high-yield bonds, which squeezes LBO maths and slows sponsor-led M&A and refinancings.",
+      "Sector M&A: swings in oil between $90 and $96 widen bid-ask gaps in energy deals, though higher crude supports upstream valuations and pending deals like EQT-Range Resources."
+    ],
+    "left_field_question": "If you were on Nvidia's board, would you pick an insider or an outsider as the permanent CEO, and why?",
+    "left_field_answer": "I'd lean toward a credible insider, because Nvidia's edge is its product roadmap and customer relationships, and continuity calms customers and investors before big launches. An outsider makes sense only if the board thinks the culture itself needs resetting, and with the governance problems that's a real argument. Either way, the speed and clarity of the decision matter more than the name."
+  },
+  {
     "id": "2026-11-12",
     "date": "2026-11-12",
     "market_snapshot": "Wed close: S&P 500 ~7,619 (+1.3%) · Dow ~52,486 (+0.5%) · Nasdaq ~25,466 (+1.6%) · Thu: Nasdaq-100 futures lower, Nvidia ~-8% pre-market · US 10y ~5.01%, 2y ~4.78% · Brent ~$90, broadly flat · DXY ~102.3 · ft.com not reachable; figures from secondary outlets",
