@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-16",
+    "date": "2026-11-16",
+    "market_snapshot": "Fri close: S&P 500 -0.4% to 7,562 · Nasdaq -0.9% · Dow +0.1% · Nvidia -12.8% on the week · Mon: S&P futures +0.2%, Nasdaq 100 futures +0.5% · Nikkei ~-1% · US 10y ~5.14% · Brent ~$96, WTI ~$88 · USD/JPY ~159.7 · Dollar index ~103.5 (19-month high) · ft.com not reachable; figures from secondary outlets",
+    "stories": [
+      {
+        "headline": "Ousted Nvidia boss Jensen Huang talks about coming back as the board courts Arm's chief",
+        "simple": "The FT says Nvidia's founder, who quit last week, has discussed returning as boss. The board has also approached Arm's CEO, Rene Haas, about the job.",
+        "interview_line": "Nvidia's succession fight now hangs over Tuesday's results and the Anthropic IPO, so the AI trade depends on whether investors back a clean break or a comeback.",
+        "detail": [
+          "FT, citing people familiar: Huang has discussed a return with confidants; the CEO is appointed by a board majority, and Nvidia says no 'formal' process has started.",
+          "The board approached Arm CEO Rene Haas (ex-Nvidia, runs the chip-design firm SoftBank controls) as a possible external successor; Colette Kress stays interim CEO (temporary boss) and CFO.",
+          "Large holders Altimeter and Atreides want 'all options' considered, including Huang returning; critics argue a CEO still under investigation can't be reinstated, so key-person risk (value tied to one individual) is still unresolved.",
+          "Nvidia fell ~12.8% last week and its market cap (total value of its shares) dropped below $4trn; Q3 results land on Tue 17 Nov."
+        ],
+        "tags": [
+          "tech",
+          "governance",
+          "equities"
+        ]
+      },
+      {
+        "headline": "Anthropic's giant share sale is set to price this week despite the AI sell-off",
+        "simple": "Anthropic plans to sell shares to the public at $70-78 each, which could raise up to about $64bn. Orders are reportedly six times the number of shares on offer.",
+        "interview_line": "Anthropic's IPO is the big test of whether public investors will still pay up for AI after the Nvidia shock, and if it goes well it should reopen the door for other big tech listings.",
+        "detail": [
+          "825m shares at $70-78 on Nasdaq (ticker ANT), raising up to ~$64.4bn; pricing expected Wed 18 Nov and trading from Thu 19 Nov.",
+          "The valuation is ~$0.9-1.0trn on basic shares (shares already issued) and up to ~$1.4trn fully diluted (counting options and convertible stock), below the ~$2trn talked about weeks earlier.",
+          "The book (investor orders collected by the banks) is reportedly 6x covered (oversubscribed); seven strategics (business partners) including Google and Nvidia will buy $26bn of non-voting stock at the IPO price.",
+          "Strong pricing plus a good first-day 'pop' (rise above the offer price) would help the ECM pipeline (equity capital markets: companies queuing to list or raise shares)."
+        ],
+        "tags": [
+          "ecm",
+          "tech",
+          "ipo"
+        ]
+      },
+      {
+        "headline": "Johnson & Johnson in talks to buy eye-drug developer Ollin for up to $3.4bn",
+        "simple": "The FT says J&J is close to buying Ollin, a private company developing treatments for eye diseases that can cause blindness. It would pay $2.2bn upfront, plus up to $1.2bn more if the drugs hit set goals.",
+        "interview_line": "J&J buying Ollin shows big pharma is still paying for late-stage drugs to fill revenue gaps, even with US borrowing costs above 5%.",
+        "detail": [
+          "Reported terms: $2.2bn upfront cash plus up to $1.2bn of milestones (extra payments due only if the drug passes trial or sales targets), keeping J&J's risk down; the FT says talks could still collapse.",
+          "Ollin's lead asset OLN324 is a bispecific antibody (one drug hitting two targets, VEGF and Ang2) for wet AMD (age-related macular degeneration) and DME (diabetic macular edema), now entering Phase 3 (final large trials before approval).",
+          "It would compete with Roche's Vabysmo, which works the same way; Ollin raised a $330m Series B (second major venture funding round) earlier this year, so venture backers get an exit (cash return on their investment).",
+          "Fits the bolt-on (small add-on acquisition) trend in biopharma as large drugmakers face patent cliffs (big drugs losing exclusivity), e.g. AbbVie's ~$10.9bn Apogee deal."
+        ],
+        "tags": [
+          "m&a",
+          "healthcare",
+          "pharma"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "ECM: Anthropic pricing (18 Nov) sets the tone for the IPO pipeline; a strong book and debut would bring forward other AI and tech listings, a weak one could shut the window into year-end.",
+      "Healthcare M&A stays active: J&J/Ollin-style bolt-ons with milestone structures are how pharma buyers manage risk, which keeps biotech sell-side and fairness-opinion work coming.",
+      "Financing conditions are tight: a ~5.1% 10y and a priced-in December Fed hike push up the cost of LBO debt, favouring cash-rich strategic buyers over sponsors; Nvidia governance uncertainty also weighs on semis M&A sentiment."
+    ],
+    "left_field_question": "If Nvidia's board brought back the CEO who just resigned in a scandal, would that be good or bad for shareholders?",
+    "left_field_answer": "In the short term the shares would probably rise, because Huang is seen as the person behind Nvidia's strategy and customer relationships, and that removes the uncertainty. Over time it would damage governance credibility, since it would show the board can't hold a founder to account, and that can raise the company's cost of capital and bring in activist investors. A middle path, such as a strong outside CEO with Huang in a defined technical role, may be what big institutions push for."
+  },
+  {
     "id": "2026-11-13",
     "date": "2026-11-13",
     "market_snapshot": "Thu close: S&P 500 -0.4% · Nasdaq -0.4% · Nvidia -4.3% to $166.19 (was -14% intraday) · US 10y ~5.12% (+13bp) · Brent ~$95.8 (+3.3%), WTI ~$94 · USD/JPY ~160, Tokyo warns of intervention · Fri: Nikkei +0.5%, Hang Seng -1% · ft.com not reachable; figures from secondary outlets",
