@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-17",
+    "date": "2026-11-17",
+    "market_snapshot": "Mon close: S&P 500 -1.9% to 7,417 · Nasdaq -2.5% to 24,510 (correction, ~11% off Oct high) · Dow -1.4% to 51,608 · VIX +19% · Tue: Nikkei ~-1.2%, KOSPI/Taiwan >-2% · US 10y ~5.12%, 30y ~5.47% · Brent <$92, WTI ~$85 · Gold ~$3,880 · USD/JPY ~159-160 · Dollar index ~103.6 · ft.com not reachable; figures from secondary outlets",
+    "stories": [
+      {
+        "headline": "Nvidia reports results tonight with no permanent boss and the tech sell-off getting worse",
+        "simple": "Nvidia, the biggest AI chipmaker, reports its quarterly numbers after US markets close today. Its interim boss will present them while investors argue over whether the founder who quit last week should come back.",
+        "interview_line": "Tonight's Nvidia numbers are the real test of AI demand, and with the Nasdaq already in a correction, a miss or weak forecast could knock tech valuations and the IPO window together.",
+        "detail": [
+          "Q3 FY2027 results due ~4:20pm ET; Bloomberg consensus (average analyst forecast) is ~$109bn revenue and $2.47 EPS (earnings per share), against company guidance (its own forecast) of $108bn ±2% and a ~74% gross margin (share of revenue left after production costs).",
+          "Interim CEO (temporary boss) Colette Kress, also CFO, leads the call; the FT reported Jensen Huang has discussed a return, the board has approached Arm's Rene Haas, and CNBC says calls in tech for Huang to come back are growing.",
+          "Monday's sell-off pushed the Nasdaq into correction territory (a fall of 10%+ from its peak), and Asian chipmakers fell sharply on Tuesday ahead of the report.",
+          "Investors will focus on forward guidance (next-quarter forecast) and hyperscaler capex (spending on data centres by Microsoft, Google, Amazon and Meta) as a read-across (signal for related companies) for the whole AI supply chain."
+        ],
+        "tags": [
+          "tech",
+          "equities",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Chevron is close to a $5bn deal to buy a big Gulf of Mexico oil producer from Blackstone",
+        "simple": "The FT says Chevron is about to buy a majority stake in Beacon Offshore, which drills for oil deep under the Gulf of Mexico. Blackstone, the private equity firm that backs Beacon, would get its money back out.",
+        "interview_line": "Chevron buying Beacon shows big oil is choosing to buy proven barrels rather than explore, and it gives private equity a much-needed way to cash out of energy.",
+        "detail": [
+          "Reported deal values Beacon at ~$5bn; Chevron has pulled ahead of rival bidders in an auction (competitive sale process) and a deal could come this week; Chevron declined to comment.",
+          "Beacon holds 70 deepwater leases (rights to drill in waters typically over 1,000ft deep) over ~400,000 gross acres (total area, before splitting with partners), supporting Chevron's goal of 300,000 boe/d (barrels of oil equivalent per day, oil and gas output combined) in the Gulf.",
+          "It's a sponsor exit (a private equity owner selling its company) to a strategic buyer (a company in the same industry), a route that is more reliable than an IPO while equity markets are volatile.",
+          "Part of a wave of upstream (oil and gas production) consolidation: the FT also reports Diamondback is nearing a ~$5bn deal for Double Eagle's Permian Basin assets."
+        ],
+        "tags": [
+          "m&a",
+          "energy",
+          "private equity"
+        ]
+      },
+      {
+        "headline": "Brussels approves UniCredit's takeover of Germany's Commerzbank, Europe's biggest bank deal since 2008",
+        "simple": "The EU has cleared Italian bank UniCredit to take over German bank Commerzbank, and US regulators have approved it too. It's the biggest cross-border bank takeover in Europe since the financial crisis.",
+        "interview_line": "UniCredit–Commerzbank getting through shows cross-border bank mergers in Europe can be done even with a hostile government, and that could start more consolidation.",
+        "detail": [
+          "The European Commission gave unconditional approval (no asset sales or other remedies required), saying combined market shares are moderate; the US Federal Reserve has also approved, and Poland's regulator is still to decide.",
+          "UniCredit owns ~47.6% of Commerzbank's capital after its exchange offer (paying in its own shares rather than cash), which is ~49.65% of voting rights once treasury shares (shares the company has bought back and holds itself) are cancelled; control is expected around year-end.",
+          "The bid launched at a slim ~4% premium (price above the market value); reports value the deal at €35-45bn. Berlin opposed it as a hostile takeover (one the target's board and main shareholder didn't agree to).",
+          "Officials say it isn't a green light for every bank merger, but it is a test case for the EU's banking union (plan for a single European banking market) and for cost synergies (savings from combining) between Italy and Germany."
+        ],
+        "tags": [
+          "banking",
+          "m&a",
+          "europe"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "ECM: Nvidia's results tonight set the tone for Anthropic's pricing tomorrow; a weak print on top of a Nasdaq correction could push issuers to delay listings into year-end.",
+      "Energy M&A is busy: Chevron/Beacon and Diamondback/Double Eagle (~$5bn each) show strategics buying sponsor-owned assets, which means sell-side mandates and acquisition financing for upstream coverage teams.",
+      "FIG: Commerzbank clearance gives a precedent for cross-border European bank mergers, so expect more advisory work on bank consolidation, while ~5.1% US 10y yields and a priced-in December hike keep leveraged financing expensive."
+    ],
+    "left_field_question": "Why would Blackstone sell Beacon to Chevron rather than take it public?",
+    "left_field_answer": "A sale to a strategic buyer gives Blackstone a full cash exit at a known price now, while an IPO would only sell part of the stake and depends on volatile equity markets. Chevron can also pay more because it gets cost savings and fits Beacon's leases into its existing Gulf infrastructure. With oil weak and energy IPOs hard to price, a trade sale is the more certain route."
+  },
+  {
     "id": "2026-11-16",
     "date": "2026-11-16",
     "market_snapshot": "Fri close: S&P 500 -0.4% to 7,562 · Nasdaq -0.9% · Dow +0.1% · Nvidia -12.8% on the week · Mon: S&P futures +0.2%, Nasdaq 100 futures +0.5% · Nikkei ~-1% · US 10y ~5.14% · Brent ~$96, WTI ~$88 · USD/JPY ~159.7 · Dollar index ~103.5 (19-month high) · ft.com not reachable; figures from secondary outlets",
