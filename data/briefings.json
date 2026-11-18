@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-18",
+    "date": "2026-11-18",
+    "market_snapshot": "Tue close: S&P 500 ~-1.0% to ~7,340 (lowest since July) · Dow ~-1.6% to ~50,759 · VIX higher · Nvidia +after-hours on earnings beat, US futures bouncing · US 2y ~4.80%, 10y ~5.11% · Brent ~$92, WTI ~$85.5 · Gold ~$3,850 · Dollar index ~103.6, near yearly high · ft.com not reachable; figures from secondary outlets and approximate",
+    "stories": [
+      {
+        "headline": "Nvidia beats forecasts and predicts even bigger sales, in its first results without Jensen Huang",
+        "simple": "Nvidia sold $116bn of chips in three months, more than double a year ago and well above forecasts. It expects about $130bn next quarter, which eases fears that AI spending is slowing.",
+        "interview_line": "Nvidia's beat-and-raise shows AI demand is still strong even without Huang, but the bigger question is whether one great quarter can pull tech out of its correction while rates sit above 5%.",
+        "detail": [
+          "Q3 FY2027 revenue of $115.8bn (+103% year on year) beat consensus (average analyst forecast) of ~$108.7bn; adjusted EPS (earnings per share, excluding one-off items) was $2.68 against ~$2.48 expected.",
+          "Data centre revenue (sales of AI chips and systems to cloud companies) reached $107.6bn, up 21% on the quarter; non-GAAP gross margin (share of revenue left after production costs, on the company's adjusted basis) was 74.9%.",
+          "Q4 guidance (the company's own forecast) is $130bn ±3%, assuming no data centre compute sales to China because of US export controls (government limits on selling advanced chips abroad).",
+          "Interim CEO (temporary boss) Colette Kress said the product roadmap is on track; the succession question, including a possible Huang return, remains open and is the main governance overhang (unresolved issue weighing on the share price)."
+        ],
+        "tags": [
+          "tech",
+          "equities",
+          "governance"
+        ]
+      },
+      {
+        "headline": "The Fed is all but certain to raise interest rates in December, and minutes out today could show how far it goes",
+        "simple": "Markets now think the US central bank will raise interest rates next month to fight inflation. Notes from its last meeting come out today, and investors want to know whether more rises are coming.",
+        "interview_line": "With a December hike almost fully priced and the 10-year above 5%, the issue isn't whether the Fed moves but how many more hikes follow, and that is what's squeezing valuations and deal financing.",
+        "detail": [
+          "FOMC (the Fed committee that sets rates) minutes from the 27-28 October meeting are due at 2pm ET; rates were held on a 10-2 vote, with Lisa Cook and Beth Hammack dissenting in favour of a 25bp (0.25 percentage point) hike.",
+          "Fed funds futures (market bets on where the Fed's rate will be) price a ~95% chance of a 25bp hike on 8-9 December, plus further hikes in January and March.",
+          "Governor Christopher Waller has said a 50bp hike is possible if inflation data stays hot; the 10-year Treasury yield (the US government's 10-year borrowing cost, a benchmark for mortgages and corporate loans) is ~5.1%.",
+          "A hawkish (favouring higher rates) tone would lift the dollar further and pressure equity valuations, especially long-duration (profits expected far in the future) tech stocks."
+        ],
+        "tags": [
+          "rates",
+          "macro",
+          "bonds"
+        ]
+      },
+      {
+        "headline": "Quebecor makes a C$31bn bid to buy Telus, shaking up Canada's phone and internet market",
+        "simple": "Quebecor, which owns the Freedom Mobile network, wants to buy Telus, a much bigger Canadian phone company, for cash and shares. Telus hasn't said yes and is worried the government could block it.",
+        "interview_line": "Quebecor's bid for Telus is a classic smaller-buys-bigger consolidation play, but in a three-player Canadian market the deal will be won or lost with regulators, not on price.",
+        "detail": [
+          "The unsolicited (not invited by the target) proposal offers C$6.35 in cash plus 0.17 Quebecor Class B shares per Telus share, valuing the deal at about C$31bn; Quebecor first approached Telus in June and raised its offer on 9 November.",
+          "Telus calls the bid non-binding (not a firm commitment) and conditional; a special committee (independent directors handling the review) is assessing it and looking at strategic alternatives (other options such as asset sales or rival bidders).",
+          "Approvals are needed from the Competition Bureau (Canada's antitrust regulator), the CRTC (telecoms regulator) and ISED (the ministry controlling spectrum, the radio frequencies networks use), echoing the drawn-out Rogers-Shaw review.",
+          "Cash-and-stock consideration (payment mixing money and the buyer's shares) means Telus holders share in the merged group's upside but also its execution risk; the cash part would need substantial acquisition financing (loans or bonds raised to fund a deal)."
+        ],
+        "tags": [
+          "m&a",
+          "telecoms",
+          "regulation"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Nvidia's beat supports the AI capex story, which helps keep the tech IPO window and data-centre financing (bonds, project finance, private credit) open even as the Nasdaq is in correction.",
+      "A near-certain December hike and 5%+ 10-year yields raise the cost of LBO and acquisition debt, favouring strategic buyers with strong balance sheets over sponsors; expect more stock-heavy deal structures.",
+      "Quebecor-Telus, alongside Chevron-Beacon and UniCredit-Commerzbank, shows sector consolidation continuing despite volatility, creating defence mandates, acquisition financing and regulatory-remedy work in telecoms."
+    ],
+    "left_field_question": "Nvidia just beat forecasts by around $7bn, yet the S&P fell to its lowest level since July. If you were advising a tech company planning an IPO next quarter, would you go or wait?",
+    "left_field_answer": "I'd keep preparing so the company can launch quickly, but time the launch around the December Fed meeting rather than Nvidia, because rates are now driving valuations more than earnings. If the Fed signals a limited hiking path and volatility falls, there's a window in Q1, especially with strong AI demand as a backdrop. If not, a smaller deal or a private round avoids pricing at a discount in a weak market."
+  },
+  {
     "id": "2026-11-17",
     "date": "2026-11-17",
     "market_snapshot": "Mon close: S&P 500 -1.9% to 7,417 · Nasdaq -2.5% to 24,510 (correction, ~11% off Oct high) · Dow -1.4% to 51,608 · VIX +19% · Tue: Nikkei ~-1.2%, KOSPI/Taiwan >-2% · US 10y ~5.12%, 30y ~5.47% · Brent <$92, WTI ~$85 · Gold ~$3,880 · USD/JPY ~159-160 · Dollar index ~103.6 · ft.com not reachable; figures from secondary outlets",
