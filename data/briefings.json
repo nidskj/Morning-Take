@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-20",
+    "date": "2026-11-20",
+    "market_snapshot": "Thu close: S&P 500 -2.0% to 7,176 (6th straight fall, longest since 2024) · Dow -2.2% to 49,097 · Nasdaq -2.3% to 23,879 · Anthropic (ANT) +17% to $97.17 on debut · US 10y ~5.04% · Brent ~$92.0 · WTI ~$83.2 · Gold below $3,650 · Dollar near 19-month high · FTSE 100 -0.9% to 10,453 (6-week low) · ft.com not reachable; figures from secondary outlets and approximate",
+    "stories": [
+      {
+        "headline": "Anthropic's shares jump 17% on their first day, even as the wider stock market slumps",
+        "simple": "Anthropic's shares opened 34% above their $83 sale price but faded to end the day 17% higher. The rest of the market had its worst day in months as investors sold other AI stocks.",
+        "interview_line": "Anthropic held a 17% gain on a day the S&P fell 2%, which shows demand for the AI leaders is real, but giving back half its opening jump says investors are getting more careful about valuations.",
+        "detail": [
+          "Opened at $111.50 and hit ~$115 intraday before closing at $97.17; buyers at the open were down ~13% by the close, a sign of a fading 'pop' (the first-day rise above the IPO price, the price set for initial investors).",
+          "Closing valuation was reported at up to ~$1.76tn fully diluted (counting all options and convertibles as if they were shares); the IPO raised ~$81bn plus a ~$26bn private placement (shares sold directly to selected investors), a record ~$107bn in total.",
+          "The S&P 500 fell 2.0% with only 37 of its 500 stocks rising, as poor breadth (how many stocks join a move) showed investors selling other AI names, including Alphabet, to fund ANT positions and cut risk.",
+          "Hawkish Fed talk (signals that rates may rise to fight inflation) kept the 10-year Treasury yield above 5%, raising the discount rate (the rate used to value future profits) that weighs most on high-growth stocks."
+        ],
+        "tags": [
+          "ecm",
+          "tech",
+          "equities"
+        ]
+      },
+      {
+        "headline": "Germany drops its objections, clearing the way for Italy's UniCredit to take over Commerzbank",
+        "simple": "Italian bank UniCredit and the German government agreed terms for UniCredit to buy Commerzbank, one of Germany's biggest banks. UniCredit promised to keep Commerzbank based in Frankfurt and listed in Germany.",
+        "interview_line": "Berlin backing UniCredit's Commerzbank deal ends a two-year standoff and could finally unlock the cross-border bank mergers Europe has talked about for a decade.",
+        "detail": [
+          "Terms were set out in a letter from UniCredit CEO Andrea Orcel to vice-chancellor Lars Klingbeil: Frankfurt HQ, a German listing, support for Mittelstand (Germany's mid-sized family firms) clients and German nationals on UniCredit's board.",
+          "Berlin dropped its demand to keep two supervisory board seats (Germany's board that oversees management) it has held since the 2009 bailout, but has not said whether it will sell its ~13.3% stake.",
+          "The ECB, the US Fed and the European Commission have cleared the deal, the Commission without conditions (no forced sale of businesses), per Reuters; the takeover is valued at around €45bn.",
+          "The combined group would be one of Europe's largest cross-border banks, a test case for banking union (the EU plan for one integrated banking market) after years of political resistance to foreign takeovers."
+        ],
+        "tags": [
+          "banking",
+          "m&a",
+          "europe"
+        ]
+      },
+      {
+        "headline": "US let Nvidia and AMD sell nearly 900,000 AI chips to Chinese firms, some linked to China's military",
+        "simple": "Records show the US government approved sales of about 880,000 advanced AI chips to Chinese companies, including some the Pentagon says help China's military. Lawmakers from both parties are angry and want tighter rules.",
+        "interview_line": "The chip-licence revelations raise the risk of a political backlash that could shut Nvidia and AMD out of China again, a real threat to earnings that the market has priced as safe.",
+        "detail": [
+          "House Foreign Affairs Committee records show the BIS (Bureau of Industry and Security, the Commerce Department unit that grants export licences) approved 879,868 chips between December 2025 and May 2026, against requests for 3.4m.",
+          "Some approvals went to groups on the Pentagon's 1260H list (companies the US says support China's military), with Alibaba and Tencent cited, plus intermediaries (middleman buyers) the committee chair called 'fake companies'.",
+          "Commerce Secretary Howard Lutnick will testify to the Senate Banking Committee and Nvidia's Jensen Huang is expected before Congress next month; Nvidia and AMD say they complied with export controls (rules limiting sales of sensitive technology abroad).",
+          "Separately the FT reports TSMC and Samsung paused some chip shipments to Chinese customers while they seek licences, adding supply-chain uncertainty for semiconductor names already leading the sell-off."
+        ],
+        "tags": [
+          "tech",
+          "geopolitics",
+          "regulation"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Anthropic trading 17% above its IPO price keeps the mega-cap ECM window open, but a 2% index fall and a fading pop mean other issuers may price more cautiously or wait for markets to calm.",
+      "Berlin's blessing for UniCredit-Commerzbank is a green light for European bank consolidation, likely reviving FIG M&A mandates (Banco BPM, BPER, Sabadell-style deals) and advisory work for governments holding legacy bailout stakes.",
+      "Rising export-control risk complicates semiconductor M&A and cross-border tech financing involving China, as buyers and lenders price in licence uncertainty and tougher CFIUS-style reviews."
+    ],
+    "left_field_question": "Germany kept a stake in Commerzbank for 17 years after bailing it out. When should a government sell a bank it rescued?",
+    "left_field_answer": "Ideally once the bank is stable and the price lets taxpayers recover their money, but politics often slows it, because selling to a foreign buyer feels like losing control. The UK took a similar line with NatWest, selling gradually into the market. Holding on too long can block healthy mergers and leave the state as a passive investor with no real influence."
+  },
+  {
     "id": "2026-11-19",
     "date": "2026-11-19",
     "market_snapshot": "Wed close: S&P 500 -0.2% to 7,324 (5th straight fall) · Dow -1.1% to 50,198 · Nasdaq +0.4% · Nvidia -2.9% despite beat · VIX ~24.6 · US 10y ~5.06% (hit 5.12% after Waller) · Brent ~$92 · Gold below $3,700 · Dollar index ~103.8, highest since Apr 2025 · FTSE 100 -1.3% to 10,551 · GBP/EUR ~1.199 · ft.com not reachable; figures from secondary outlets and approximate",
