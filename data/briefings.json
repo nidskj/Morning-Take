@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-23",
+    "date": "2026-11-23",
+    "market_snapshot": "Fri close: S&P 500 -3.7% to 6,910 (in correction, -8.6% on week) · Nasdaq -5.3% to 22,618 (negative for 2026) · Dow -1.9% to 48,147 · Nvidia -14% · VIX 35.9 · US 10y -10bp to ~4.94% · Brent ~$92.6 · WTI ~$83.4 · Gold +~2% to ~$3,600 · USD/JPY ~159 · Mon: S&P futures ~+1%, Nasdaq futures ~+2% · ft.com not reachable; figures from secondary outlets and approximate",
+    "stories": [
+      {
+        "headline": "US stocks fall into a correction as an investigation into Nvidia deepens the AI sell-off",
+        "simple": "US shares had their worst week since April 2025, led by a 14% drop in Nvidia after reports that regulators are looking at its accounts. The S&P 500 is now more than 10% below its October peak.",
+        "interview_line": "The AI trade has gone from a valuation worry to a trust worry: once investors question the accounts of the sector's biggest company, they sell the whole theme, not just the one stock.",
+        "detail": [
+          "The S&P 500 is in a correction (a fall of 10%+ from a recent high) after a 3.7% drop on Friday; the Philadelphia Semiconductor Index fell 10.7% and the VIX (the market's 'fear gauge', measuring expected volatility) closed near 36.",
+          "Reports say SEC enforcement staff (the US markets regulator's investigators) are examining whether Nvidia's investments in AI customers and neoclouds (newer cloud firms renting out AI chips) amounted to circular financing (lending or investing money that comes back as your own revenue).",
+          "Treasury Secretary Bessent has given Nvidia a deadline of Wednesday 25 Nov to answer questions on chip exports to China, and has pushed back on the Fed's hawkish stance (leaning towards higher rates), warning of fragility in the financial system.",
+          "Markets still price a ~90%+ chance of a December Fed hike; the 10-year Treasury yield fell ~10bp (basis points, hundredths of a percentage point) to ~4.94% on a flight to safety (investors moving into lower-risk assets)."
+        ],
+        "tags": [
+          "equities",
+          "tech",
+          "rates"
+        ]
+      },
+      {
+        "headline": "UK AI data-centre company Nscale freezes hiring and cuts costs before its planned $35bn stock market debut",
+        "simple": "Nscale, a British company that builds data centres for AI, has paused most office hiring and is trimming spending. It still plans to list its shares, but may wait until 2027 after the recent fall in AI stocks.",
+        "interview_line": "Nscale tightening its belt before a $35bn listing shows the AI IPO window can shut quickly: after Anthropic's shaky trading, investors want proof of profits, not just growth.",
+        "detail": [
+          "Nscale is targeting a ~$35bn valuation in its IPO (initial public offering, the first sale of shares to the public); timing is now undecided between late 2026 and 2027.",
+          "The freeze covers office roles, not data-centre construction, so capex (spending on physical assets like buildings and chips) is protected while opex (day-to-day running costs) is cut to improve the equity story (the investment case pitched to buyers).",
+          "Reported figures show a nine-month net loss of ~$1.7bn on ~$0.3bn of revenue, which makes the deal hard to price when comparable valuations (the multiples investors pay for similar listed firms) are falling.",
+          "Anthropic's shares gave back over half their first-day gain on Friday, a weak aftermarket (how a stock trades after its IPO) that tends to make investors demand bigger IPO discounts (pricing below fair value to attract buyers) on the next AI listings."
+        ],
+        "tags": [
+          "ecm",
+          "tech",
+          "uk"
+        ]
+      },
+      {
+        "headline": "Compass, the world's largest catering company, plans to move its main stock market listing from London to New York",
+        "simple": "Compass Group, which runs canteens and catering worldwide, is expected to announce that it will make New York its main stock market home. Most of its business is now in North America.",
+        "interview_line": "Compass leaving is another blow to London, because when a top-ten FTSE company says its shares will be valued higher in New York, it adds pressure for UK listing and pension reform.",
+        "detail": [
+          "Moving the primary listing (the main exchange where a company's shares trade and whose rules it follows) would probably remove Compass from the FTSE 100, causing forced selling by UK index trackers (funds that must hold whatever is in the index) but bringing in US index buyers.",
+          "The reasoning is a valuation gap (US-listed peers trading at higher price-to-earnings multiples, the price paid for each $1 of profit) and that North America already produces most of its revenue and profit.",
+          "Reports say the plan could come with full-year results as soon as Tuesday and take effect in 2028, subject to a shareholder vote; it is unclear whether a secondary UK listing would stay.",
+          "It follows earlier moves to the US by Ashtead, Flutter, CRH and Wise, which have prompted London to relax its listing rules and could lead to more redomiciling (moving a company's legal or listing base to another country)."
+        ],
+        "tags": [
+          "ecm",
+          "equities",
+          "uk"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "ECM: with the VIX near 36 and Anthropic trading weakly after its IPO, expect AI and tech listings (Nscale and others) to slip into 2027, with banks pushing for bigger discounts and cornerstone investors (big buyers who commit before launch) to de-risk deals.",
+      "Financing: the Nvidia probe and talk of circular financing will make lenders look harder at GPU-backed loans and neocloud debt, widening spreads (the extra interest over safe government bonds) on data-centre financings, although lower Treasury yields help investment-grade issuers.",
+      "Advisory: London-to-New York moves like Compass create work on listings, index transitions and US equity research coverage, while weaker share prices may push activists and sponsors (private equity buyers) to target cheaper UK and tech assets."
+    ],
+    "left_field_question": "If Compass moves its main listing to New York, who in the UK actually loses out, and is there anything London can do to keep companies?",
+    "left_field_answer": "The biggest losers are the London Stock Exchange, UK brokers and advisers, and UK index funds, which lose a big stable company, while the impact on jobs is small because the head office and staff usually stay. London's main options are to get UK pension funds to own more domestic shares, reform stamp duty on share trades, and keep easing listing rules, but none of these closes a valuation gap that comes from the US having far more investors."
+  },
+  {
     "id": "2026-11-20",
     "date": "2026-11-20",
     "market_snapshot": "Thu close: S&P 500 -2.0% to 7,176 (6th straight fall, longest since 2024) · Dow -2.2% to 49,097 · Nasdaq -2.3% to 23,879 · Anthropic (ANT) +17% to $97.17 on debut · US 10y ~5.04% · Brent ~$92.0 · WTI ~$83.2 · Gold below $3,650 · Dollar near 19-month high · FTSE 100 -0.9% to 10,453 (6-week low) · ft.com not reachable; figures from secondary outlets and approximate",
