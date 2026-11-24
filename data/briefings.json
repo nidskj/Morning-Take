@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-24",
+    "date": "2026-11-24",
+    "market_snapshot": "Mon close: S&P 500 +4.7% to 7,237 · Nasdaq +6.5% to 24,090 (best day since Apr 2025) · Dow +3.0% to 49,595 · Nvidia +31% to $165 · US 10y ~4.92%, slipping below 5% in Asia · Brent ~$89 (near 3-month low) · WTI ~$80 · Nasdaq futures softer after the close · Fed Dec hike ~95% priced · ft.com not reachable; figures from secondary outlets and approximate",
+    "stories": [
+      {
+        "headline": "Nvidia's board brings back Jensen Huang as boss after White House pressure, and its shares jump 31%",
+        "simple": "Nvidia's founder, who quit two weeks ago amid a scandal, is back in charge after the US government weighed in. Investors cheered and US stocks had their best day in over a year.",
+        "interview_line": "Huang's return calmed the market, but a board reversing itself under political pressure while an investigation is still running is a governance risk investors will price in over time.",
+        "detail": [
+          "The board reinstated Huang as CEO, president and director on 23 Nov, citing input from senior levels of the US government that his return posed no national security risk; CFO Colette Kress had been interim CEO since 12 Nov.",
+          "Nvidia added roughly $900bn+ in market cap (the total value of its shares) in a day, dragging the S&P 500 out of last week's correction (a fall of 10%+ from a recent high) with a 4.7% gain.",
+          "Governance concerns remain: the board's independent committee investigation continues and three House committees still plan a closed-door interview in December, so key-person risk (dependence on one executive) has not gone away.",
+          "Separately, reported SEC questions about circular financing (investing in customers who then buy your chips) are unresolved, so volatility (how sharply prices swing) is likely to stay high."
+        ],
+        "tags": [
+          "tech",
+          "equities",
+          "governance"
+        ]
+      },
+      {
+        "headline": "CrowdStrike agrees to buy rival Zscaler for $44bn in the biggest cybersecurity takeover ever",
+        "simple": "Two of the largest cybersecurity companies are joining together, paid for with CrowdStrike shares rather than cash. They say customers want one supplier as AI makes hacking easier.",
+        "interview_line": "It shows strategic M&A is still happening despite the market wobble: big buyers are using their own shares as currency to consolidate fragmented software sectors.",
+        "detail": [
+          "All-stock deal (paid in the buyer's shares, not cash): Zscaler holders get 1.135 CrowdStrike shares each, implying $260.41 per share, a ~34% premium (price paid above the pre-deal share price).",
+          "CrowdStrike holders will own ~84% of the combined group; founder Jay Chaudhry (~34% of Zscaler) has signed voting agreements (promises to vote for the deal), making approval more likely.",
+          "Targets ~$1bn of annual run-rate revenue synergies (extra sales from cross-selling, measured at the current annual pace) within 30 months; closing expected in calendar 2027 subject to antitrust review (competition regulators checking it doesn't hurt customers).",
+          "CrowdStrike shares fell ~7% pre-market on dilution (existing holders owning a smaller slice) while Zscaler rose ~20%, the usual acquirer-down, target-up pattern."
+        ],
+        "tags": [
+          "m&a",
+          "tech",
+          "cybersecurity"
+        ]
+      },
+      {
+        "headline": "Private equity firm GTCR revives a possible $50bn buyout of Global Payments",
+        "simple": "GTCR, the biggest shareholder in card-payments firm Global Payments, is again looking at buying the whole company and is lining up other investors to help pay. Earlier talks fell apart because raising that much money was too hard.",
+        "interview_line": "A $50bn buyout would be a real test of whether private credit and bank lenders will fund mega-deals when rates are still heading up.",
+        "detail": [
+          "GTCR, which owns ~16% of Global Payments, confirmed in an SEC filing on 20 Nov that it is exploring a take-private (buying all public shares so the company delists), valued at about $50bn including debt.",
+          "Talks ended on 12 Nov over financing difficulty and partner Clayton Dubilier & Rice dropped out; GTCR is now seeking other sponsors (private equity backers) to form a club deal (several funds buying jointly).",
+          "Global Payments already carries ~$22bn of debt, so a leveraged buyout (purchase funded mostly by borrowing) would need a very large debt package from banks and private credit (non-bank lenders) at a time when the Fed is expected to raise rates in December.",
+          "Shares rose ~10% on the report, but no bid is guaranteed; the stock now embeds a takeover premium that could unwind if financing fails."
+        ],
+        "tags": [
+          "m&a",
+          "private equity",
+          "credit"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Tech M&A: CrowdStrike–Zscaler shows strategic buyers will still do large all-stock deals when their share prices recover, which should revive consolidation talks across software and cybersecurity and fees for advisers on both sides.",
+      "Leveraged finance: a GTCR club deal for Global Payments would need one of the year's biggest LBO debt packages, testing appetite among banks and private credit lenders as a December Fed hike (~95% priced) keeps borrowing costs high.",
+      "ECM: Monday's 4.7% rebound and a softer VIX reopen a window for IPOs and follow-ons postponed last week, but governance questions at Nvidia mean volatility could shut it again quickly, so issuers may rush to launch before year-end."
+    ],
+    "left_field_question": "Nvidia's board reversed its CEO decision after pressure from the White House. Should investors worry when governments get involved in who runs a private company?",
+    "left_field_answer": "Yes, because shareholders rely on boards acting independently in their interest, and political involvement can bring decisions that suit national goals over returns. In the short term markets liked the outcome, but over time it can raise the risk premium (extra return investors demand) on strategically important companies, much as it does for state-influenced firms in other countries."
+  },
+  {
     "id": "2026-11-23",
     "date": "2026-11-23",
     "market_snapshot": "Fri close: S&P 500 -3.7% to 6,910 (in correction, -8.6% on week) · Nasdaq -5.3% to 22,618 (negative for 2026) · Dow -1.9% to 48,147 · Nvidia -14% · VIX 35.9 · US 10y -10bp to ~4.94% · Brent ~$92.6 · WTI ~$83.4 · Gold +~2% to ~$3,600 · USD/JPY ~159 · Mon: S&P futures ~+1%, Nasdaq futures ~+2% · ft.com not reachable; figures from secondary outlets and approximate",
