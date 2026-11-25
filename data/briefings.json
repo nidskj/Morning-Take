@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-25",
+    "date": "2026-11-25",
+    "market_snapshot": "Tue close: Dow +0.9% to ~50,029 (first close above 50,000) · S&P 500 -0.5% to 7,201 · Nasdaq -1.5% · Philly chip index -7.6% · Nvidia -5.9% to $155 · Anthropic -6.5% to $81.91 (below $83 IPO price) · US 10y ~4.93% · WTI ~$82.5 · dollar near strongest since Apr 2025 · Fed Dec hike ~95%+ priced · ft.com not reachable; figures from secondary outlets and approximate",
+    "stories": [
+      {
+        "headline": "Tesla and SpaceX are in talks to merge in a deal that would value the combined company at about $3.5tn",
+        "simple": "Elon Musk's car company and his rocket company are discussing becoming one company, paid for by swapping shares rather than cash. If it goes ahead, it would be the biggest merger ever.",
+        "interview_line": "The hard part is governance, not valuation: Musk sits on both sides, so the special committees have to show Tesla's minority shareholders they are getting a fair exchange ratio.",
+        "detail": [
+          "The FT reports both boards have set up special committees (groups of independent directors who negotiate when an insider like Musk has a conflict of interest); three Tesla and two SpaceX directors lead the talks, aiming for a year-end deadline.",
+          "It would be an all-stock deal (paid in the buyer's shares, not cash), so the exchange ratio (how many new shares each Tesla share converts into) is the key number, and none has been agreed.",
+          "Advisers reportedly include Evercore for Tesla and Morgan Stanley and Goldman Sachs for SpaceX; the fairness opinion (a bank's formal view that the price is fair to shareholders) will face intense scrutiny.",
+          "Musk controls about 84% of SpaceX votes but only about 20% of Tesla's, and a deal would need a majority of all outstanding Tesla votes, not just votes cast, which is a high bar given retail investors who don't vote."
+        ],
+        "tags": [
+          "m&a",
+          "tech",
+          "governance"
+        ]
+      },
+      {
+        "headline": "French drugmaker Sanofi agrees to buy US lung-disease specialist Insmed for $41bn in cash",
+        "simple": "Sanofi is buying Insmed to get its new lung drug and replace sales it will lose as its biggest medicines face cheaper copies. It is the largest pharma deal in three years.",
+        "interview_line": "It's a classic patent-cliff deal: big pharma has the balance sheet and needs growth, so it's paying up for late-stage biotechs with proven drugs, and it signals that big-ticket debt-funded M&A is open again.",
+        "detail": [
+          "Sanofi pays $175 a share, about $41.0bn equity value (the price for all the shares, before debt), a roughly 46% premium (amount above the undisturbed share price) to Insmed's close on 18 Nov, before media reports of the talks.",
+          "Funded with new debt and cash, backed by committed financing (banks promising the money upfront so the deal doesn't depend on markets), which means a large bridge loan (short-term loan later refinanced with bonds) and a jumbo bond issue are likely.",
+          "Sanofi expects the deal to be accretive (raise earnings per share) by the end of 2028; closing is targeted for H1 2027, subject to Insmed shareholder and antitrust (competition) approvals.",
+          "Insmed traded around $170, just under the offer, a small merger-arb spread (gap between market price and offer price that reflects the risk the deal fails)."
+        ],
+        "tags": [
+          "m&a",
+          "healthcare",
+          "credit"
+        ]
+      },
+      {
+        "headline": "Chip stocks fall sharply again and newly listed Anthropic drops below its IPO price",
+        "simple": "The day after Nvidia's comeback rally, AI chip stocks fell hard again and Anthropic's shares slipped below the price new investors paid last week. Investors are still unsure whether the huge spending on AI will pay off.",
+        "interview_line": "When a record IPO trades below its offer price within a week, it tells you sentiment has turned, and bankers will price the next AI listings more cautiously.",
+        "detail": [
+          "The Philadelphia Semiconductor Index (a benchmark of US chip stocks) fell about 7.6%: Nvidia -5.9%, AMD -9%, Micron -10%+, reversing much of Monday's rebound after Jensen Huang was reinstated as CEO.",
+          "Anthropic closed at $81.91, below its $83 IPO price; 'breaking issue' (trading below the offer price) hurts investors who bought in the IPO and makes underwriters' stabilisation (banks buying shares to support the price) harder.",
+          "Rotation (money moving from one sector to another) lifted the Dow above 50,000 for the first time as investors moved from tech into industrials, healthcare and other value stocks (companies priced cheaply relative to earnings).",
+          "Worries include AI capex (capital expenditure, money spent on chips and data centres) sustainability, tighter export controls on AI chips, and a near-certain Fed hike in December lifting the discount rate (the rate used to value future profits)."
+        ],
+        "tags": [
+          "equities",
+          "tech",
+          "ecm"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "M&A momentum is strong despite volatile markets: Sanofi–Insmed ($41bn cash) after CrowdStrike–Zscaler ($44bn stock) shows corporate buyers are still doing deals, and healthcare and tech consolidation are active sectors to watch",
+      "Financing is open but costly: Sanofi's committed debt financing means bridge loans and jumbo investment-grade bonds for DCM teams, though a ~4.9% 10y yield and an expected December Fed hike raise the cost of borrowing for leveraged deals",
+      "ECM windows are wobbling: Anthropic trading below its IPO price and the chip sell-off could delay pending AI listings or push them to lower valuations, while Tesla–SpaceX would bring huge advisory fees and fairness-opinion work"
+    ],
+    "left_field_question": "If Tesla and SpaceX merge, would you value the combined company as a car maker, a space company, or something else, and how would you check whether Tesla shareholders get a fair deal?",
+    "left_field_answer": "I'd use a sum-of-the-parts valuation: value each business separately (autos on earnings multiples like peers, SpaceX/Starlink on revenue growth and comparable private-market rounds) and add them up. Fairness to Tesla holders comes down to the exchange ratio versus each company's standalone value, so I'd stress-test SpaceX's private valuation, since it hasn't been tested in public markets, and look at what share of the combined company Tesla holders end up owning compared with what they contribute."
+  },
+  {
     "id": "2026-11-24",
     "date": "2026-11-24",
     "market_snapshot": "Mon close: S&P 500 +4.7% to 7,237 · Nasdaq +6.5% to 24,090 (best day since Apr 2025) · Dow +3.0% to 49,595 · Nvidia +31% to $165 · US 10y ~4.92%, slipping below 5% in Asia · Brent ~$89 (near 3-month low) · WTI ~$80 · Nasdaq futures softer after the close · Fed Dec hike ~95% priced · ft.com not reachable; figures from secondary outlets and approximate",
