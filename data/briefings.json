@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-11-27",
+    "date": "2026-11-27",
+    "market_snapshot": "US half-day after Thanksgiving · S&P 500/Nasdaq 100 futures up strongly (Nasdaq fut. ~+2.4% at one point) · Stoxx 600 ~+0.85% early, ~+1.8% on week but ~-1.5% for Nov · DAX ~+0.7% to ~25,400 · FTSE 100 ~+0.6% · Kosdaq ~+6.7% on chip rebound · US 10y ~4.91% (+7bp) · 2y ~4.69% · Brent ~$96-98 (first weekly gain in a month, Houthi strikes on Saudi refineries) · WTI ~$86 · Gold ~+2-3% to ~$3,630 · Dollar index flat on week after 19-month high Mon · ft.com not reachable; figures from secondary outlets, intraday and approximate, no reliable FX pair quotes",
+    "stories": [
+      {
+        "headline": "Altria, the maker of Marlboro in the US, is weighing a cash bid for Britain's Imperial Brands, and Japan Tobacco may join in",
+        "simple": "America's biggest cigarette company may buy Imperial, the UK firm behind brands like Davidoff and JPS, for cash. Japan Tobacco could team up to take some of Imperial's countries.",
+        "interview_line": "Tobacco's volumes are shrinking, so the big players are buying each other for cash flow and scale, and a split bid with Japan Tobacco would let each buyer keep only the markets it wants.",
+        "detail": [
+          "Altria confirmed it is considering a possible all-cash offer and talking to a third party that may buy part of the business; Bloomberg reports Japan Tobacco has hired advisers and is weighing a carve-up by geography.",
+          "Under the UK Takeover Code (the rulebook for bids for UK-listed companies) Altria now has a 'put up or shut up' deadline (a 28-day limit to make a firm offer or walk away for six months) of 5pm on 24 December.",
+          "Imperial is worth roughly £26bn ($34bn) after its share jump, so with a control premium (the extra over market price paid to win control) and debt, the enterprise value (equity plus net debt) would be well above $40bn, among the largest UK takeovers in years.",
+          "A cash deal of this size needs big acquisition financing (bridge loans later refinanced with bonds), and a two-buyer split raises antitrust (competition-law) and execution risk, as each region must be valued and agreed separately."
+        ],
+        "tags": [
+          "m&a",
+          "consumer",
+          "financing"
+        ]
+      },
+      {
+        "headline": "Nvidia stops sending AI servers to four Southeast Asian countries after new US export rules",
+        "simple": "Nvidia has told Dell and Supermicro to stop shipping its AI computers to Malaysia, Singapore, Thailand and Indonesia. The US worries chips are reaching China through these countries.",
+        "interview_line": "Washington is closing the Southeast Asia back door to China, and the cost is landing on the region's data centre boom and the lenders funding it.",
+        "detail": [
+          "A US Commerce Department rule (effective 19 Nov) now requires export licences (government permission to ship) for advanced AI chips to those four countries and Brazil; the FT reports Nvidia paused complete-server shipments with no set end date while it checks partners' compliance.",
+          "The worry is transshipment (goods passing through a third country to reach a banned buyer) and data centres renting compute to Chinese firms such as ByteDance, Alibaba and Tencent, which now need separate licences within 90 days.",
+          "Lenders have reportedly paused billions in data centre project finance (loans repaid from a project's own cash flows), and ByteDance-linked DayOne Data Centers has shelved its planned US IPO (initial public offering, a first share sale).",
+          "Fitch says neoclouds (newer cloud firms that rent out GPU capacity) relying on Chinese customers face higher credit risk; Malaysia's Johor hub is most exposed."
+        ],
+        "tags": [
+          "tech",
+          "trade",
+          "credit"
+        ]
+      },
+      {
+        "headline": "The Bank of England lets big UK banks hold less spare cash so they can lend more",
+        "simple": "The Bank of England says big UK banks can keep a bit less money set aside as a safety cushion. It thinks this frees up about £175bn for loans to households and companies.",
+        "interview_line": "It's the clearest sign yet that UK regulators now put growth ahead of tighter rules, though the Bank paired it with a warning about AI-related debt and rising bond yields.",
+        "detail": [
+          "In its Financial Stability Report the FPC (Financial Policy Committee, the BoE body that guards against system-wide risk) cut the benchmark Tier 1 capital requirement (the core equity-like money banks must hold against losses) for major banks from 13.1% to 12.8% of RWAs (risk-weighted assets, loans weighted by riskiness).",
+          "The cut is about 30bp (basis points, hundredths of a percentage point) for major banks and about 60bp for the most UK-focused lenders like Lloyds and NatWest, which argued that overlapping rules counted the same risks twice.",
+          "The countercyclical buffer (extra capital raised in good times, released in bad) stays at 2%; the PRA (Prudential Regulation Authority, the bank supervisor) will consult on further changes, with leverage ratio (capital against total assets, ignoring risk) changes expected in early 2027.",
+          "Lower requirements leave more room for buybacks, dividends and lending, and the same report flagged about $4tn of AI-linked debt and rising yields as growing risks."
+        ],
+        "tags": [
+          "banking",
+          "regulation",
+          "uk"
+        ]
+      }
+    ],
+    "ibd_relevance": [
+      "Imperial is a live public-to-public mega-deal: buy-side and defence mandates, a probable consortium carve-up, and a multi-billion bridge-to-bond financing package, plus a signal that cash-rich mature sectors will pay up for scale even with the 10y near 4.9%.",
+      "US chip export curbs freeze Southeast Asia data centre loans and IPOs (DayOne), so AI-infrastructure ECM and project-finance pipelines slow, while restructuring, sell-side and recapitalisation work picks up for exposed neocloud and data centre operators.",
+      "BoE capital relief frees balance sheet at Lloyds, NatWest and peers: more room for lending, buybacks and bolt-on deals, which supports UK FIG M&A, capital-markets activity and cheaper loan financing for UK corporate clients."
+    ],
+    "left_field_question": "If two buyers want to split Imperial Brands by geography, how do you get them to agree on who pays what?",
+    "left_field_answer": "You'd build a sum-of-the-parts valuation by region (US, Europe, Africa/Asia, next-generation products) so each buyer prices only what it keeps, then allocate shared debt, central costs and tax leakage from separating the assets. The main risks are execution and trust, so you'd want a single lead bidder with binding back-to-back agreements, committed financing on both sides and an antitrust plan so neither half can derail the whole offer."
+  },
+  {
     "id": "2026-11-26",
     "date": "2026-11-26",
     "market_snapshot": "US closed for Thanksgiving · Wed close: S&P 500 -0.25% to 7,183 (was -3.2% intraday) · Dow +0.3% to 50,183 (erased 1,100-pt drop) · Nasdaq -0.6% · Thu Europe: Stoxx 600 ~+1.4% · DAX ~+1.7% · FTSE 100 ~+1.3% · US 10y ~4.87% (from 4.91%) · WTI ~$84 · Brent ~$89.6 · Oct core PCE 3.3% y/y, Fed Dec hike priced · ft.com not reachable; figures from secondary outlets and approximate, no reliable FX quote",
